@@ -1,0 +1,1090 @@
+[
+  {
+    "subreddit": "movies",
+    "title": "‘Backrooms’ Becomes A24’s Highest Grossing Domestic Release ($97.8M), Passing ‘Marty Supreme’",
+    "author": "MarvelsGrantMan136",
+    "score": 17435,
+    "created_utc": 1780501106,
+    "url": "https://deadline.com/2026/06/backrooms-box-office-record-a24-1236939795/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1tvt30p/backrooms_becomes_a24s_highest_grossing_domestic/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "New poster for Christopher Nolan’s ‘The Odyssey’",
+    "author": "SpeedForce2022",
+    "score": 8030,
+    "created_utc": 1780509642,
+    "url": "https://i.redd.it/ugi9wo3bx35h1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/ugi9wo3bx35h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1tvxb1g/new_poster_for_christopher_nolans_the_odyssey/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Christopher Nolan's 'The Odyssey' is officially Rated 'R'",
+    "author": "ChiefLeef22",
+    "score": 7487,
+    "created_utc": 1780571837,
+    "url": "https://www.tclchinesetheatres.com/films/IMAX-70mm-The-Odyssey/HO00001469",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twkmju/christopher_nolans_the_odyssey_is_officially/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Tom Holland Says He’s Turned Down Hosting ‘SNL’ Multiple Times Because He’s “So Petrified” of Reading Cue Cards Due to His Dyslexia",
+    "author": "Gato1980",
+    "score": 6855,
+    "created_utc": 1780594541,
+    "url": "https://deadline.com/2026/06/tom-holland-petrified-hosting-snl-dyslexia-1236940535/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twunll/tom_holland_says_hes_turned_down_hosting_snl/"
+  },
+  {
+    "subreddit": "logodesign",
+    "title": "ANVIL Icon + Wordmark",
+    "author": "k00k327",
+    "score": 6650,
+    "created_utc": 1780490354,
+    "url": "https://i.redd.it/692rza3xb25h1.gif",
+    "selftext": "Long time lurker with plenty of critiques under my belt… Thought I’d put myself out there. This is my logo for my freelance venture, Anvil Design Co.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/692rza3xb25h1.gif"
+    ],
+    "videos": [],
+    "topic": "design",
+    "permalink": "/r/logodesign/comments/1tvo44c/anvil_icon_wordmark/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "'The Odyssey' website shows you how the film looks in different aspect ratios",
+    "author": "GiveMeSomeSunshine3",
+    "score": 5743,
+    "created_utc": 1780605187,
+    "url": "https://v.redd.it/2bmt2q6osb5h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/2bmt2q6osb5h1/HLSPlaylist.m3u8?a=1783224237%2CNDRiYTc4MTYzNjNlMjgxOGRlNGUyM2U4Y2U3YTE1YWU2YWZjYTIwYTBlZjdmZDYxZjYwNDVkZGExMjJlNzQzMA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/MXNnNnZ1Nm9zYjVoMUfGSSaY0DyK3Qemdy9czIITDyU0oMXGtdkPxyDJTcii.png?format=pjpg&auto=webp&s=201a889a7983e5ab4c20a5e4bd215a3dda7e32ae"
+      }
+    ],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twznvd/the_odyssey_website_shows_you_how_the_film_looks/"
+  },
+  {
+    "subreddit": "television",
+    "title": "'Widow's Bay' - Guillermo del Toro Calls Horror-Comedy the Best Streaming Series in Years",
+    "author": "MoneyLibrarian9032",
+    "score": 5728,
+    "created_utc": 1780500854,
+    "url": "https://bloody-disgusting.com/tv/3953982/widows-bay-guillermo-del-toro-calls-horror-comedy-the-best-streaming-series-in-years/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tvsyou/widows_bay_guillermo_del_toro_calls_horrorcomedy/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Grains tearing apart, simulated entirely in Blender",
+    "author": "MaxMilez",
+    "score": 5628,
+    "created_utc": 1780552761,
+    "url": "https://v.redd.it/zasq565fh75h1",
+    "selftext": "I've been been deep in a rabbit hole building a GPU grain solver with full glue constraints. Particles bond together and break by distance, kind of like a poor man's Houdini Vellum. It works really well for sand and snow as well.\n\nBlender's simulation tools have always lagged behind, so this has been my attempt at closing the gap a little. This clip is one of my tear tests. Still a little rough around the edges but I'm pretty happy with where it's heading.\n\nCurious what people think.\n\n\\-------------\n\n*Edit:* *Wow, didn't really expect this. Thank you for the kind words! Figured it's easier to just cover the common questions here instead of answering one by one.*\n\n*The sim absolutely behaves like dough. I just had to make it disgusting with the shader.*\n\n**\"Is this made in Geometry Nodes?\"**\n\nNo, I realize the title was a bit misleading. It's an addon. The codebase for the solver is currently sitting at around 18,500 lines. You will have the option to export your sims to Geometry Nodes though.\n\n**\"Will it be released?\"**\n\nYes, that is the plan. It's still very much in development right now. I'll try and make it as solid as I can. There are still some kinks to sort out in the meshing stage and some general polishing to do, but hopefully it will be released soon.\n\n**\"Render /caching times?\"**\n\nThe Point cache and meshing info is down in the bottom of the video. It's quite small and the player kind of hides it. But the combined time for both the point cache and the alembic meshing for this particular sim is 2 hours and 53 minutes. The meshing stage often takes more time than the actual point simulation itself. The render took 1 hour and 15 minutes.\n\nThanks again for the support and the funny comments!",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/zasq565fh75h1/HLSPlaylist.m3u8?a=1783224285%2COGY1YmFiOTljNWI0OGE0OGQ2ZTlhOTk1YjAyYjAzY2MxYTQwNWVmMDhkNDgwZTk0OGRiNGRhMzYxNTY2ZDViMg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/cWFub2FpNWZoNzVoMVn4AZ6XzIyVtgRhsj-bi1cDq2Jal_Z1OOrg80Qqzisr.png?format=pjpg&auto=webp&s=5c620682445d8e98f37f3f653c3b69f497beb0e2"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1tweut4/grains_tearing_apart_simulated_entirely_in_blender/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Modeling a happy horse",
+    "author": "Pepeu_32",
+    "score": 4946,
+    "created_utc": 1780502530,
+    "url": "https://www.reddit.com/gallery/1tvtsfd",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/le5e3f85c35h1.png?width=2000&format=png&auto=webp&s=c9b892477cc8003f798bbd39decbf5f2bf4d557a",
+      "https://preview.redd.it/xh8xfcm5c35h1.png?width=2000&format=png&auto=webp&s=fff9047e564ded273fe55e2067e5a3750589309d",
+      "https://preview.redd.it/vswsirg5c35h1.png?width=2000&format=png&auto=webp&s=c9cf9ac107dc85e4cdf28317dbe2e70769f5fce9"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1tvtsfd/modeling_a_happy_horse/"
+  },
+  {
+    "subreddit": "ChatGPT",
+    "title": "Generate a screenshot of a Windows 7 desktop in the early 2010s",
+    "author": "IFreakingLoveOranges",
+    "score": 4391,
+    "created_utc": 1780574878,
+    "url": "https://i.redd.it/b30w6vd6b95h1.jpeg",
+    "selftext": "Been experimenting with a bunch of screenshot images and chatGPT is surprisingly good at generating UI’s",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/b30w6vd6b95h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/ChatGPT/comments/1twlqa1/generate_a_screenshot_of_a_windows_7_desktop_in/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Medusa, Dagam, Digital, 2026",
+    "author": "Ok-Fun-7813",
+    "score": 3501,
+    "created_utc": 1780579799,
+    "url": "https://i.redd.it/8g7upg3lp95h1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/8g7upg3lp95h1.png"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1twnqph/medusa_dagam_digital_2026/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Jordan Peele Turned Down a Role in New ‘Scary Movie,’ Which Features ‘Get Out’ Spoof",
+    "author": "MarvelsGrantMan136",
+    "score": 2767,
+    "created_utc": 1780599418,
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/jordan-peele-turned-down-new-scary-movie-get-out-spoof-1236613866/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twx0az/jordan_peele_turned_down_a_role_in_new_scary/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Official IMAX Poster for 'The Odyssey'",
+    "author": "MarvelsGrantMan136",
+    "score": 2623,
+    "created_utc": 1780588831,
+    "url": "https://i.redd.it/gbckluorga5h1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/gbckluorga5h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twrwwm/official_imax_poster_for_the_odyssey/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Carey Means, the Voice of Aqua Teen's Frylock, Says He and His Wife Are Facing Homelessness",
+    "author": "SleuthDoggyDawg",
+    "score": 2536,
+    "created_utc": 1780599822,
+    "url": "https://consequence.net/2026/06/carey-means-aqua-teen-hunger-force/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twx7en/carey_means_the_voice_of_aqua_teens_frylock_says/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Drones enforcing traffics rules in Shenzhen",
+    "author": "Affectionate_Bee6434",
+    "score": 2265,
+    "created_utc": 1780406644,
+    "url": "https://v.redd.it/y1urqs51fv4h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/y1urqs51fv4h1/HLSPlaylist.m3u8?a=1783224303%2CNDI2ZGMwM2M3MmU0OTFmOGU3ZDA4MzQwYTE5YjYyZDgxYjg4NzQ1MWFlZWJkZDE4MDU1NTVhYWI4MmEwY2YxMA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/aG5tZ2sweTBmdjRoMXyHJ_qn8dpto_EwBArthBJoJhidqZT26XdLuiGQ2L2I.png?format=pjpg&auto=webp&s=619858f7520a04723f9438047697a05dc344732f"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1tuqvhr/drones_enforcing_traffics_rules_in_shenzhen/"
+  },
+  {
+    "subreddit": "ChatGPT",
+    "title": "“Create a pic of the average Reddit mod”",
+    "author": "Some-Profession-1373",
+    "score": 2236,
+    "created_utc": 1780505659,
+    "url": "https://i.redd.it/f7jijxngl35h1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/f7jijxngl35h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/ChatGPT/comments/1tvvck2/create_a_pic_of_the_average_reddit_mod/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Spider-Man Noir creator gives his verdict on Nicolas Cage adaptation: \"Aunt May would be scathing\"",
+    "author": "allstoriesinthe3nd",
+    "score": 1962,
+    "created_utc": 1780492216,
+    "url": "https://www.radiotimes.com/tv/sci-fi/spider-man-noir-creator-nicolas-cage-verdict-exclusive-newsupdate/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tvowna/spiderman_noir_creator_gives_his_verdict_on/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "'Scary Movie' - Review Thread",
+    "author": "ChiefLeef22",
+    "score": 1774,
+    "created_utc": 1780577940,
+    "url": "https://www.reddit.com/r/movies/comments/1twmxp1/scary_movie_review_thread/",
+    "selftext": "*Twenty-six years after outrunning a suspiciously familiar masked killer, Shorty, Ray, Cindy and Brenda find themselves targeted by another mad slasher.*\n\nDirector: Michael Tiddes\n\nCast: Anna Faris, Marlon Wayans, Shaun Wayans, Dave Sheridan, Regina Hall, Jon Abrahams, Olivia Rose Keegan\n\n**Rotten Tomatoes:** [33%](https://www.rottentomatoes.com/m/scary_movie_2026)\n\n**Metacritic:** [35 / 100](https://www.metacritic.com/movie/scary-movie-6/)\n\nSome Reviews (updating):\n\n[The Prague Reporter - Jason Pirodsky](https://www.praguereporter.com/home/2026/6/3/scary-movie-scary-movie-6-review-ghostface-goofs-off-in-wayans-family-stab-at-a-comeback/) \\- 3 / 4\n\n&gt;These spoof movies got lazy and went out of style during the Friedberg-Seltzer era, but genuine effort was expended here, including some vibrant performances (Faris and Hall have still got it) and lush widescreen cinematography by Terry Stacey that blows Scream 7 out of the water. Kudos to Marlon Wayans and director Michael Tiddes (really upping their game since previous collaborations A Haunted House and Fifty Shades of Black) for giving a shit and going all out this time around; here’s hoping they can churn out another one while recent hits like Backrooms and Obsession are still relevant.\n\n[The Jam Report - Doug Jamieson](https://thejamreport.com/2026/06/04/review-scary-movie-is-a-few-brilliant-jokes-trapped-inside-a-disappointing-reboot/) \\- 2 / 5\n\n&gt;The saddest part is that you can occasionally glimpse the version of ***Scary Movie*** that might have been. A version that embraced total chaos. A version willing to offend, surprise and genuinely innovate within the parody genre once again. Instead, we get a reboot that’s mildly amusing when it should have been hilarious. A few brilliant jokes can’t save a comeback this disappointing. The old gang still delivers. It’s everything around them that doesn’t.\n\n[Associated Press - Mark Kennedy](https://apnews.com/article/scary-movie-6-review-6d7a115f529355b96801851ac4d50530) \\- 1.5 / 4\n\n&gt;Can you parody your own previous parody? While we’re at it, why is “Scream” so lazily and heavily leaned on in 2026? Why are there so many sex toys? And how much did Angry Orchard hard cider pay for its product placement? It’s best not to ask such deep questions. “I know who goes to a Wayans brother movie,” says Taylor before she assaults Ghostface. She’s right: It’s us, willing to slog through tons of gross-out misfires for that one, great killer bit.\n\n[Dread Central - Josh Korngut](https://www.dreadcentral.com/reviews/575639/scary-movie-2026-is-just-not-funny-review/) \\- 2 / 5\n\n&gt;The 6th 'Scary Movie' commits the biggest sin of the franchise - it's just not very funny.\n\n[Slash Film - Witney Seibold](https://www.slashfilm.com/2187288/scary-movie-2026-review/) \\- 2.5 / 10\n\n&gt;\"Scary Movie\" thinks offensive queer jokes and topical references stand in for a perspective. Instead, it's a bunch of kids wiping boogers on each other and giggling. That might make you laugh when you're five, I suppose. \"Scary Movie\" hovers around that level of intelligence.\n\n[Radio Times - Rosie Fletcher](https://www.radiotimes.com/movies/scary-movie-2026-review/) \\- 2 / 5\n\n&gt;Which is almost certainly true of the target demographic for Scary Movie – it’s hard to see a world where young folk not brought up on the originals, who probably weren’t born when Scream came out, would have any interest in this old-fashioned format which isn’t funny, certainly isn’t scary (not that it tries to be) and feels about as current as a Carry On film. Instead it’s an unchallenging stinky old sweater of a movie, which might be deeply unfashionable and unappealing but reminds you of the days when you could smoke inside pubs and people used landlines. And if you’ve made the effort to watch this, you might as well stay for the two post-credits sequences – more of the same, but you know what you’re getting at least.\n\n[Empire Magazine - Kim Newman](https://www.empireonline.com/movies/reviews/scary-movie-2026/) \\- 2 / 5\n\n&gt;The posters — inspired parodies of recent horror films — are wittier than the film, suggesting that maybe next time get those ad creatives into the writers’ room. Not your favourite Scary Movie.\n\n[Next Best Picture - Dan Bayer](https://nextbestpicture.com/scary-movie/) \\- 5 / 10\n\n&gt;The “Scary Movie“ films have always focused more on easy, cheap laughs than cutting satire, but if you’re gonna put jokes about pronouns and January 6 in your movie, long after all the good jokes about them have been made, your jokes better have a point. The returning cast, as ever, is game to do every wild and crazy thing the screenplay calls for, and the new cast members match them shot for roofied Jell-O shot (special shout-out to Keegan, who channels Faris’s energy and way of speaking with uncanny accuracy). Their infectious energy saves “Scary Movie“ when the jokes fail, which happens often enough to keep this from being top-tier in the franchise. Thankfully, the bits that land do so with the force of a canister of nitrous oxide. It’s a quick, artificial high, but it’ll make you laugh.\n\n[Collider - Aidan Kelley](https://collider.com/scary-movie-6-movie-review-anna-faris-regina-hall/) \\- 5 / 10\n\n&gt;***The Naked Gun***, another Paramount property, did a remarkable job of elevating that franchise's brand of humor to do genuinely new and exciting concepts, feeling like a great return to form for the bygone era of slapstick comedies that are few and far between these days. *Scary Movie* had the potential to do the same, but instead of feeling like a fresh take on a classic concept, it feels like a slightly re-colored bag of old tricks. Ultimately, whether or not you will enjoy the new *Scary Movie* will depend on whether or not you liked the previous five. If you did, this one will feel like a silly reunion with an old friend. If you didn't, this one will not change your mind about the saga's over-the-top antics and gross-out shock humor.\n\n[DEADLINE - Pete Hammond](https://deadline.com/2026/06/scary-movie-review-wayans-return-after-25-years-1236940608/)\n\n&gt;Too much of this jokebook simply doesn’t land, and at the press screening Wednesday night I could feel large swaths of the movie just laying there. In pure Wayans fashion what could have been a smart take on *Sinners* instead turns into a homophobic routine that makes you cringe more than laugh. There is also the excessive use of the N word throughout, and a dopey martial arts fight with prosthetic penises rather than swords. Paramount has asked that we withhold any spoilers but quite frankly I wouldn’t know what to *spoil*. For the most part this edition, which promised to “Cancel Cancel Culture” doesn’t live up to that pledge. Its not easy spoofing a genre that virtually spoofs itself these days. How many times can we go back to the *Scream* well when the movie and its endless sequels and reboots does it for us?\n\n[CBR - Caralynn Matassa](https://www.cbr.com/scary-movie-2026-review/) \\- 4 / 10\n\n&gt;The Wayans Brothers and the rest of the cast clearly had a ton of fun reuniting to resurrect the franchise; that comes through on screen, as does their love of these characters. Unfortunately, audiences are unlikely to have even a fraction as much fun watching the result.\n\n[IndieWire - Alison Foreman](https://www.indiewire.com/criticism/movies/scary-movie-6-review-1235198058/) \\- 'C+'\n\n&gt;Watching “Scary Movie 6,” I found myself thinking about the 79-year-old filmmaker’s perspective often. Not because the work feels explicitly censored but because it seems in many ways dishonestly curated. If American satire increasingly arrives in theaters pre-shaped by corporate ideology and brand management, our shared understanding of recent film history could become troublingly selective. In that sense, the Wayans made it back for one last “Wazzzzup?” that proves they could reclaim the property if not its formerly killer point of view.\n\n[Variety - Owen Glieberman](https://variety.com/2026/film/reviews/scary-movie-review-anna-faris-marlon-wayans-1236765785/)\n\n&gt;I didn’t laugh out loud too much at “Scary Movie,” which is a lot less funny than last summer’s “Naked Gun” reboot, though it’s got the relentless energy of a mad-dog comedy. The majority of the jokes come off as more asserted than delighted. And maybe that’s because the film doesn’t feel like it’s discovering anything new about what’s happening between the lines of the “Scream” genre. There have been seven “Scream” films; this is the sixth “Scary Movie,” the first of which came out 26 years ago (and that one was a parody of “Scream”). The new film, which steps up to mock itself for being a “rebooty-call,” is as thick and layered with legacy characters, and also new characters, as the most convoluted straining-for-a-demographic-home-run “Scream” sequel. It’s jammed with spoof-genre history, but that makes it feel more exhausting than exhilarating. It’s a top-heavy satirical party that’s become so meta it’s meh.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twmxp1/scary_movie_review_thread/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Good job, clumsybot, now clean this up",
+    "author": "Anen-o-me",
+    "score": 1665,
+    "created_utc": 1780458129,
+    "url": "https://v.redd.it/diwdkzo4oz4h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/diwdkzo4oz4h1/HLSPlaylist.m3u8?a=1783224303%2CMjc1MzA1M2U3YzM0NGExYzZjNDZhZmZlY2Y5ZTQyNGNjNDUxYWFlYWYzOGQ5YTAyMzgyODUyYjlhMjdkZjBlOQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/dXBrdHlrbTRvejRoMWq1KnunE7BqxfAM08lJ6SfRmdv57AemLROu-PF-4ypK.png?format=pjpg&auto=webp&s=07c9876f7ac04d1c0bd38e6a6bdf6bc363cbb46a"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1tvdoy3/good_job_clumsybot_now_clean_this_up/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Marjane Satrapi Dies: Iranian-French ‘Persepolis’ &amp; ‘Radioactive’ Director Was 56",
+    "author": "MarvelsGrantMan136",
+    "score": 1624,
+    "created_utc": 1780563021,
+    "url": "https://deadline.com/2026/06/marjane-satrapi-dead-iranian-french-persepolis-56-1236940629/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twhvhq/marjane_satrapi_dies_iranianfrench_persepolis/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Finished The Wire, Dark, GOT, Sopranos, True Detective, BB, BCS. What show ruined TV for you after watching it?",
+    "author": "C0r1eone",
+    "score": 1590,
+    "created_utc": 1780552260,
+    "url": "https://www.reddit.com/r/television/comments/1twep5e/finished_the_wire_dark_got_sopranos_true/",
+    "selftext": "I think I accidentally watched the peak of television already. The Wire, Dark, GOT, Sopranos, True Detective S1 all left that “nothing else hits the same” feeling.\n\nI love slow-burn shows with deep characters, mystery, tension, moral grayness, crazy dialogue, or mind-blowing writing. Doesn’t matter if it’s crime, sci-fi, psychological, or political.\n\nWhat’s the next show that might completely consume me?",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twep5e/finished_the_wire_dark_got_sopranos_true/"
+  },
+  {
+    "subreddit": "Moviesinthemaking",
+    "title": "Behind the scenes of Obsession (2025)",
+    "author": "Str33twise84",
+    "score": 1523,
+    "created_utc": 1780107153,
+    "url": "https://www.reddit.com/gallery/1trmvje",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/9w3hukoho64h1.jpg?width=1082&format=pjpg&auto=webp&s=9bc2a9fef9e8d48f4d96329de23d56dd60cda42e",
+      "https://preview.redd.it/bhopmjoho64h1.jpg?width=1080&format=pjpg&auto=webp&s=5e8af4ab17ed72fa4f4badf02ff71991f21467ca",
+      "https://preview.redd.it/uhd7vjoho64h1.jpg?width=1080&format=pjpg&auto=webp&s=3327af357fc252711a646aa7560c12888ab64809",
+      "https://preview.redd.it/b09sljoho64h1.jpg?width=810&format=pjpg&auto=webp&s=8255a60fef7903cdd3ffeca900b43b42cbb085f6",
+      "https://preview.redd.it/3srvfjoho64h1.jpg?width=1080&format=pjpg&auto=webp&s=b3da36b7735bebd3225349cc6af5a313d707b57b",
+      "https://preview.redd.it/3jouiioho64h1.jpg?width=1080&format=pjpg&auto=webp&s=578b09de83aeff1dacf1c2ba347a0b9d4c38723f",
+      "https://preview.redd.it/6rjnqioho64h1.jpg?width=1080&format=pjpg&auto=webp&s=c3a9f7009b6c8e9a55f8042fb66fd375cf5bc797"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Moviesinthemaking/comments/1trmvje/behind_the_scenes_of_obsession_2025/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Official Poster for 'Motor City' Starring Alan Ritchson - In 1970s Detroit, a working-class romantic is framed by a ruthless gangster after falling for his girlfriend. After years in prison, he returns with only one mission: revenge.",
+    "author": "MarvelsGrantMan136",
+    "score": 1488,
+    "created_utc": 1780584673,
+    "url": "https://i.redd.it/zll3qia04a5h1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/zll3qia04a5h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twpxue/official_poster_for_motor_city_starring_alan/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Paramount’s Top Lawyer Claims Some Opponents of Warner Bros. Merger Are Engaging in ‘Fear Mongering’ Because of ‘Their Own Antisemitic Views’",
+    "author": "Mountain-Bid4317",
+    "score": 1373,
+    "created_utc": 1780502895,
+    "url": "https://variety.com/2026/film/news/paramount-lawyer-warner-bros-merger-opponents-antisemitic-views-1236764997/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tvtz5u/paramounts_top_lawyer_claims_some_opponents_of/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Official Poster for 'Ice Age: Boiling Point'",
+    "author": "MarvelsGrantMan136",
+    "score": 1304,
+    "created_utc": 1780588924,
+    "url": "https://i.redd.it/lfq0l1o1ha5h1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/lfq0l1o1ha5h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twryok/official_poster_for_ice_age_boiling_point/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Some recent prop modeling/texturing",
+    "author": "scrapmesh",
+    "score": 1256,
+    "created_utc": 1780574438,
+    "url": "https://www.reddit.com/gallery/1twlk4f",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/dtq4m05z995h1.jpg?width=2752&format=pjpg&auto=webp&s=c129b0941171aecc88f3da2803cc317a0cbd065b",
+      "https://preview.redd.it/a657uy4z995h1.jpg?width=2856&format=pjpg&auto=webp&s=66e6fc05dd588f29d52ef46014eb2613374057d0",
+      "https://preview.redd.it/tlbd805z995h1.jpg?width=2398&format=pjpg&auto=webp&s=7eab398eee5d6ef1bf1b53fbccd7ef9ac244eb64",
+      "https://preview.redd.it/pwi9d05z995h1.jpg?width=1951&format=pjpg&auto=webp&s=1c97c16851f221bd712abea7081c1671258c344d",
+      "https://preview.redd.it/lwvm4z4z995h1.jpg?width=2048&format=pjpg&auto=webp&s=bfaaad09b6595a9430fec1ed61d147cc1f3c408a"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1twlk4f/some_recent_prop_modelingtexturing/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Apple TV+ Beats Netflix in New Streaming Quality Rankings, New Index Shows",
+    "author": "MoneyLibrarian9032",
+    "score": 1215,
+    "created_utc": 1780592528,
+    "url": "https://otakukart.com/apple-tv-beats-netflix-in-new-streaming-quality-rankings-new-index-shows/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twtos4/apple_tv_beats_netflix_in_new_streaming_quality/"
+  },
+  {
+    "subreddit": "conceptart",
+    "title": "some practices from last week",
+    "author": "Ghostshiv",
+    "score": 970,
+    "created_utc": 1780500223,
+    "url": "https://www.reddit.com/gallery/1tvsnl9",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/r83ipmj8135h1.png?width=1080&format=png&auto=webp&s=8d93b1481a2817f0009434c8b39e87b8f73f11be",
+      "https://preview.redd.it/j343djj8135h1.png?width=1080&format=png&auto=webp&s=74be97d198d85294ea9d19af34bafd1610c31282",
+      "https://preview.redd.it/u867ryx5135h1.png?width=1080&format=png&auto=webp&s=b2a587750376063f55b52e6bd2b3ba18c7977b0b",
+      "https://preview.redd.it/6xlmmoj8135h1.png?width=1080&format=png&auto=webp&s=c88174d0c4240c1b1d2a8f26a0dc96d032c9040a"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/conceptart/comments/1tvsnl9/some_practices_from_last_week/"
+  },
+  {
+    "subreddit": "television",
+    "title": "‘Devil May Cry’ Renewed for Third and Final Season at Netflix",
+    "author": "Lulcielid",
+    "score": 920,
+    "created_utc": 1780587169,
+    "url": "https://variety.com/2026/tv/news/devil-may-cry-renewed-final-season-3-netflix-1236766762/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twr497/devil_may_cry_renewed_for_third_and_final_season/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "AI Beat Law Professors At Answering Questions, Study Finds—And It Wasn’t Close",
+    "author": "Tinac4",
+    "score": 883,
+    "created_utc": 1780502332,
+    "url": "https://www.forbes.com/sites/aliciapark/2026/06/02/stanford-study-finds-ai-beats-law-professors-75-of-the-time/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1tvtojx/ai_beat_law_professors_at_answering_questions/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Behind the scenes of the Zion rave from The Matrix Reloaded",
+    "author": "BromaEmpire",
+    "score": 874,
+    "created_utc": 1780538227,
+    "url": "https://v.redd.it/9kwhba14a65h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/9kwhba14a65h1/HLSPlaylist.m3u8?a=1783224237%2CZWRhNGYxNDU2NDE2YTg4ZWQwZDVmMmIyMWQ3NTYzNzZiZDhjMWI1OTVmNzVhNjUyZGZhYmE2N2U3ZTE5OGUzNg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/cjhmamFyMTRhNjVoMZsyTRoRGkvOOPizS_lS9vYelNRHtrEBIjJa7RosaZb4.png?format=pjpg&auto=webp&s=9bc79baceb6ef54e58d0754f81dcc707ab4ccf35"
+      }
+    ],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1tw9tu9/behind_the_scenes_of_the_zion_rave_from_the/"
+  },
+  {
+    "subreddit": "design",
+    "title": "Reddit hated my thermometer-tongs idea. I made a demo anyway.",
+    "author": "nicolasmemes",
+    "score": 870,
+    "created_utc": 1780557096,
+    "url": "https://www.reddit.com/gallery/1twg5yk",
+    "selftext": "I posted an idea a while back for BBQ tongs with a built-in instant-read thermometer.\n\nMost people were pretty skeptical. Fair enough.\n\nBut I am a product designer, and apparently I have a minor problem with letting ideas go. Nine out of ten things I design stay as sketches. This one annoyed me enough that I had to build a working demo.\n\nOne thing the video does not show very well: the probe can stay extended while you use the tongs normally. You do not need to fold it away after every temperature check. I was mainly showing that it folds back in neatly when you are done.\n\nAlso, it was my first time using the prototype, so I handled it with the confidence of someone defusing a BBQ-related explosive.\n\nAnyway, here it is.\n\nStill a terrible idea, slightly less terrible after seeing the demo, or worth improving for version 2?",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/31buxlpdu75h1.png?width=1662&format=png&auto=webp&s=9e493a151391396f9e250f3e2158bff9f49f7ebd",
+      "https://preview.redd.it/lk89blpdu75h1.png?width=1572&format=png&auto=webp&s=9acf06673ba32ba65aee846378df9bb693caf89d",
+      "https://preview.redd.it/53nhylpdu75h1.png?width=1581&format=png&auto=webp&s=5c8deb54323a129732e03a8101be82d683051bcf",
+      "https://preview.redd.it/z1t8qmpdu75h1.png?width=1674&format=png&auto=webp&s=267e7f73aeb7dbfd351e34244e85d359e1c06f05",
+      "https://preview.redd.it/5ur72fqdu75h1.png?width=1500&format=png&auto=webp&s=3aa4eaf3f7eb5c3d813b6c2d34ec5245ed6ba04d"
+    ],
+    "videos": [],
+    "topic": "design",
+    "permalink": "/r/Design/comments/1twg5yk/reddit_hated_my_thermometertongs_idea_i_made_a/"
+  },
+  {
+    "subreddit": "midjourney",
+    "title": "Hello is what a mirror says",
+    "author": "mueducationresearch",
+    "score": 847,
+    "created_utc": 1780545951,
+    "url": "https://v.redd.it/0ess9c07x65h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/0ess9c07x65h1/HLSPlaylist.m3u8?a=1783224307%2CMTEyNjA3ZGY2MDc0ZjNkNzQ4YjM1ODEwYmZlMWI5YjczMTVkM2U2OWE4YTRmOGFiOTllOWY1MTYzNzhmNTE3Nw%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/Z3hlcHRrazZ4NjVoMWuO9TyC17nT0DubhWdAuHxIJOZqSqOV4XMKgZd3xQOA.png?format=pjpg&auto=webp&s=044fd54f11f52c6b2b88d22b6b75ae564831b94f"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/midjourney/comments/1twcn1j/hello_is_what_a_mirror_says/"
+  },
+  {
+    "subreddit": "television",
+    "title": "‘Batman: Caped Crusader’ Season 2 Release Date &amp; First Look (All 10 episodes on July 31 2026)",
+    "author": "NoNefariousness2144",
+    "score": 830,
+    "created_utc": 1780586638,
+    "url": "https://www.ign.com/articles/batman-caped-crusader-season-2-release-date-photos",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twqval/batman_caped_crusader_season_2_release_date_first/"
+  },
+  {
+    "subreddit": "ChatGPT",
+    "title": "Create an image of the average instagrammer",
+    "author": "Old-Tour5654",
+    "score": 804,
+    "created_utc": 1780566161,
+    "url": "https://i.redd.it/pkb4pkb7l85h1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/pkb4pkb7l85h1.png"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/ChatGPT/comments/1twisg2/create_an_image_of_the_average_instagrammer/"
+  },
+  {
+    "subreddit": "ChatGPT",
+    "title": "Create a pic of the average Reddit user creating a pic of an average Reddit mod.",
+    "author": "Awkward_Buddy7350",
+    "score": 767,
+    "created_utc": 1780567701,
+    "url": "https://i.redd.it/zzq6yi2vp85h1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/zzq6yi2vp85h1.png"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/ChatGPT/comments/1twj9z3/create_a_pic_of_the_average_reddit_user_creating/"
+  },
+  {
+    "subreddit": "design",
+    "title": "TIL German scientists created drinking glasses that were very resistant to breakage. When they tried to sell it, vendors rejected it. Why? Vendors made more money when customers broke glasses and bought more.",
+    "author": "CopiousCool",
+    "score": 761,
+    "created_utc": 1780485321,
+    "url": "https://en.wikipedia.org/wiki/Superfest",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "design",
+    "permalink": "/r/Design/comments/1tvm82z/til_german_scientists_created_drinking_glasses/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "The Lost ‘Airbender’: How Paramount’s Movie Hack Spiraled Into a Crisis",
+    "author": "MarvelsGrantMan136",
+    "score": 758,
+    "created_utc": 1780578424,
+    "url": "https://www.hollywoodreporter.com/business/digital/last-airbender-movie-hack-paramount-1236604522/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twn5hx/the_lost_airbender_how_paramounts_movie_hack/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "Multiple characters Anima generations are so good. There is some bleeding but its only gonna get better",
+    "author": "Asphyxiem",
+    "score": 754,
+    "created_utc": 1780505215,
+    "url": "https://www.reddit.com/gallery/1tvv4j1",
+    "selftext": "I have attached my civitai profile it has all the workflows. I am still learning to prompt better so there will be some prompting, bleeding, anatomy issues. For the 4th image after I generated the image I used Grok to add \"Blair Witch\" stick figures into the image, rest all were done using Anima. I am excited for WAI Anima coming soon.  \n\n[https://civitai.red/user/Smexlo](https://civitai.red/user/Smexlo)",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/4qyfb7u8j35h1.jpg?width=896&format=pjpg&auto=webp&s=05e3a62cd6fac27d8991887fe1c4a7d4f80691fa",
+      "https://preview.redd.it/1etx3c62j35h1.png?width=896&format=png&auto=webp&s=cc92899628a9f4d0da39288c58556a9f4ff2a34c",
+      "https://preview.redd.it/wajyy6e9j35h1.png?width=896&format=png&auto=webp&s=c8fbd5792112954f6e5c23a656cdd4231d7aeebe",
+      "https://preview.redd.it/0t67cxy3j35h1.png?width=896&format=png&auto=webp&s=8ab27e2d247fcb0da0d033ca83d1fdcf1c37d32c",
+      "https://preview.redd.it/ad79mnm6j35h1.png?width=896&format=png&auto=webp&s=6c5050589ebb52d39169c117b2854a440cb1bfa4"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1tvv4j1/multiple_characters_anima_generations_are_so_good/"
+  },
+  {
+    "subreddit": "3Dmodeling",
+    "title": "Super proud of how this environment came out!",
+    "author": "SykarionArt",
+    "score": 723,
+    "created_utc": 1780491266,
+    "url": "https://v.redd.it/izsrpb72e25h1",
+    "selftext": "Tried to focus on modularity and having a strong master material to speed up my workflow. Had a bit of fun in sequencer too to create this timelapse. ",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/izsrpb72e25h1/HLSPlaylist.m3u8?a=1783224289%2CY2JmYjBhZWQwNzZhZTJlOWU0YmYwZmU3YjYxYzdhODQ4OTc2ZWJjYjk2NDllMjg1ZTIxYjM4MTlhYjJiYmYxOA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/Z3pxb3NwNzJlMjVoMb23YzI1TJ_XnUMuzspdApfYBCnNCZ6bLm6eTmP4rSG1.png?format=pjpg&auto=webp&s=93d36eb23838ca9808e791522a90497d8ddf1707"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/3Dmodeling/comments/1tvohoi/super_proud_of_how_this_environment_came_out/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "lowkey obsessed with how this came out",
+    "author": "Maleficent_Strategy8",
+    "score": 707,
+    "created_utc": 1780549170,
+    "url": "https://v.redd.it/o8nmy63s675h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/o8nmy63s675h1/HLSPlaylist.m3u8?a=1783224285%2CZjcyNjZiYWUyMDE2Mjc1N2YzZGY5YTU3NjBmNGVmZmE5ZGJlYmVhOGIzYTQ3NTg1YjBhYzYwZDA2YWIwNTI3ZA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/MzYwOHRqdXI2NzVoMfBtu7Rzlr8bPg1SkXb2tRFmSBs1dP3SX7T3L7y29Myb.png?format=pjpg&auto=webp&s=595a202ad3de696e64b2592065159eebb0097094"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1twdp3u/lowkey_obsessed_with_how_this_came_out/"
+  },
+  {
+    "subreddit": "Filmmakers",
+    "title": "Saw this post on Instagram from the art director of Obsession",
+    "author": "montemole",
+    "score": 686,
+    "created_utc": 1780620123,
+    "url": "https://www.reddit.com/gallery/1tx5sf3",
+    "selftext": "Curious what everyone’s thoughts are on this. Does this change your opinions on Curry Barker or the film itself at all?",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/19t60rot1d5h1.jpg?width=1290&format=pjpg&auto=webp&s=2ddf3d4c05fb5bfeab2cecbc3aa184737769f5d5",
+      "https://preview.redd.it/3wzl0rot1d5h1.jpg?width=1290&format=pjpg&auto=webp&s=a2225bc8bbb7de0a0add4989f0cf32db6ebfb4c6"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Filmmakers/comments/1tx5sf3/saw_this_post_on_instagram_from_the_art_director/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Widow's Bay is freaking awesome!",
+    "author": "ArchDucky",
+    "score": 684,
+    "created_utc": 1780502253,
+    "url": "https://www.reddit.com/r/television/comments/1tvtn67/widows_bay_is_freaking_awesome/",
+    "selftext": "Apple TV has constructed a show that can switch from [horror to comedy](https://www.youtube.com/watch?v=yjoXRcBqHz0) at the drop of a hat.  Its compelling, scary, interesting and hilarious.  If you aren't watching this you are seriously missing out.  It's one of the best shows I have ever seen and is easily becoming the best thing on Apple TV.  \n  \nThe show is basically like a dark comedy set on an island that is basically like how Stephen King uses Derry Maine.  The island has a long dark history of super bad things happening on it.  Every week seems to be tackling a new form of Horror Genre.  This weeks was the slasher genre.  It basically follows three people dealing with these things since the island has woken back up.  The Mayor played by Matthew Rhys.  The town drunk played by Stephen Root.  A lady that works at the Mayor's office played by Kate O'Flynn.  It has been mostly directed by Atlanta's Hiro Murai.  He did the \"Teddy Perkins\" episode of Atlanta and this show is using that vibe a lot.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tvtn67/widows_bay_is_freaking_awesome/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "DeepRobotics unveils DR02, with significant improvements in load‑carrying ability and mobility across complex terrain",
+    "author": "Distinct-Question-16",
+    "score": 681,
+    "created_utc": 1780430894,
+    "url": "https://v.redd.it/4f3nafc3fx4h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/4f3nafc3fx4h1/HLSPlaylist.m3u8?a=1783224303%2CODk1OWJmNzIwMGUxNTRhM2QzMDU0ZmI5MmFlNDUxNWZhZWFmNjdiNzYzZWMxNTgzZDFmOTA3ZTZmNzY0MWIzMA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/eTR3Mnd4NzNmeDRoMRDADSvWRA8EjIB0bneqDUrTwjMy4TV3sOgSOrm2fJIE.png?format=pjpg&auto=webp&s=1c20010e3e45ba1cfddfe251821e9401a8fe326c"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1tv2l9z/deeprobotics_unveils_dr02_with_significant/"
+  },
+  {
+    "subreddit": "television",
+    "title": "What's the Funniest TV Scene That Still Makes You Laugh No Matter How Many Times You Watch It?",
+    "author": "Mohitredit36",
+    "score": 680,
+    "created_utc": 1780550401,
+    "url": "https://www.reddit.com/r/television/comments/1twe3mo/whats_the_funniest_tv_scene_that_still_makes_you/",
+    "selftext": "Some scenes never stop being funny, even when you know every joke and every line.\n\nWhat's one TV scene that still makes you laugh every time you rewatch it?",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twe3mo/whats_the_funniest_tv_scene_that_still_makes_you/"
+  },
+  {
+    "subreddit": "Moviesinthemaking",
+    "title": "Behind the scenes of Indiana Jones and the Last Crusade (1989)",
+    "author": "TwIzTiDfReAkShOw",
+    "score": 659,
+    "created_utc": 1780157294,
+    "url": "https://www.reddit.com/gallery/1ts3yrn",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/i27zq31lta4h1.jpg?width=1170&format=pjpg&auto=webp&s=2261ca791397f1e85e1401224047d9cffa3d47f8",
+      "https://preview.redd.it/g4755v4lta4h1.jpg?width=1170&format=pjpg&auto=webp&s=0fd95a3c2a750d6ade7f751f228ec4bb2ce78b4f",
+      "https://preview.redd.it/b8r07pflta4h1.jpg?width=1170&format=pjpg&auto=webp&s=7af7a4ec5bfc0a998548dc243ca04d2e759f93b9",
+      "https://preview.redd.it/lhpmfa9lta4h1.jpg?width=1623&format=pjpg&auto=webp&s=9d3fbced72a7177e260fc03afc40fc661f6f0487",
+      "https://preview.redd.it/0wc6xkblta4h1.jpg?width=1253&format=pjpg&auto=webp&s=6d59d852267ebe9ac6cb8641efbdd2afd3ae54c4",
+      "https://preview.redd.it/khaccf7lta4h1.jpg?width=800&format=pjpg&auto=webp&s=02d3b3609dc4e4e04ca709d86a5b77d151c9fe83",
+      "https://preview.redd.it/4nchujhlta4h1.jpg?width=1170&format=pjpg&auto=webp&s=ea7ed92dacf3de789cf3236ed70f858a5aebfb16",
+      "https://preview.redd.it/e89dgfdlta4h1.jpg?width=1713&format=pjpg&auto=webp&s=0cb69861b1284aeb6807b2e37641d6dbb1fd54a1"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Moviesinthemaking/comments/1ts3yrn/behind_the_scenes_of_indiana_jones_and_the_last/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Anthropic - Our internal data shows Claude is accelerating AI development—a possible path to recursive self-improvement, or AI autonomously building a more capable successor.",
+    "author": "Educational_Grab_473",
+    "score": 656,
+    "created_utc": 1780590272,
+    "url": "https://i.redd.it/9ph4lq42la5h1.jpeg",
+    "selftext": "https://x.com/AnthropicAI/status/2062568862479208923",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/9ph4lq42la5h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1twsm5g/anthropic_our_internal_data_shows_claude_is/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Netflix Pauses Pre-Production On Antoine Fuqua’s Hannibal Epic Starring Denzel Washington",
+    "author": "MarvelsGrantMan136",
+    "score": 646,
+    "created_utc": 1780590687,
+    "url": "https://deadline.com/2026/06/netflix-antoine-fuqua-hannibal-denzel-washington-1236940352/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twstbd/netflix_pauses_preproduction_on_antoine_fuquas/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Sadie Sink to Star in ‘The Marriage Plot’ Adaptation at FX From A24, Will Arbery and Hiro Murai",
+    "author": "yourfavchoom",
+    "score": 646,
+    "created_utc": 1780596034,
+    "url": "https://variety.com/2026/tv/news/sadie-sink-the-marriage-plot-fx-a24-1236766850/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twvdm7/sadie_sink_to_star_in_the_marriage_plot/"
+  },
+  {
+    "subreddit": "television",
+    "title": "‘Euphoria’ Finale Hits 8.7 Million Viewers in Three Days as Season 3 Reaches Average of 25 Million to Date, Up 17% From Season 2",
+    "author": "RealWorldForever",
+    "score": 635,
+    "created_utc": 1780591451,
+    "url": "https://variety.com/2026/tv/news/euphoria-finale-ratings-hbo-viewers-1236764039/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1twt66y/euphoria_finale_hits_87_million_viewers_in_three/"
+  },
+  {
+    "subreddit": "ChatGPT",
+    "title": "Create an Animorphs cover in which (x) transforms into (y)",
+    "author": "Zestyclose-Key-7353",
+    "score": 631,
+    "created_utc": 1780543198,
+    "url": "https://i.redd.it/fdqqucgxo65h1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/fdqqucgxo65h1.png"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/ChatGPT/comments/1twbnc4/create_an_animorphs_cover_in_which_x_transforms/"
+  },
+  {
+    "subreddit": "Moviesinthemaking",
+    "title": "Director Steven Spielberg on the set of Close Encounters of the Third Kind (1977)",
+    "author": "spider-man2401",
+    "score": 628,
+    "created_utc": 1780320141,
+    "url": "https://www.reddit.com/gallery/1tts33r",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/3fn6njhuxn4h1.jpg?width=3024&format=pjpg&auto=webp&s=17e7e40ee96f9833918f1614b792386301bdb9c3",
+      "https://preview.redd.it/h7p65hhuxn4h1.jpg?width=570&format=pjpg&auto=webp&s=dc0c18ec73424e740b1a74bd6c72330094ea5b50",
+      "https://preview.redd.it/97o4vplw0o4h1.png?width=532&format=png&auto=webp&s=8fc750823684961cf954562989a001d5d2cb7c7a",
+      "https://preview.redd.it/pcmvufl10o4h1.png?width=1600&format=png&auto=webp&s=dcdbda80d340f4c6660a88ffa92e42ec68a0cd2a",
+      "https://preview.redd.it/r1ricnhuxn4h1.jpg?width=835&format=pjpg&auto=webp&s=98bc1d12be37ec11ba64f2a900aa3626b25ddbdb",
+      "https://preview.redd.it/ty56udfuxn4h1.jpg?width=641&format=pjpg&auto=webp&s=a008405abcac24248d2c5722d62aae636af0350f",
+      "https://preview.redd.it/tfq0mlhuxn4h1.jpg?width=1200&format=pjpg&auto=webp&s=32c1de4b5f6480c65d64f570436237b758a21ae1",
+      "https://preview.redd.it/jeexo5iuxn4h1.jpg?width=2000&format=pjpg&auto=webp&s=119d82781f1566eeba11cb338b8c646cd34ebc48",
+      "https://preview.redd.it/dy6nljix0o4h1.png?width=550&format=png&auto=webp&s=c966a77c079fdd2471f2b411b9d30133142d7cbf",
+      "https://preview.redd.it/c84aqnhuxn4h1.jpg?width=1582&format=pjpg&auto=webp&s=9e00ba65f6091a9dac1a2a737293e4ba4ace2f8e",
+      "https://preview.redd.it/9st29ohuxn4h1.jpg?width=2000&format=pjpg&auto=webp&s=2ba05808d723fb08c2d253ed98d4ae2938478f01",
+      "https://preview.redd.it/68e3c3s40o4h1.png?width=1129&format=png&auto=webp&s=c498f64d274ff1bd2f92c382794669c31e7fb298",
+      "https://preview.redd.it/pu6l9dfuxn4h1.jpg?width=960&format=pjpg&auto=webp&s=411e211b264acc140d617df72abb91d23d52cc95",
+      "https://preview.redd.it/qvvh3ofuxn4h1.jpg?width=640&format=pjpg&auto=webp&s=7acfecce92fb630f59ce3702caf718839ea215f6",
+      "https://preview.redd.it/vr7m8h7vxn4h1.png?width=2048&format=png&auto=webp&s=9d57ef64266cad6fcc71801e60a1a94c55d0f851",
+      "https://preview.redd.it/6gra975o0o4h1.png?width=1600&format=png&auto=webp&s=62579ba438e768155a1d4f8b6de97a3d1cc45498",
+      "https://preview.redd.it/ylg3unfuxn4h1.jpg?width=720&format=pjpg&auto=webp&s=f9f46e28f0b2b75bea43e73afd29f9b66df635af",
+      "https://preview.redd.it/jw6m8o53zn4h1.png?width=1024&format=png&auto=webp&s=ab5b4e0227e61ac3a5c36641292c91fb08c02c2a",
+      "https://preview.redd.it/iexqinc40o4h1.png?width=1152&format=png&auto=webp&s=013cc9103503f02342b69a4976935fb2b433783a",
+      "https://preview.redd.it/ar16ke660o4h1.png?width=1152&format=png&auto=webp&s=75797bf91eec5dc1cb1e2c7707dff380e1e310fb"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Moviesinthemaking/comments/1tts33r/director_steven_spielberg_on_the_set_of_close/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Not \"toxic\", but what shows have fan bases that take the show WAY too seriously?",
+    "author": "Long-Swordfish3696",
+    "score": 586,
+    "created_utc": 1780500250,
+    "url": "https://www.reddit.com/r/television/comments/1tvso3i/not_toxic_but_what_shows_have_fan_bases_that_take/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tvso3i/not_toxic_but_what_shows_have_fan_bases_that_take/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Young Woman in a Negligee, Francois Martin-Kavel, oil on canvas, 1931",
+    "author": "Provinz_Wartheland",
+    "score": 573,
+    "created_utc": 1780580198,
+    "url": "https://i.redd.it/lkq33swsq95h1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/lkq33swsq95h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1twnx0n/young_woman_in_a_negligee_francois_martinkavel/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Sam Altman, Dario Amodei, and Demis Hassabis have signed a joint open letter calling on Congress to mandate screening of synthetic nucleic acid orders",
+    "author": "TorturedPoet30",
+    "score": 569,
+    "created_utc": 1780580898,
+    "url": "https://www.reddit.com/gallery/1two85g",
+    "selftext": "Source: [https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f](https://www.wsj.com/politics/policy/top-ai-ceos-call-for-law-protecting-against-biological-weapons-88f2f99f)\n\n  \n",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/82dzben2s95h1.png?width=1428&format=png&auto=webp&s=0ff8fe8dd5a44b47f6db86cf5765afd3dc624a3e",
+      "https://preview.redd.it/bs1tauits95h1.jpg?width=1080&format=pjpg&auto=webp&s=5e51c55d08fa430d4a833ac8df671e6f6160a496",
+      "https://preview.redd.it/fh6q8wits95h1.jpg?width=1080&format=pjpg&auto=webp&s=4df90f2cf2d598a237a49703fbeab895f79e582c",
+      "https://preview.redd.it/62qx2vits95h1.jpg?width=1080&format=pjpg&auto=webp&s=cc4bee8df658f5e342ee9dd36a6307844b7a3cae"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1two85g/sam_altman_dario_amodei_and_demis_hassabis_have/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Nicolas Cage is incredible in Spider-Noir.",
+    "author": "Chessh2036",
+    "score": 562,
+    "created_utc": 1780624311,
+    "url": "https://www.reddit.com/r/television/comments/1tx7c1j/nicolas_cage_is_incredible_in_spidernoir/",
+    "selftext": "Nicolas Cage is absolutely phenomenal in Spider-Noir. I was blown away. He delivers a performance that perfectly balances hard-boiled detective grit, dark humor, and genuine emotional depth. He fully embodies the Ben’s world-weary cynicism while still making him compelling and relatable. Cage’s voice and screen presence make Spider-Noir feel unlike any other Spider-Man adaptation. \n\nThere are multiple scenes where his performance just left me floored. There’s a scene in a bar, he’s drunk, he over hears guys talking about The Spider. With perfect delivery he says: \n\n“Maybe, maybe, maybe, maybe the Spider is a guy like anyone else. You ever think about that? You ever wonder what his problems were? He's swinging around burning buildings, saving people... do you ever think he feels the heat? Or gets sad? Or tired? Or lonely?\"\n\nIt described every Spider-Man in that short scene. I highly recommend this show. ",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tx7c1j/nicolas_cage_is_incredible_in_spidernoir/"
+  },
+  {
+    "subreddit": "Moviesinthemaking",
+    "title": "Behind the scenes of Rocky IV (1985)",
+    "author": "TwIzTiDfReAkShOw",
+    "score": 536,
+    "created_utc": 1780501766,
+    "url": "https://i.redd.it/ujxkh0wv935h1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/ujxkh0wv935h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Moviesinthemaking/comments/1tvtefz/behind_the_scenes_of_rocky_iv_1985/"
+  },
+  {
+    "subreddit": "television",
+    "title": "'Widow's Bay' Creator Reveals the Major Change That Reshaped Unforgettable Episode 8",
+    "author": "ReppinRavenclaw",
+    "score": 527,
+    "created_utc": 1780531128,
+    "url": "https://www.thewrap.com/creative-content/tv-shows/widows-bay-episode-8-explained-katie-dippold-interview-patricia-boogeyman/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tw745a/widows_bay_creator_reveals_the_major_change_that/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Lucky — Official Trailer | Apple TV",
+    "author": "johnppd",
+    "score": 517,
+    "created_utc": 1780495274,
+    "url": "https://youtu.be/GAbT5qCTXR8",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1tvq9gs/lucky_official_trailer_apple_tv/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Braindead (1992) | Dir: Peter Jackson | A priest beats up some zombies",
+    "author": "countdooku975",
+    "score": 515,
+    "created_utc": 1780583553,
+    "url": "https://v.redd.it/55rljf8v0a5h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/55rljf8v0a5h1/HLSPlaylist.m3u8?a=1783224237%2COWU3OWZlOTQxYmI5MjM0ODFjMTk4ZDU3ZDg3YTdlNmQ5YmJlMTNlYTE1N2FlYmJlYzhiYzI5ODMwNWJlYmMzZA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/MTU5MXJxOHYwYTVoMY3BueRZkxRlJoNylOJq9TW-QRkAkArdmyMQb9xUuC1e.png?format=pjpg&auto=webp&s=4a5526acceed8a0520344d4d6fd31b13b2658f7f"
+      }
+    ],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1twpf9f/braindead_1992_dir_peter_jackson_a_priest_beats/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "Ideogram 4.0 Just Open Sourced!",
+    "author": "crystal_alpine",
+    "score": 515,
+    "created_utc": 1780502618,
+    "url": "https://i.redd.it/9ajk9fuu935h1.jpeg",
+    "selftext": "Hi r/StableDiffusion, bet yall didn't see this one coming, it's a big day for the open-source community! **Ideogram 4.0 is a 9.3B parameter open-weight text-to-image model. It is now natively supported in ComfyUI (latest update)**  \nWeights, inference code, full prompting guide, and sampler presets are public. The repository ships both fp8 and nf4 checkpoints; the nf4 variant fits on a single 24 GB GPU.\n\n# Why this is a massive deal for local generation:\n\n* **Unmatched Text &amp; Layout Control:** It scores **0.97 on X-Omni English OCR accuracy** and sits at **#2 overall (and #1 for open-weights)** on designer preference ELO, beating out models like FLUX 2 \\[dev\\] and Nano Banana 2.\n* **Structured JSON Prompting:** The model was trained exclusively on structured JSON captions. This means you can condition generations directly with exact **color palette hex codes**, precise **bounding-box layouts** `[y_min, x_min, y_max, x_max]`, and **typed text elements** for multi-line, multi-font in-image text.\n* **Unique Architecture:** It's a 34-layer single-stream DiT that uses **Qwen3-VL-8B-Instruct** as its text encoder, consuming hidden states from 13 intermediate layers rather than a single slice.\n* **Asymmetric CFG &amp; Resolution Flexibility:** The unconditional pass drops text tokens entirely to speed up sampling, and a single set of weights handles everything from ultra-wide banners to phone wallpapers without needing a dedicated LoRA or model.\n\nIf you have been waiting for a powerful open model that can handle complex posters, precise graphic design layouts, and readable copy without sending your prompts to a closed API, this is the one to try.\n\n**Links:** [Hugging Face weights](https://huggingface.co/ideogram-ai/ideogram-4-fp8), [tweet](https://x.com/ideogram_ai/status/2062202208700313872?s=20), and [full technical blog.](https://ideogram.ai/models/4.0)\n\nI will post some images and prompts in the comments",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/9ajk9fuu935h1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1tvtu2u/ideogram_40_just_open_sourced/"
+  },
+  {
+    "subreddit": "3Dmodeling",
+    "title": "fk it... UV straightening hype edit 🥱🥱",
+    "author": "TheStonimus",
+    "score": 506,
+    "created_utc": 1780575320,
+    "url": "https://v.redd.it/lq0g9wakb95h1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/lq0g9wakb95h1/HLSPlaylist.m3u8?a=1783224289%2CMjUyYWZjODlhMzQ3YmRlZWZjYzFhODdjMjcxYjZhN2YyMTVjNzBiZmNhODM2ZmEyZGYzMTE4ZjQ0ODAwYjExOA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/bDUzZDI5YmtiOTVoMQYPPPg4QJAgdW5wXdYNsDo8AWYCxmaHTRYAVWp3weGW.png?format=pjpg&auto=webp&s=6a300b9ab2c79d0399fbe7534a9c70535990b689"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/3Dmodeling/comments/1twlwej/fk_it_uv_straightening_hype_edit/"
+  }
+]

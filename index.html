@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Hệ thống lưu trữ và hiển thị bài viết Reddit tự động theo ngày với thiết kế Glassmorphic cao cấp.">
+    <title>Reddit Daily Crawler Dashboard</title>
+    <!-- Google Fonts: Outfit & Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Premium Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- hls.js for HLS video streaming support on Reddit videos -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-theme">
+    <div class="app-container">
+        <!-- Sidebar: Lịch sử cào bài theo ngày -->
+        <aside class="sidebar glass" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="fa-brands fa-reddit logo-icon"></i>
+                    <span>Reddit<span class="logo-accent">Crawl</span></span>
+                </div>
+                <button class="close-sidebar-btn" id="closeSidebar" aria-label="Close sidebar">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            
+            <div class="sidebar-section">
+                <h3><i class="fa-regular fa-calendar-days"></i> Lịch Sử Lưu Trữ</h3>
+                <div class="date-list" id="dateList">
+                    <div class="date-skeleton"></div>
+                    <div class="date-skeleton"></div>
+                    <div class="date-skeleton"></div>
+                </div>
+            </div>
+            
+            <div class="sidebar-footer">
+                <div class="user-info">
+                    <img src="https://github.com/manhhuynh-designer.png" alt="User avatar" class="avatar" onerror="this.src='https://ui-avatars.com/api/?name=MD&background=ff4500&color=fff'">
+                    <div class="user-details">
+                        <span class="user-name">manhhuynh-designer</span>
+                        <span class="user-status"><span class="status-dot"></span> Đang hoạt động</span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Header bar -->
+            <header class="header glass">
+                <div class="header-left">
+                    <button class="menu-toggle-btn" id="menuToggle" aria-label="Toggle menu">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <div class="active-date-info">
+                        <h1 id="activeDateTitle">Đang tải dữ liệu...</h1>
+                        <p id="activeDateSub">Tổng quan bài viết phổ biến đã cào</p>
+                    </div>
+                </div>
+                
+                <div class="header-right">
+                    <!-- Search input -->
+                    <div class="search-bar glass-input">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="searchInput" placeholder="Tìm kiếm bài viết hoặc tác giả...">
+                    </div>
+                </div>
+            </header>
+
+            <!-- Filters Bar -->
+            <section class="filters-container glass">
+                <div class="filter-group" id="topicFilters">
+                    <button class="filter-btn active" data-topic="all">Tất cả</button>
+                    <button class="filter-btn" data-topic="design"><i class="fa-solid fa-pen-nib"></i> Design</button>
+                    <button class="filter-btn" data-topic="3d"><i class="fa-solid fa-cube"></i> 3D Art</button>
+                    <button class="filter-btn" data-topic="movies"><i class="fa-solid fa-film"></i> Movies/TV</button>
+                    <button class="filter-btn" data-topic="art"><i class="fa-solid fa-palette"></i> Art</button>
+                    <button class="filter-btn" data-topic="ai"><i class="fa-solid fa-microchip"></i> AI</button>
+                </div>
+                <div class="stats-badge" id="statsBadge">
+                    <span id="postsCount">0</span> bài viết
+                </div>
+            </section>
+
+            <!-- Grid of posts -->
+            <section class="posts-grid" id="postsGrid">
+                <!-- Skeletons for Loading -->
+                <div class="post-card-skeleton"></div>
+                <div class="post-card-skeleton"></div>
+                <div class="post-card-skeleton"></div>
+                <div class="post-card-skeleton"></div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Lightbox for Image Viewer -->
+    <div class="lightbox" id="lightbox">
+        <button class="lightbox-close" id="lightboxClose" aria-label="Close lightbox">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
+        <button class="lightbox-nav prev" id="lightboxPrev" aria-label="Previous image">
+            <i class="fa-solid fa-chevron-left"></i>
+        </button>
+        <div class="lightbox-content">
+            <img id="lightboxImg" src="" alt="Full view">
+        </div>
+        <button class="lightbox-nav next" id="lightboxNext" aria-label="Next image">
+            <i class="fa-solid fa-chevron-right"></i>
+        </button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

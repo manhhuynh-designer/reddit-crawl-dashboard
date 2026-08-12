@@ -1,0 +1,2566 @@
+[
+  {
+    "subreddit": "movies",
+    "title": "Cineplex CEO Says Gen Z Is Ready to Go to the Movies; Says They’re Tired of Looking at Small Screens",
+    "author": "yourfavchoom",
+    "score": 5577,
+    "created_utc": 1786465274,
+    "url": "https://www.hollywoodreporter.com/business/business-news/cineplex-ceo-says-gen-z-is-ready-to-go-to-the-moviestheyre-tired-of-looking-at-small-screens-1236670910/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlm4rk/cineplex_ceo_says_gen_z_is_ready_to_go_to_the/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Roku Unleashes 24/7 AI Slop Channel",
+    "author": "Lighthouse_seek",
+    "score": 5169,
+    "created_utc": 1786375172,
+    "url": "https://futurism.com/artificial-intelligence/roku-unleashes-24-7-ai-slop-channel",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vknslc/roku_unleashes_247_ai_slop_channel/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Official Poster for Laika's 'Kubo and the Two Strings' - 10th Anniversary Re-Release",
+    "author": "BunyipPouch",
+    "score": 4292,
+    "created_utc": 1786464034,
+    "url": "https://i.redd.it/cnuyvzpnqrih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/cnuyvzpnqrih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlljt1/official_poster_for_laikas_kubo_and_the_two/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Nameless Flowers, Ono Tako, Illustration, 2020",
+    "author": "Tokyono",
+    "score": 3646,
+    "created_utc": 1786454548,
+    "url": "https://i.redd.it/3xrm9zfcyqih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/3xrm9zfcyqih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vlhca8/nameless_flowers_ono_tako_illustration_2020/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Claude is asked to book a gym class; finds vulnerabilities in the gym's systems and cancels a real person's spot to move the user up in line without being asked",
+    "author": "kaityl3",
+    "score": 3542,
+    "created_utc": 1786339495,
+    "url": "https://www.reddit.com/gallery/1vkbwzx",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/ld10trdgghih1.jpg?width=1080&format=pjpg&auto=webp&s=b66c427995394b3898e8d8a6291d562e47a54d20",
+      "https://preview.redd.it/utv8ahbgghih1.png?width=1093&format=png&auto=webp&s=79a4aea6960ad6d1b70ec3b7cefa50ed2a747db0"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkbwzx/claude_is_asked_to_book_a_gym_class_finds/"
+  },
+  {
+    "subreddit": "television",
+    "title": "The Office actress Lucy Davis diagnosed with incurable breast cancer",
+    "author": "DiaryOfAMovieLover",
+    "score": 3209,
+    "created_utc": 1786478988,
+    "url": "https://www.telegraph.co.uk/news/2026/08/11/the-office-lucy-davis-diagnosed-incurable-breast-cancer/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vlsio5/the_office_actress_lucy_davis_diagnosed_with/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "2D/2.5D Water system update",
+    "author": "BxYass",
+    "score": 3022,
+    "created_utc": 1786310994,
+    "url": "https://v.redd.it/0ec46uv93fih1",
+    "selftext": "Hello everyone, back with a new update a few months after my last post.\n\nI’ve been working on the 2D/2.5D water system on and off since then, and it kinda grew way more than I originally planned specially since i need it to fully run on the 2d Renderer.\n\nSince the last post I added underwater exclusion zones for things like air pockets, currents, debris, floating pads/platforms, underwater view, ripples, light rays, wakes and quite a few other interaction features.\n\nA lot of the work lately was also on making the thing actually easy to use and not just something that works in my own project. So I’ve been working a lot on the custom inspectors and tooling, setup workflow and the API. You can sample the water height from code, get events from interactions and water states, etc.\n\nThe water itself is very customizable, so what you see in the video is really just one way of setting it up. I also added a “fake surface” mode where there isn’t really a surface plane, but I fake the perspective by shifting the foam/pattern and things like ripples and wakes. It gives a pretty convincing 2.5D surface without actually needing the geometry there.\n\nI’m planning to release it once I feel like I tested it enough and have enough demo scenes to show the different ways it can be used. This part is honestly taking longer than I expected, specially making sure everything is clean and understandable.\n\nFor the graphics, I basically took a anime style nature image and cut pieces of it in Photoshop. For the actual packaged asset I’m planning to use Unity’s Lost Crypt assets for the demo scenes, unless someone has a better idea since I obviously can’t just include random assets from the Asset Store.\n\nStill a bunch of things I want to polish before release, so any feedback or ideas are very welcome, specially if there’s some use case you think I should test that I havent thought about.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/0ec46uv93fih1/HLSPlaylist.m3u8?a=1789093912%2CMjU0NGI0ODAwZTkyMDYwNTg4ZjZhNmExNWM0Zjc3MjFiNWRlOTZkNzA1NTFmMTU2MDI4YjBjZTI4ZWE1YTQxMQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/emVhcTQ2dzkzZmloMTmPLFhsPvf0fEtFhQhntMLkeVyoroCl3_PDAenwH5Ds.png?format=pjpg&auto=webp&s=5af1f9d28b107f6b9103182649ae9ff2902887cf"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vk1vnd/2d25d_water_system_update/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Using my Diffraction Grating System to build a Compact Disk Shader",
+    "author": "Astrvm_vctm",
+    "score": 2993,
+    "created_utc": 1786369556,
+    "url": "https://v.redd.it/82tdd73pxjih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/82tdd73pxjih1/HLSPlaylist.m3u8?a=1789093868%2CYzRkN2ZjNTk3ODRkNmFhYTI1OGRlYmI3ZmY1NzNjMmQ3ZTQ3M2JjNDAzOGNlNWI5NWU4MjA0NWNiMTEyNzdmMw%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/Ym1qMGh2M3B4amloMYiVwJFOpgk9293Bj7ZNKBD1x9OfLUoTq0kNdcfir-XI.png?format=pjpg&auto=webp&s=dcf2103b949f4c0e852446d5715d053ca42ee391"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vklbnx/using_my_diffraction_grating_system_to_build_a/"
+  },
+  {
+    "subreddit": "television",
+    "title": "The last HBO drama to have 13 episodes in a season was The Wire Season 4. The last to have 12 episodes was Boardwalk Empire Season 4. The last to have 10 episodes was Succession Season 4",
+    "author": "mrnicegy26",
+    "score": 2985,
+    "created_utc": 1786330267,
+    "url": "https://www.reddit.com/r/television/comments/1vk8ygv/the_last_hbo_drama_to_have_13_episodes_in_a/",
+    "selftext": "&amp;#x200B;\n\nJust noticed the decline in the number of episodes per season in HBO one hour dramas. Especially since Succession Season 4 aired exactly 3 years ago now and there hasn't been a HBO drama since then to have 10 episodes per season.\n\nEvery HBO drama since then which aired a season has had 8 episodes or less like Euphoria, The Last of Us, White Lotus,  House of the Dragon, Knight of the Seven Kingdoms, Industry, Gilded Age etc.\n\nThe Pitt is obviously the big exception however it is on HBO Max rather than HBO original and it was very deliberately made to emulate a network hospital drama like E.R. than the model of a traditional HBO drama.\n\nAnd this shift to 8 episodes or less per season has really hurt House of the Dragon or Last of Us",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vk8ygv/the_last_hbo_drama_to_have_13_episodes_in_a/"
+  },
+  {
+    "subreddit": "Filmmakers",
+    "title": "Of course, they'll prioritize that.",
+    "author": "dietherman98",
+    "score": 2685,
+    "created_utc": 1786385499,
+    "url": "https://i.redd.it/4ydc7eq49lih1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/4ydc7eq49lih1.png"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Filmmakers/comments/1vkslo5/of_course_theyll_prioritize_that/"
+  },
+  {
+    "subreddit": "conceptart",
+    "title": "Deep sea horrors by Rappenem (me!)",
+    "author": "rappenem",
+    "score": 2652,
+    "created_utc": 1786297161,
+    "url": "https://www.reddit.com/gallery/1vjw29s",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/ge9sn62iydih1.png?width=3214&format=png&auto=webp&s=568064b1090bb296f9a3b7df4c991e5dd8b015d0",
+      "https://preview.redd.it/i9jjt72iydih1.png?width=3214&format=png&auto=webp&s=93ce728773b580dccba76f998f95a2096c602b1d",
+      "https://preview.redd.it/jfqth82iydih1.png?width=1986&format=png&auto=webp&s=8e59508cc0c80df2bb59aa534ad5900491bef06e",
+      "https://preview.redd.it/0e4x172iydih1.png?width=1639&format=png&auto=webp&s=070f3b4623d44f81415fc4ef413b5d78ae791ede"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/conceptart/comments/1vjw29s/deep_sea_horrors_by_rappenem_me/"
+  },
+  {
+    "subreddit": "ChatGPT",
+    "title": "It’s here",
+    "author": "ThenLayer5977",
+    "score": 2648,
+    "created_utc": 1786384510,
+    "url": "https://i.redd.it/3j7eqyxa6lih1.jpeg",
+    "selftext": "For context, I normally have the $200 plan, but for this month I just got the basic plan. Luna is a great value, and I can use other AI models, but that’s beside the point.\n\nToday, when I went in, I was already out of usage, and since he had said he was going to reset it so I could check, I noticed they’re now offering me the option to pay $8 to reset my usage. I’m not sure how much a reset costs on the $200 plan, but on the $20 plan, it’s $8 per reset, and I guess the feature is already live.I don’t know who else has access to this feature yet, but it’s showing up for me.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/3j7eqyxa6lih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/ChatGPT/comments/1vks54h/its_here/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Michael Schur's New Comedy ‘Dig’, Starring Amy Poehler and Hugh Laurie, Sets November 23, 2026 Premiere Date on Peacock",
+    "author": "SanderSo47",
+    "score": 2406,
+    "created_utc": 1786379451,
+    "url": "https://www.thewrap.com/creative-content/tv-shows/dig-peacock-amy-poehler-premiere-date/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vkprih/michael_schurs_new_comedy_dig_starring_amy/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Nicholas Hoult Joins ‘Harry Potter’ Season 2 As Gilderoy Lockhart",
+    "author": "yourfavchoom",
+    "score": 2404,
+    "created_utc": 1786483483,
+    "url": "https://deadline.com/2026/08/nicholas-hoult-harry-potter-season-2-gilderoy-lockhart-1237001668/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vluiyc/nicholas_hoult_joins_harry_potter_season_2_as/"
+  },
+  {
+    "subreddit": "digitalart",
+    "title": "I painted this today.",
+    "author": "CommonCaregiver3261",
+    "score": 2392,
+    "created_utc": 1786469950,
+    "url": "https://i.redd.it/jhanr5c97sih1.jpeg",
+    "selftext": "A while ago, a video was circulating of a cat trapped in a car watching the glass change color dramatically. I don't know if it was a car wash, but I thought I'd mix it with the Third Impact scene from Evangelion. I wasn't entirely convinced by the cat's fur, but if anyone has any feedback on how to make it look fluffy like in the original video, I'd appreciate it. Cheers.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/jhanr5c97sih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/DigitalArt/comments/1vlob91/i_painted_this_today/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Reggie Bannister, Star of the ‘Phantasm’ Franchise, Dies at 80",
+    "author": "MarvelsGrantMan136",
+    "score": 2300,
+    "created_utc": 1786402520,
+    "url": "https://www.dreadcentral.com/news/584362/reggie-bannister-star-of-the-phantasm-franchise-has-passed-away/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vl03xr/reggie_bannister_star_of_the_phantasm_franchise/"
+  },
+  {
+    "subreddit": "Simulated",
+    "title": "Physics-Based Animation will always be one of my favorite topics to explore!",
+    "author": "shirzadbh",
+    "score": 2186,
+    "created_utc": 1785867455,
+    "url": "https://v.redd.it/v7mkdavqgehh1",
+    "selftext": "What you can do with it is magical, all the animation you see here is processed in milliseconds.\n\nAll the animator needs to do is provide a reference animation, and the rest is simulated. It's extremely easy to direct and change.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/v7mkdavqgehh1/HLSPlaylist.m3u8?a=1789093875%2CNTVlYWQ5ZmIyMmNjNjFlYTRmY2JkN2E3ZDYwMzBiZTIxZThjZjFiM2FiMDc2ZTExNTc4ZGU4Yzc5OWZkNzNiMQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/ZTZhc2hsdnFnZWhoMTJl_tE3LdbRa9hIWWc1wzVlnm3caJatMv-uHxdyjlcW.png?format=pjpg&auto=webp&s=1b27c188e67dc47924149414e642bd052842d30e"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/Simulated/comments/1vfie6j/physicsbased_animation_will_always_be_one_of_my/"
+  },
+  {
+    "subreddit": "logodesign",
+    "title": "Komodo Logo Mark.",
+    "author": "Creativeadi",
+    "score": 2124,
+    "created_utc": 1786437313,
+    "url": "https://i.redd.it/fkpnfjo0jpih1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/fkpnfjo0jpih1.png"
+    ],
+    "videos": [],
+    "topic": "design",
+    "permalink": "/r/logodesign/comments/1vlbq3x/komodo_logo_mark/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Watching, Roman Gubskii, ink and watercolors on paper, 2026 [OC]",
+    "author": "Roman4980",
+    "score": 2025,
+    "created_utc": 1786391045,
+    "url": "https://www.reddit.com/gallery/1vkv52x",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/pma1cujpplih1.png?width=1000&format=png&auto=webp&s=e04483902057038d6fc8f2e31bb60d94b1856179",
+      "https://preview.redd.it/ggxnttjpplih1.png?width=1000&format=png&auto=webp&s=5d5d1ab79cd648f93ffdc8dd508e313cbdd78461"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vkv52x/watching_roman_gubskii_ink_and_watercolors_on/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Betty Gilpin Calls 'Widow's Bay' The \"Ultimate F*ck You\" To Algorithm TV",
+    "author": "GnolRevilo",
+    "score": 1982,
+    "created_utc": 1786446407,
+    "url": "https://deadline.com/2026/08/betty-gilpin-widows-bay-ultimate-fck-you-algorithm-friendly-tv-1237028234/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vledp9/betty_gilpin_calls_widows_bay_the_ultimate_fck/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Salò, or the 120 Days of Sodom sets 4K release with new restoration from the BFI",
+    "author": "Bennett1984",
+    "score": 1951,
+    "created_utc": 1786404226,
+    "url": "https://www.flickeringmyth.com/salo-or-the-120-days-of-sodom-sets-4k-release-with-new-restoration-from-the-bfi/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vl0sle/salò_or_the_120_days_of_sodom_sets_4k_release/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "This almost made my PC crash.",
+    "author": "Round3d_pixel",
+    "score": 1748,
+    "created_utc": 1786467523,
+    "url": "https://www.reddit.com/gallery/1vln67z",
+    "selftext": "Your thoughts?",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/kwj8sq741sih1.jpg?width=1080&format=pjpg&auto=webp&s=815c9cbc57e22dea31c006b699e4abd66b1cb9f0",
+      "https://preview.redd.it/49n9sfd41sih1.png?width=2613&format=png&auto=webp&s=2047e343df99a1813b6759060ab48b55ce40dc81"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vln67z/this_almost_made_my_pc_crash/"
+  },
+  {
+    "subreddit": "digitalart",
+    "title": "Toph✨️",
+    "author": "zkwt_",
+    "score": 1730,
+    "created_utc": 1786379413,
+    "url": "https://i.redd.it/vuxgmcb5rkih1.jpeg",
+    "selftext": "I'm trying to draw athletic bodies without doing too much muscle definition, i think i did okay in this one...",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/vuxgmcb5rkih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/DigitalArt/comments/1vkpqw4/toph/"
+  },
+  {
+    "subreddit": "art",
+    "title": "The Promised Land, Bo Bartlett, oil on canvas, 2015",
+    "author": "Peach9990",
+    "score": 1716,
+    "created_utc": 1786467630,
+    "url": "https://i.redd.it/stf5nc0e1sih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/stf5nc0e1sih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vln83o/the_promised_land_bo_bartlett_oil_on_canvas_2015/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Gadreel Angel of War (Angelarium book of Emanations) , Peter Mohrbacher, digital, 2015",
+    "author": "michexxx",
+    "score": 1680,
+    "created_utc": 1786387808,
+    "url": "https://i.redd.it/1i5m0j14glih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/1i5m0j14glih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vktnza/gadreel_angel_of_war_angelarium_book_of/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Avatar 3 Felt Too Much Like Avatar 2.5 Instead of “Fire and Ash”",
+    "author": "Boring-Jelly5633",
+    "score": 1618,
+    "created_utc": 1786404848,
+    "url": "https://www.reddit.com/r/movies/comments/1vl11f4/avatar_3_felt_too_much_like_avatar_25_instead_of/",
+    "selftext": "I believe at some point, when Cameron and his writing team sat down and read the complete story for \\*Avatar 3\\*, they should’ve recognized as professional writers that it was simply too repetitive of \\*Avatar 2\\*. The story wasn’t progressing enough.\n\nEspecially with a title like \\*Fire and Ash\\*. After \\*The Way of Water\\*, I expected the third movie to move away from the reef and heavily immerse us in the Ash People and an entirely different side of Pandora.  \nShow us Ash villages. Show us their way of life and culture. Take us deep into the volcanic regions of Pandora. Give us a flashback to the volcanic eruption that destroyed their home and shaped Varang and her people into who they are. Basically, I wanted a lot more \\*\\*“Fire”\\*\\* in \\*Fire and Ash\\*.\n\nInstead, we’re still spending time on things that feel carried over from \\*The Way of Water\\*. More training scenes, now with Spider learning to ride an ilu. More reef environments. More water. More whales. We already spent an entire movie exploring that side of Pandora.\n\nEven the Payakan and tulkun matriarch storyline felt like something being dragged out when the story should’ve been moving on to newer and fresher things. \\*Avatar 2\\* was \\*The Way of Water\\*. Let that movie own the reef, the tulkun and that entire experience, then let \\*Fire and Ash\\* take us somewhere completely different.  \nBut I think there’s an even bigger writing problem underneath all of this: \\*\\*Cameron and his team never really established what “success” looks like for the protagonists of these sequels.\\*\\*\n\nMost great conflicts give both the protagonist and antagonist an idea of victory, and the story comes from those two visions colliding.\n\nWe actually got that for the villains in \\*Avatar 2\\*. When Ardmore meets Quaritch, we learn that Earth is dying, Bridgehead is becoming a full-scale human city, and humanity intends to make Pandora its new home. Whether you agree with them or not, we understand their endgame. We know what victory looks like for their side.\n\nBut what does victory look like for Jake, Lo’ak and the Na’vi?  \nMost of their goals are reactive: survive, protect the family, escape Quaritch, save someone, defend the clan. We know what they’re fighting \\*\\*against\\*\\*, but we don’t really know what this generation is ultimately fighting \\*\\*toward\\*\\*.\n\nI think \\*Avatar 2\\* would’ve benefited tremendously from Jake establishing that early with his children. He could’ve explained that what he accomplished in the first movie wasn’t permanent. He drove the humans away, but he always knew they would eventually return. His generation won a battle, but his children’s generation will have to accomplish something greater: finding a way to actually end the conflict and eventually create peace.\n\nNow you’ve planted a subconscious narrative for the audience to follow across these sequels.  \nThe villains want to conquer Pandora and establish permanent human dominance. Meanwhile, Lo’ak’s generation is growing toward the responsibility of accomplishing what Jake couldn’t: creating a lasting future where the Na’vi survive and humanity can exist without one side having to dominate or destroy the other.\n\nThat gives the saga a destination.  \nThen \\*Avatar 2\\* isn’t just another adventure after Jake’s victory in the first movie. It becomes the beginning of a larger generational story. Jake won his war temporarily, but his son’s generation will eventually have to solve it permanently.\n\nAnd that’s ultimately my problem with \\*Avatar 3\\*. It needed to feel like the story was \\*\\*moving toward something bigger\\*\\*. Instead, too much of it felt like we were still hanging around in \\*The Way of Water\\*.  \nIf you’re going to call the movie \\*Fire and Ash\\*, take me into the fire and ash—and use that new world to push the larger story forward.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vl11f4/avatar_3_felt_too_much_like_avatar_25_instead_of/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Illustration from The Book of Death, Kay Nielsen, pen and ink, 1910",
+    "author": "Peach9990",
+    "score": 1442,
+    "created_utc": 1786467749,
+    "url": "https://i.redd.it/7xn66qus1sih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/7xn66qus1sih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vlna7m/illustration_from_the_book_of_death_kay_nielsen/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "I used MiniMax to make Lord of the Rings about 9 hours shorter",
+    "author": "notmyselftoday",
+    "score": 1395,
+    "created_utc": 1786411060,
+    "url": "https://v.redd.it/6vb0aoracnih1",
+    "selftext": "I’ve been messing around with the idea of famous movies that completely fall apart if one character makes one sensible decision early on. This felt like a reasonable place to start.\n\n“Cast it into the fire.”  \n“Okay.”\n\nRoll credits.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/6vb0aoracnih1/HLSPlaylist.m3u8?a=1789093898%2CMzQ5MTM2NDY0MzcwMTM5YzZiMjE3YTY0MDU4NjNjN2JjZTQ0MjQ0YzRiYjc0NDk1ODI5YjBhZDJhOTkyNGUwOA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/dnc2NnVzcmFjbmloMXhL7KED-o0zjO-DFHYa3SGqTGA2-z-uOdEQktUVvQMZ.png?format=pjpg&auto=webp&s=345427be18202ae2b1e602b94a22007204d98997"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1vl3e16/i_used_minimax_to_make_lord_of_the_rings_about_9/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Hello reddit, I'm David Howard Thornton. I played Art the Clown in TERRIFER 1, 2, and 3. My new movie, THE DEAD PLACE, is out on digital this week. AMA!",
+    "author": "StudioDome",
+    "score": 1376,
+    "created_utc": 1786450992,
+    "url": "https://i.redd.it/ubkiqqqlnqih1.png",
+    "selftext": "Hello reddit! I'm David Howard Thornton. You may know me as Art the Clown in TERRIFIER 1, 2, and 3. I've also been in films like STREAM, THE MEAN ONE, and SCREAMBOAT.\n\nI'm here to answer your questions!\n\nMy new film, THE DEAD PLACE, was released on digital this week.\n\nTrailer: [https://www.youtube.com/watch?v=z1ee3O6uX\\_g](https://www.youtube.com/watch?v=z1ee3O6uX_g)\n\nSynopsis: Troubled High School Senior Isaac is plagued by visions of the dead. This causes friction in his family and makes him an outcast at school. His only friend Katharine is obsessed with the paranormal and tries desperately to help him, but a \"New Kid\" pushes him to give in to the demon trying to burrow its way inside him. Consumed by the evil feeding off the dead souls that haunt him, Katharine is the only one that stands between him and his darker impulses. To satisfy the bloodlust of the demon that dwells within him.\n\nYou can watch it here: [https://bloodstreamtv.com/show-details/the-dead-place-2026](https://bloodstreamtv.com/show-details/the-dead-place-2026)\n\n* Writer/Director: Michael Pickle  \n* Producers: Michael Pickle, Nick Theurer, James Rivera  \n* Cast: Idris Veliu, David Howard Thornton, Bill Oberst Jr., Angel Nichole Bradford, Eliot, Josh Stone, Nick Theurer, James Rivera\n* [IMDB](https://pro.imdb.com/title/tt23018852/)\n* [Facebook](https://www.facebook.com/groups/thedeadplace)\n* [Instagram](https://www.instagram.com/thedeadplacemovie/)\n\nAMA! I'll be back at 4 PM ET today (Tuesday 8/11) to answer your questions.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/ubkiqqqlnqih1.png"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlfy22/hello_reddit_im_david_howard_thornton_i_played/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Morgan Freeman Wishes He’d Been an Action Star",
+    "author": "Commercial_Avocado86",
+    "score": 1186,
+    "created_utc": 1786461410,
+    "url": "https://www.rollingstone.com/music/music-features/morgan-freeman-interview-blues-album-action-star-1235606244/?utm_source=edit-vip",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlkc3b/morgan_freeman_wishes_hed_been_an_action_star/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Claude now embeds invisible watermarks in all text outputs + signed metadata on files",
+    "author": "ABlackEngineer",
+    "score": 1163,
+    "created_utc": 1786401118,
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkzjln/claude_now_embeds_invisible_watermarks_in_all/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "what happened to godot?",
+    "author": "VacationSmoot",
+    "score": 1127,
+    "created_utc": 1786471975,
+    "url": "https://i.redd.it/t53cjarfdsih1.jpeg",
+    "selftext": "I know Godot has seen significant development lately, but what exactly happened? In my eyes Unity was always the king of game-jams.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/t53cjarfdsih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vlp9n8/what_happened_to_godot/"
+  },
+  {
+    "subreddit": "television",
+    "title": "\"Rugrats\", \"Doug\" and \"Ren &amp; Stimpy\" all premiered on Nickelodeon 35 years ago (August 11th, 1991). The network's very first \"Nicktoons\"",
+    "author": "Morgan-Moonscar",
+    "score": 1105,
+    "created_utc": 1786461254,
+    "url": "https://www.youtube.com/watch?v=iQsRSth0_QM",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vlk9fs/rugrats_doug_and_ren_stimpy_all_premiered_on/"
+  },
+  {
+    "subreddit": "television",
+    "title": "CBS Kicks Off ‘The Late Show With Stephen Colbert’ Emmy Push",
+    "author": "HotOne9364",
+    "score": 1077,
+    "created_utc": 1786476131,
+    "url": "https://deadline.com/2026/08/cbs-the-late-show-with-stephen-colbert-emmy-push-kimmel-1237031224/",
+    "selftext": "Not a shock. Kimmel was throwing snowballs, Colbert was hurling icicles.\n\n\"Nazis aren't anything like ICE; they were willing to show their faces\"",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vlr7pa/cbs_kicks_off_the_late_show_with_stephen_colbert/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Claude increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%",
+    "author": "BoyNextDoor1990",
+    "score": 1070,
+    "created_utc": 1786383794,
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "selftext": "25,6% increased ratio. Holy Moly.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkrt46/claude_increased_the_lower_bound_for_the_fraction/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "I spent a year turning a childhood obsession into a 2-minute CG film.",
+    "author": "Western_Bass_3869",
+    "score": 1035,
+    "created_utc": 1786406543,
+    "url": "https://v.redd.it/48cd0iu7zmih1",
+    "selftext": "BRONEPEHOTA Past Echoes - CG Short Film\n\nI grew up with Technolog's BRONEPEHOTA tabletop sets and Videoman collectible figures. Those strange sci-fi machines and characters stayed with me long after childhood, and eventually, my fascination with them grew into a professional interest in 3D art.\n\nThis film is my first major independent solo project and a personal, non-commercial homage to those worlds. I created it from concept to final edit and sound mix over approximately one year, learning, experimenting, and building the entire production pipeline myself and without AI my dudes.\n\nI'm very happy to finally share the finished film. I hope you enjoy watching it as much as I enjoyed making it.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/48cd0iu7zmih1/HLSPlaylist.m3u8?a=1789093868%2CYmFmYmUxZmNjZjAzYjUwNzZkYWI3NTFiOTljNWU3ZGUyYzllODNlYWRmMDU5YmExYzgyMGUwMmJkYzBiNWZlMQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/djh4YXoxdjd6bWloMTmyUeWqwIrslnFN5D_Gizw-gdFkaRhV4Bd0fgZXbTho.png?format=pjpg&auto=webp&s=9eac35089076afb29ea1dd39c4e363a224394ae7"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vl1pfd/i_spent_a_year_turning_a_childhood_obsession_into/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Patton Oswalt's Star Wars Filibuster (Extended Cut) | Parks and Recreation",
+    "author": "_Levitated_Shield_",
+    "score": 1025,
+    "created_utc": 1786486420,
+    "url": "https://www.youtube.com/watch?v=5BBhNkywMJY",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vlvror/patton_oswalts_star_wars_filibuster_extended_cut/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "The Last Bastion of Humanity",
+    "author": "Pixelied",
+    "score": 1010,
+    "created_utc": 1786357483,
+    "url": "https://i.redd.it/slew0juxxiih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/slew0juxxiih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkgzx3/the_last_bastion_of_humanity/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Mark Wahlberg Playing a Smart Guy Ruins Any Movie",
+    "author": "Numerous-Hawk1471",
+    "score": 991,
+    "created_utc": 1786497475,
+    "url": "https://www.reddit.com/r/movies/comments/1vm02n3/mark_wahlberg_playing_a_smart_guy_ruins_any_movie/",
+    "selftext": "Watching Mile 22 because I thought it wasn’t good when it came out and I figured I’d give it another shot. I realized its main problem, in addition to the more minor issue of casting Ronda Rousey and Sean Avery for some reason, is it relies on the audience believing Mark Wahlberg as this brilliant mind, this dynamic and autistic genius who calculates tactics on the fly better than anyone. \n\nAnd it’s clear the man himself doesn’t know the meaning of the larger words that have been written for him, or perhaps he learned them that day. The Gambler has the same problem. It has an interesting and exciting plot, John Goodman and Michael K. Williams, but Wahlberg as an English Literature professor is roughly as convincing as Stanley Tucci playing LeBron James. He was great in The Fighter and Basketball diaries partly bc he’s a meathead, and he should stick to his strengths. ",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vm02n3/mark_wahlberg_playing_a_smart_guy_ruins_any_movie/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Most boring movie you’ve seen ?",
+    "author": "Aware-Ad-8301",
+    "score": 979,
+    "created_utc": 1786405220,
+    "url": "https://www.reddit.com/r/movies/comments/1vl16cb/most_boring_movie_youve_seen/",
+    "selftext": "The movie doesn’t necessarily have to be bad just something that was boring or unwatchable to you. lol this is mainly inspired by the fact that around 11 years ago I tried watching “My week with Marylin” fell asleep at some point and woke up during the credits , haven’t ever gone back to see the rest of it 😩🤣. \n\nwhat are some movies that have bored you to sleep or that you’ve tried to watch but just couldn’t. ",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vl16cb/most_boring_movie_youve_seen/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "made this Fight scene in blender, how can i still be jobless?????????? part 3. Chat are we cooked??",
+    "author": "hunter_2one",
+    "score": 946,
+    "created_utc": 1786441451,
+    "url": "https://v.redd.it/81b673seupih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/81b673seupih1/HLSPlaylist.m3u8?a=1789093868%2CNmQ5NzhkNjg5MWQxYmJjOTZiOTgwMmZkNjhiZWRhNzdiNzljOTVmYjRmNTcwY2Y0MDhlYTY0MjFkOTI5ZWE2Mw%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/Z2tnbzBidGV1cGloMUbd4ZjuuBhzpS-uv1LQEh8sHdzXjHHKvM-aYH8NJL1Q.png?format=pjpg&auto=webp&s=4d3e73c4d12f27452097fb5b831c65bd838a4bed"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vlcwea/made_this_fight_scene_in_blender_how_can_i_still/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Too many polygons?",
+    "author": "A-Sad-Keyboardee",
+    "score": 939,
+    "created_utc": 1786430160,
+    "url": "https://www.reddit.com/gallery/1vl9oqx",
+    "selftext": "Does my low poly character have to many polygons? If so, what are suggestions to reduce the number while keeping the shape?",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/o0ks8pbxxoih1.png?width=1112&format=png&auto=webp&s=919bb8715eb998510197673f52832c66b1eb7528",
+      "https://preview.redd.it/6suf3pbxxoih1.png?width=1450&format=png&auto=webp&s=3309dc68a20726a51a03518d34e7975d048a6c67",
+      "https://preview.redd.it/m2hx6pbxxoih1.png?width=1142&format=png&auto=webp&s=1176b2599a787077122834c2f785cb6ff32b634f"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vl9oqx/too_many_polygons/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Big Trouble in Little China (1986)",
+    "author": "screen_stack",
+    "score": 930,
+    "created_utc": 1786450221,
+    "url": "https://www.reddit.com/r/movies/comments/1vlfo2n/big_trouble_in_little_china_1986/",
+    "selftext": "Big Trouble in Little China (1986)\n\nRating: 10/10 (PERSONAL FAVORITE)\n\nWatched: March 23, 2026\n\n\n\nBig Trouble (as anyone who is a fan of this gem calls it) is a spectacular movie. \n\n\n\nIt fully embraces the spirit of many different paths within the martial arts genre. Do the fight scenes compare to any other martial arts movie? No. Not really. Not at all in fact, but I don't care if it looks like the actors are trying very hard to remember where their fists and feets go. I don't.\n\n\n\nThat's part of its damn charm.\n\n\n\nIt leans HEAVY into Wuxia with The Storm Brothers, and the first time I saw them appear on screen oh so many years ago, I was ENRAPTURED. \n\n\n\nWith their various weapons and abilities, they are Westernized Wuxia Badasses and we should all be there for that. I've seen a lot of movies that showcase these kinds of villains, but nothing quite compares to The Storm Brothers.\n\n\n\nBig Trouble? \n\n\n\nA Kung Fu Comedy with a sweet subversive trope where our hero, Jack Burton, isn't actually the hero. He's the sidekick. \n\n\n\nWang is the hero and he'll do whatever it takes, including storming the Gates of Heaven and Earth to save Miao Yin. \n\n\n\nMy absolute favorite thing of this movie is how comfortable Kurt Russell is as Jack Burton. His delivery is effortless. If you've seen it, you know what I'm talking about. If you haven't, shame on you. And Wang Chi (Dennis Dun) is fearless in his love and unstoppable in his Kung Fu.\n\n\n\nEndlessly quotable, endlessly enjoyable, there's genuinely something special and charming about Carpenter's homage to kung fu movies. \n\n\n\nIt works on all levels, from Victor Wong as Egg Shen being an ancient mystic all the way to James Hong as David Lo Pan being an eternally cursed sorcerer.\n\n\n\n",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlfo2n/big_trouble_in_little_china_1986/"
+  },
+  {
+    "subreddit": "digitalart",
+    "title": "Recent YCH illustration. I absolutely loved working with this gorgeous character design✨",
+    "author": "Eiria_",
+    "score": 898,
+    "created_utc": 1786401397,
+    "url": "https://www.reddit.com/gallery/1vkznn0",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/u6xf5g49kmih1.png?width=1080&format=png&auto=webp&s=9b3ff16ace042db3cc66ac47ffeef77f89949724",
+      "https://preview.redd.it/631l4738kmih1.png?width=1080&format=png&auto=webp&s=893e2cef6f533610ae038f0a2e47d41149313c1e",
+      "https://preview.redd.it/ygrntf38kmih1.png?width=1080&format=png&auto=webp&s=5d8e25f3793bedc0830e368f949e645792d54907",
+      "https://preview.redd.it/09a14738kmih1.png?width=1080&format=png&auto=webp&s=d170cbae82bd881b56fd2ca6955b6354b3035cc1",
+      "https://preview.redd.it/fqahz638kmih1.png?width=1080&format=png&auto=webp&s=aa0f07496f873c606d56a842f26f8201b980f216",
+      "https://preview.redd.it/9of11938kmih1.png?width=1080&format=png&auto=webp&s=70a1dc26928010e20ac5423c8f28d52f7531104f"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/DigitalArt/comments/1vkznn0/recent_ych_illustration_i_absolutely_loved/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Researchers find way to extract hidden reasoning from frontier AI models via API, show Kimi likely distilled this way, also find scheming/other quirks in the raw chain of thought",
+    "author": "socoolandawesome",
+    "score": 889,
+    "created_utc": 1786455705,
+    "url": "https://www.reddit.com/gallery/1vlhteb",
+    "selftext": "Link to Twitter thread:\n\nhttps://x.com/kotekjedi\\_ml/status/2087147042888114428\n\nLink to paper:\n\nhttps://arxiv.org/abs/2608.09867\n\nLink to stolen-thoughts website:\n\nhttps://stolen-thoughts.com/\n\nLink to May report:\n\nhttps://blog.cryptographyengineering.com/2026/05/29/fooling-around-with-encrypted-reasoning-blobs/",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/c2o4jo502rih1.jpg?width=1206&format=pjpg&auto=webp&s=d5ad4bdab0b3da427c02cd362eb8ff628c7eaf8c",
+      "https://preview.redd.it/e1qcap502rih1.jpg?width=1206&format=pjpg&auto=webp&s=1ed1111a5873c77678cdb767e4c194c6a1055f5c",
+      "https://preview.redd.it/3nu5ip502rih1.jpg?width=1206&format=pjpg&auto=webp&s=0374dc67a923937cbfe33963c5503b6dca311262",
+      "https://preview.redd.it/gz18tr502rih1.jpg?width=1182&format=pjpg&auto=webp&s=4703f6d349f38a261406742bfd6f7660e8f10ebf",
+      "https://preview.redd.it/x76hcq502rih1.jpg?width=1206&format=pjpg&auto=webp&s=02091701df09891f3c13fc7943da558fdbaf94b4",
+      "https://preview.redd.it/gaff4q502rih1.jpg?width=1206&format=pjpg&auto=webp&s=c6a2c728c04d75676b17d8c4af4294c830a1b31b",
+      "https://preview.redd.it/zqhcco502rih1.jpg?width=1206&format=pjpg&auto=webp&s=e5fd8eb2438bb469d1c72e7221a72828378791aa",
+      "https://preview.redd.it/7gpv3q502rih1.jpg?width=1206&format=pjpg&auto=webp&s=b014cdef9a71951eddffc2573b246632c6449a39",
+      "https://preview.redd.it/ygolsn502rih1.jpg?width=1206&format=pjpg&auto=webp&s=071b17c1e743cdf3a0205304180905ac393dd2c6",
+      "https://preview.redd.it/wqeyjq502rih1.jpg?width=1206&format=pjpg&auto=webp&s=7db1d19522470e872851dc5b469dc824f3620767",
+      "https://preview.redd.it/tib3up502rih1.jpg?width=1184&format=pjpg&auto=webp&s=70c2694429d6efed0286a486ab1e1a450e221574"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vlhteb/researchers_find_way_to_extract_hidden_reasoning/"
+  },
+  {
+    "subreddit": "indiegaming",
+    "title": "First look at our new game! Taking a wrench as a weapon to a hostile planet, will the crew survive?",
+    "author": "Stillsun-ark",
+    "score": 862,
+    "created_utc": 1786483774,
+    "url": "https://i.redd.it/xy4ba52lctih1.gif",
+    "selftext": "Stillsun Ark is a JRPG where you'll be stranded on a planet where beauty endangers your survival. We're curious what you think about the in-game look, and if you have some feedback, feel free to share it. ",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/xy4ba52lctih1.gif"
+    ],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/IndieGaming/comments/1vlunec/first_look_at_our_new_game_taking_a_wrench_as_a/"
+  },
+  {
+    "subreddit": "art",
+    "title": "The Great Waterfall, Hiro Isono, acrylic on canvas, 1995",
+    "author": "Tokyono",
+    "score": 846,
+    "created_utc": 1786473426,
+    "url": "https://i.redd.it/abci9hziisih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/abci9hziisih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vlpy9x/the_great_waterfall_hiro_isono_acrylic_on_canvas/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Slavic God Perun, Damjan Gjorgievski, digital, 2023",
+    "author": "DamjanGj",
+    "score": 820,
+    "created_utc": 1786433832,
+    "url": "https://i.redd.it/7o7eivmy8pih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/7o7eivmy8pih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vlaqce/slavic_god_perun_damjan_gjorgievski_digital_2023/"
+  },
+  {
+    "subreddit": "Simulated",
+    "title": "Runtime snow simulation, aimed for maximum realism",
+    "author": "DimaSerebrennikov",
+    "score": 820,
+    "created_utc": 1785588099,
+    "url": "https://v.redd.it/rjki4s82drgh1",
+    "selftext": "For this, I added a system that spawns particles along the trail, and these particles deposit a bit of snow while they fly, with less and less snow being deposited over time as they fade out. What's cool about this is that the snow initially comes from the mass that the trace removed, so the total amount of snow stays the same. I also added a smoothing algorithm on top of all this. There's no parallax here, but I'm currently working on adding that.\n\nBigger video here: [https://youtu.be/pfaewyfFrKM](https://youtu.be/pfaewyfFrKM)",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/rjki4s82drgh1/HLSPlaylist.m3u8?a=1789093875%2CODAzNTYwZjIxYzM4MzFiYTBmZDQxYzYwMjAxMTk4NGNkOTE5OTExNTFkZDNmZDdlYzcxMjRjOTFkZTRhOGQxMA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/ZDJsMTF3OTJkcmdoMWzZWZqmE5iQZQdtDq_2ZwsBYtmwM4mXLmVBSbBlSN4u.png?format=pjpg&auto=webp&s=8e0ca40dca0b58a66c0be3d4e301b0f9ac6f4427"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/Simulated/comments/1vcme4h/runtime_snow_simulation_aimed_for_maximum_realism/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Trying to create manga style smoke",
+    "author": "ivanmcol",
+    "score": 808,
+    "created_utc": 1786452306,
+    "url": "https://v.redd.it/81kwy74prqih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/81kwy74prqih1/HLSPlaylist.m3u8?a=1789093868%2CYTY3OWNjM2VmYTAwNmY1ZDQ3MmE0MDFiZTZiNzM3MTc1MDRkZTgxNDdiMWQyN2EzYzlkZjM2MDRlOTY2NTQwMg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/bGp0cmtyNHBycWloMYQrURvIjmk-adEnk4-ef6_siJh10maQGUUPY4Urlj9l.png?format=pjpg&auto=webp&s=ba2e86e10f1d60d2c637b2cc2d14d6081207c4ba"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vlgfuy/trying_to_create_manga_style_smoke/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "After 4 years and 74 updates, I finally built the spline tool I always wanted.",
+    "author": "MikeDanielsson",
+    "score": 785,
+    "created_utc": 1786377481,
+    "url": "https://v.redd.it/b9z7a1h6lkih1",
+    "selftext": "A few years ago I was working at a game studio where we were developing a mobile game called Touchgrind BMX 3. It's a mountain bike game where you ride along different paths, do jumps and perform tricks.\n\nShort video here: [https://www.youtube.com/watch?v=pEcc\\_QkSUwU](https://www.youtube.com/watch?v=pEcc_QkSUwU)\n\nBecause we had many bike paths in our game, we really needed a spline tool, so we bought a tool called Curvy Splines. After working with it for a while, I felt it had two issues that I wanted to solve.\n\n**1. Mesh deformation**  \nWe needed to export meshes after deforming them to get the best performance. This became a bit tedious when constantly making adjustments to the splines.\n\nIn Spline Architect I solved this by adding an option to remove all Spline Architect components during the build process. So if you want, the tool can completely remove itself from the build while all the deformed meshes it created are still there. In the editor you can just continue working and making adjustments to the splines.\n\n**2. Node editor**  \nCurvy Splines uses a node editor where you create a sequence of nodes for deforming meshes. It gives you a lot of possibilities, but in the end I felt like I was creating the same node sequences over and over again, which became a bit time-consuming.\n\nSpline Architect works differently. You parent a GameObject as a child of the spline and it will deform meshes inside its MeshFilter or MeshCollider components. You can then freely move, rotate and scale the GameObject along the spline or repeat it from start to end. If you don't want to deform the mesh, you simply change its type to Follower.\n\nWe later switched from Curvy Splines to a combination of Spline Architect and Unity Splines. Spline Architect was still very young when this happened in 2023 and didn't have its current runtime API, so things like paths for our bots were handled using Unity Splines, while Spline Architect handled mesh and terrain deformation.\n\nAfter working with Unity Splines for some time, we ran into some other issues.\n\n**1. Bugs**  \nOne of our level designers opened a level one day and found that maybe half of the control points on our splines had changed position. It took him around half a day to fix everything, and this wasn't the only time it happened.\n\nWe also had a lot of undo issues where pressing Ctrl+Z could flood the console with errors or crash the editor.\n\nNewer versions of Unity Splines don't seem to have these issues anymore, but at the time they caused some pretty big problems for us.\n\n**2. Editor performance**  \nWith Unity Splines we could repeat prefabs along splines. We used this to place colliders on each side of our bike paths so the player was correctly restricted to the path.\n\nAfter having 5 or 6 longer splines in the scene, the FPS started dropping a lot while working in spline mode. We also noticed that moving one spline with prefabs caused all other splines in the same Spline Container to update their prefabs as well. Moving a single spline with only a few colliders could sometimes make the editor run at less than 1 FPS.\n\nIn Spline Architect you can move thousands of GameObjects that are attached and repeated along a spline. And when you move a spline, only that spline will update its attached GameObjects.\n\n\\----------\n\nPerformance has always been one of the most fun parts of making this tool. And the Burst Compiler has really been one of the key parts throughout the whole development. The only time Spline Architect didn't use the Burst Compiler at all was during the first month of its 4 years of development.\n\nI might see some issues with Unity's Splines package, but damn, the Burst Compiler is good. I couldn't recommend it more.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/b9z7a1h6lkih1/HLSPlaylist.m3u8?a=1789093912%2CYzM5NWUyOTQ5ZjhjZjZjMTQ3MGUxOTZhZTEzZDNkNzNlOWZiY2FhNThjMTQwZTFhZWYyZWEyYzkzMjc5ZGRmNg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/Y2p4d3ZmaDZsa2loMRiwiKz_cC0yL_zdn6Rlwv6O0Qff2SZ9iTfZi7kWH2tR.png?format=pjpg&auto=webp&s=7154c6c0c724be1a4df1a4067f0491dc5f7979bf"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vkou5x/after_4_years_and_74_updates_i_finally_built_the/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "The Celestial Talisman, Florenaux (me), 3D, 2026 (Process)",
+    "author": "florenaux",
+    "score": 770,
+    "created_utc": 1786435969,
+    "url": "https://v.redd.it/qllqu8r2fpih1",
+    "selftext": "I just wanted to share the creative process behind my latest animation with you!",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/qllqu8r2fpih1/HLSPlaylist.m3u8?a=1789093868%2CZjE1MWFlYjM0YWRjNWE2YzNiMmY4MTEwZWQxMjM5MThmNTZmMGI2OWMxMzA3MjE5MjE1MDgzMzQ4N2NiYjcwOQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/bmFrOGhucjJmcGloMcTB-S1o1M3XSGQBsYCSSxp13o6Eiyig_I572CZKqR0i.png?format=pjpg&auto=webp&s=c6905d298417c255b4212ddf035fea7590c50ea3"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vlbc8i/the_celestial_talisman_florenaux_me_3d_2026/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Bernie Sanders has written a letter to Sam Altman, Dario Amodei, and Mark Zuckerberg urging them to immediately pause all AI development in the interest of humanity. And he warns if they do not take appropriate action now, the US Senate will.",
+    "author": "sharkymcstevenson2",
+    "score": 748,
+    "created_utc": 1786380111,
+    "url": "https://i.redd.it/2c5qbuc6tkih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/2c5qbuc6tkih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkq2o8/bernie_sanders_has_written_a_letter_to_sam_altman/"
+  },
+  {
+    "subreddit": "artificial",
+    "title": "Claude now embeds an invisible watermark into every piece of text it generates.",
+    "author": "Left-Hotel904",
+    "score": 745,
+    "created_utc": 1786432806,
+    "url": "https://i.redd.it/zzmemgrv5pih1.jpeg",
+    "selftext": "Anthropic just documented how it works. Two marks, both machine-readable:  \n  \nText: an imperceptible watermark woven into the words themselves. You can’t see it, and it doesn’t change meaning, quality, or readability.  \n\n\nFiles (.svg, .png, .jpg): signed provenance metadata on the C2PA open standard, so you can tell if a file’s been tampered with.  \n  \nThe watermark is applied at the model level.  \n  \nThat means it shows up no matter where the text comes from: the API, Claude, Claude Code, Cowork, Claude Tag, and even when a supported model runs through AWS, Google Cloud, or Microsoft Foundry.  \n  \nModels launched on or after August 2, 2026 mark from day one. Older models are getting it during a transition period.  \n  \nEvery sentence Claude writes for you now carries a signature you’ll never see.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/zzmemgrv5pih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "LTX-2.5 is Here",
+    "author": "ltx_model",
+    "score": 744,
+    "created_utc": 1786475557,
+    "url": "https://v.redd.it/jlz6uelwosih1",
+    "selftext": "LTX-2.5 went live today. It's a big upgrade to the existing LTX architecture, with nearly every stage of the pipeline reworked, on top of a larger training set and reinforcement-learning post-training. The short version: you can now generate a whole multishot scene in one pass, complex prompts hold together far better, and the output is sharper. \n\n**The Highlights**\n\nFull details are available [on our blog](https://ltx.io/newsroom/introducing-ltx-2-5). Here’s the highlights of this release:\n\n**Native multishot.** One generation produces multiple connected shots that hold character identity, environment, lighting, voice, and style across cuts.\n\n**Diffusion Fidelity Rendering**. Instead of locking every scene to one compression rate, the model allocates compute by scene complexity and budget, dynamically allocating more compute to visually demanding moments and less where it is not needed.\n\n**Better distilled model.** The distilled model keeps far more of the full model's quality at much lower compute, so near-full quality is realistic on GPUs you already have.\n\nAnd much more.\n\nWhere to get everything:\n\n* Weights: [HuggingFace](https://huggingface.co/Lightricks/LTX-2.5)\n* Python pipelines: [GitHub](https://github.com/Lightricks/LTX-2/tree/main/packages/ltx-pipelines) \n* ComfyUI workflows: [GitHub](https://github.com/Lightricks/ComfyUI-LTXVideo/tree/master/example_workflows/2.5)\n* Questions and help: [Discord](https://discord.gg/ltxplatform)\n\nWe can't wait to see what you make with it.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/jlz6uelwosih1/HLSPlaylist.m3u8?a=1789093898%2CY2RmMGMwYWQ1YzRlYTczYmNmYzQxYTg1MDgyNzIyZjEyYTViMDM2OWJlODZjNTNmZGIzNzc1MDA2ZGE0YjliOA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/NDYweXo1bXdvc2loMaI4CQIYWnITWw3okrWjgPKLPq1whDO5KgQ4HWbKMCjq.png?format=pjpg&auto=webp&s=75f34dd7ef9d17043c4707379dfb76f4d10532f7"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1vlqy46/ltx25_is_here/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "My soft-body physics merging game",
+    "author": "keepeetron",
+    "score": 743,
+    "created_utc": 1786491746,
+    "url": "https://v.redd.it/hwt4aqva0uih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/hwt4aqva0uih1/HLSPlaylist.m3u8?a=1789093919%2CZTM4MWUwYjlmMGZiMDUwODhhM2VmYmI4ZTMzY2NjYjEzYTFjMTMwNDJhMGI0NzRhOTM0NWM4NDJjZjE3Njc0NA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/Mnc5cDR3NzYxdWloMQIJaJwtVA8JRd3YEqbv3H_bLAaKs2zTiFQT1D8tcVmo.png?format=pjpg&auto=webp&s=1b05ab42eb35e0c908d0e0c80de9997b5721a418"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vlxww3/my_softbody_physics_merging_game/"
+  },
+  {
+    "subreddit": "3Dmodeling",
+    "title": "Cyberpunk Girl",
+    "author": "MohammadGhadimi",
+    "score": 741,
+    "created_utc": 1786350468,
+    "url": "https://www.reddit.com/gallery/1vkf0kc",
+    "selftext": "3dsmax\n\nsubstance painter\n\ncorona render",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/68zx8aiqciih1.jpg?width=1333&format=pjpg&auto=webp&s=0401668dc82a248101bcfaaaa200415fe17b9e14",
+      "https://preview.redd.it/2d089nmsciih1.jpg?width=1333&format=pjpg&auto=webp&s=60b4142dd3324ee747b580dfe7e4c7f7670c62c2",
+      "https://preview.redd.it/fw1iuxuuciih1.jpg?width=3614&format=pjpg&auto=webp&s=c9fdd93c8b6384d444c4d158fdefbf4d32bd6c63",
+      "https://preview.redd.it/423nqg6tciih1.jpg?width=1996&format=pjpg&auto=webp&s=9dd1b2797b81f7c8cef0d93e82251811f8176bbe",
+      "https://preview.redd.it/ncgpy2axciih1.jpg?width=4704&format=pjpg&auto=webp&s=2a7290ae53bbf5bb3a78375fca3223bb8495c754"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/3Dmodeling/comments/1vkf0kc/cyberpunk_girl/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Quick lowpoly hand",
+    "author": "iltaen",
+    "score": 717,
+    "created_utc": 1786412561,
+    "url": "https://v.redd.it/442av51phnih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/442av51phnih1/HLSPlaylist.m3u8?a=1789093868%2CYTU0YTQ4ZjM3N2VmN2I2MWE5Mjg2YWFhYzEyNzM3YzQ2YjAxYzVjNmZmYTEzMDcyNDhlZjdmZmM2ODdhNDI1MA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/cngxd2JmdW9obmloMSS159CxTSE03ZYXqir5uCUMPrLtQBRnuFIq5yDqtCgN.png?format=pjpg&auto=webp&s=d8409f42ded94e402f010880fbf5e98e7cd79488"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vl3xty/quick_lowpoly_hand/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Sunshine, Yusra Baig, Acrylics on Canvas, 2025",
+    "author": "yb-123456",
+    "score": 715,
+    "created_utc": 1786421763,
+    "url": "https://i.redd.it/2idntwu19oih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/2idntwu19oih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vl7487/sunshine_yusra_baig_acrylics_on_canvas_2025/"
+  },
+  {
+    "subreddit": "midjourney",
+    "title": "I Am Your Sword",
+    "author": "Dropdeadlegs84",
+    "score": 710,
+    "created_utc": 1786276092,
+    "url": "https://www.reddit.com/gallery/1vjnue7",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/4tlye2vw7cih1.png?width=1024&format=png&auto=webp&s=06e186db4affe9319334608be0ced313ca2a6bc0",
+      "https://preview.redd.it/zksb0d4x7cih1.png?width=1024&format=png&auto=webp&s=83cfd6f79362b2de042934019d2d9541dc1dd87a",
+      "https://preview.redd.it/km4tb6rw7cih1.png?width=1024&format=png&auto=webp&s=79578ab0b9b12113de137f37d77b909258fa7fd5",
+      "https://preview.redd.it/3olvtr6x7cih1.png?width=1024&format=png&auto=webp&s=9de417f4dcd6153bd0ad687ce37ab07ce7c7f556",
+      "https://preview.redd.it/37tsjdxw7cih1.png?width=1024&format=png&auto=webp&s=3ae6df719204745fe060977e332bdebb9bcc8373",
+      "https://preview.redd.it/4wxkqfzw7cih1.png?width=1024&format=png&auto=webp&s=60c9241287e4a954c91bfbad3670937453b29ab9",
+      "https://preview.redd.it/x5bn6o1x7cih1.png?width=1024&format=png&auto=webp&s=654e8591673310970b4aba9710bb68b7416abdfc"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/midjourney/comments/1vjnue7/i_am_your_sword/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "Run your depth texture through a radial blur compute shader and out comes beautiful god rays",
+    "author": "TeamLDM",
+    "score": 669,
+    "created_utc": 1786457071,
+    "url": "https://v.redd.it/q10t6zrr5rih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/q10t6zrr5rih1/HLSPlaylist.m3u8?a=1789093919%2CZjllMzEyODAwZGNmNzI2YTdlNTQ5NWNkODA2MjNlMDA5YmIxMzVlOGQyNzYzOWZkOWQyYWFmYjY3YTE4ZmQ1NA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/dnZjNDRxc3I1cmloMVcDE5nmanCdI7EnVvZ3DYAUM-Mm8XfSMfMRx4Vcison.png?format=pjpg&auto=webp&s=9492a31c010bffcbee3b82f3395b723482226cce"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vlie37/run_your_depth_texture_through_a_radial_blur/"
+  },
+  {
+    "subreddit": "digitalart",
+    "title": "Toph sketches I forgot to post",
+    "author": "Zestyclose_Tea_65",
+    "score": 667,
+    "created_utc": 1786426314,
+    "url": "https://i.redd.it/lx17smujmoih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/lx17smujmoih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/DigitalArt/comments/1vl8jld/toph_sketches_i_forgot_to_post/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "Working on a combat game that's basically Super Smash Bros but in 3D (Repost with video)",
+    "author": "Special_Baby_3307",
+    "score": 667,
+    "created_utc": 1786442659,
+    "url": "https://v.redd.it/ze1h0fq5zpih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/ze1h0fq5zpih1/HLSPlaylist.m3u8?a=1789093912%2CZDRiNGEwMTZjZjNiZTdkNWNjZjUyNzY5ZDEwNjQ1MDJhZTYyNzJjODcxZjc5OTFhMjQzYTRlNTQ0Y2MzN2ZlNQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/MGlvNHZwcTV6cGloMbhciC5ne0ehirNoDB3eUr_AGLN_r--A4YMHb75F5Kz9.png?format=pjpg&auto=webp&s=d733e5e006464291fc8f38e294ef3372f1bcbc76"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vld8st/working_on_a_combat_game_thats_basically_super/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "OpenAI's Chief Operating Officer resigns.",
+    "author": "borowcy",
+    "score": 647,
+    "created_utc": 1786478959,
+    "url": "https://x.com/bradlightcap/status/2087211567012032862",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vlsi81/openais_chief_operating_officer_resigns/"
+  },
+  {
+    "subreddit": "television",
+    "title": "'Reacher' Season 4 Review: Prime Video’s Dad-Action Favorite Hits Its Muscular Head Against The Ceiling",
+    "author": "petite-acorn",
+    "score": 636,
+    "created_utc": 1786462066,
+    "url": "https://theplaylist.net/reacher-season-4-review-alan-ritchson-prime-video-20260811/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vlknfa/reacher_season_4_review_prime_videos_dadaction/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "STAR REKT: Encounter at Goonpoint. Full TNG episode made locally in a day on a 5090 with MiniMax H3, native dialogue and audio, no TTS pipeline",
+    "author": "Arman64",
+    "score": 628,
+    "created_utc": 1786463470,
+    "url": "https://v.redd.it/ehit8yxmorih1",
+    "selftext": "Made entirely with H3 open weights running local (pruned INT8, single 5090). Every voice, sound effect and lip sync is generated in-model in one pass per shot. No ElevenLabs, no wav2lip, no separate audio pipeline. What you hear is what the model shipped. No Lora's. \n\nRoughly 20 clips, mostly 15s T2VA with internal cuts written into the prompt, some I2VA/L2VA chained off harvested frames for continuity. Stitched in an editor, no post beyond trims and one or two overdubs where a voice rolled bad.\n\nStuff I learned the hard way, in case anyone's fighting this model:\n\n* Multi-shot pieces go in ONE generation with \\[Shot 1\\]/\\[Shot 2\\] internal cuts. Separate generations = different people wearing the same uniform.\n* Off-screen voices of named characters render generic and then bleed onto the next speaker. If a character speaks, their face is on screen, or you overdub.\n* Write expressions as anatomy, not vibes. \"Blank face\" renders a literally blank face. Ask me how I know.\n* Single word lines are TTS coin flips. \"How.\" became \"HAL\". Anchor short lines in sentences.\n* Negative prompts do basically nothing. Serialised cause and effect in the description does everything.\n\nHappy to share prompt structure if anyone wants it.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/ehit8yxmorih1/HLSPlaylist.m3u8?a=1789093898%2CMDY3YTY5ZjIyZTg0ODRiNmYwNzIyYWFkOGQ4MjhhYjBlMzUwNjNjOWE2YzA4MDU2NmMzMWE2ZTcxNTNlZjc3NQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/YmdiZjY5eW1vcmloMceml9mPwQp55LMMgHzm_SCO8c8HFyFj6MnjBz4BmcpU.png?format=pjpg&auto=webp&s=ec420c0698d9667b400403623a84f022eec25cd9"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1vllala/star_rekt_encounter_at_goonpoint_full_tng_episode/"
+  },
+  {
+    "subreddit": "television",
+    "title": "Why Kyle Chandler Didn’t Originally Want to Join Lanterns",
+    "author": "Top_Report_4895",
+    "score": 627,
+    "created_utc": 1786408239,
+    "url": "https://www.televisionacademy.com/features/emmy-magazine/articles/lanterns-kyle-chandler-hbo",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/television/comments/1vl2c8s/why_kyle_chandler_didnt_originally_want_to_join/"
+  },
+  {
+    "subreddit": "ChatGPT",
+    "title": "Writing formats I can no longer read because AI has beaten them to death",
+    "author": "Draelach",
+    "score": 597,
+    "created_utc": 1786443109,
+    "url": "https://www.reddit.com/r/ChatGPT/comments/1vlddcq/writing_formats_i_can_no_longer_read_because_ai/",
+    "selftext": "I don’t even care anymore whether these posts are \\*actually\\* AI-generated.\n\nThe problem is that there’s now a very specific style of internet writing that instantly makes my brain refuse to continue reading.\n\nYou know the one.\n\nActually, no.\n\nYou \\*feel\\* the one.\n\nSee? I’m already doing it.\n\nHere is my current collection of writing formats that need to be put on administrative leave:\n\n\\---\n\n\\*\\*1. The hostage-negotiation reveal\\*\\*\n\nDo you wake up tired?\n\nDo you struggle to focus?\n\nDo you feel exhausted at 3pm?\n\nDo you wonder why?\n\nThere’s a reason.\n\nAnd it’s probably not what you think.\n\nThe reason?\n\nYou’re dehydrated.\n\n\\*\\*JUST TELL ME TO DRINK WATER.\\*\\* Why did this require the pacing of a Netflix murder documentary?\n\n\\---\n\n\\*\\*2. “It’s not X. It’s not Y. It’s Z.”\\*\\*\n\nIt’s not talent.\n\nIt’s not luck.\n\nIt’s not intelligence.\n\nIt’s consistency.\n\nThere has never been a more efficient way to make completely normal advice sound like it was discovered on a stone tablet.\n\n\\---\n\n\\*\\*3. “You don’t need X. You need Y.”\\*\\*\n\nYou don’t need motivation.\n\nYou need discipline.\n\nYou don’t need more time.\n\nYou need better priorities.\n\nYou don’t need another productivity system.\n\nYou need—\n\nI need you to stop telling me what I need.\n\n\\---\n\n\\*\\*4. Every sentence gets its own studio apartment\\*\\*\n\nI failed.\n\nBadly.\n\nThen something changed.\n\nMe.\n\nI stopped waiting.\n\nAnd started doing.\n\nSuddenly:\n\nResults.\n\nApparently paragraphs are now considered oppressive.\n\n\\---\n\n\\*\\*5. The fake profound reversal\\*\\*\n\nProductivity isn’t about doing more.\n\nIt’s about doing less.\n\nBetter.\n\nLeadership isn’t about speaking.\n\nIt’s about listening.\n\nSuccess isn’t about succeeding.\n\nIt’s about succe—\n\nPlease stop.\n\n\\---\n\n\\*\\*6. Good. Better. Best.\\*\\*\n\nWorking hard is good.\n\nWorking smart is better.\n\nWorking on the right thing?\n\nBest.\n\nCoffee is good.\n\nSleep is better.\n\nPosting neither of these sentence structures on LinkedIn?\n\nBest.\n\n\\---\n\n\\*\\*7. “And the best part?”\\*\\*\n\nI doubled my income.\n\nCut my working hours in half.\n\nLost 14kg.\n\nLearned Mandarin.\n\nReconnected with my father.\n\nAnd the best part?\n\nIt only took 10 minutes a day.\n\nOh excellent, here comes the newsletter.\n\n\\---\n\n\\*\\*8. “The truth?”\\*\\*\n\nThe truth?\n\nNobody is coming to save you.\n\nThe uncomfortable truth?\n\nYou’re wasting your potential.\n\nThe harsh reality?\n\nYou already know what to do.\n\nThe \\*actual\\* truth?\n\nYou could have written all of this in one paragraph.\n\n\\---\n\n\\*\\*9. Fake contrarianism\\*\\*\n\nEveryone tells you to work harder.\n\nThey’re wrong.\n\nThe secret?\n\nWork smarter.\n\nAbsolutely devastating. Economics will never recover from this discovery.\n\n\\---\n\n\\*\\*10. “Most people X. Successful people Y.”\\*\\*\n\nMost people manage time.\n\nSuccessful people manage energy.\n\nMost people consume.\n\nSuccessful people create.\n\nMost people read posts like this.\n\nSuccessful people closed the tab six lines ago.\n\n\\---\n\n\\*\\*11. STOP X. START Y.\\*\\*\n\nStop scrolling.\n\nStart building.\n\nStop consuming.\n\nStart creating.\n\nStop waiting.\n\nStart acting.\n\nSTOP USING THIS FORMAT.\n\nSTART WRITING NORMAL SENTENCES.\n\n\\---\n\n\\*\\*12. The mandatory rule of three\\*\\*\n\nNo gimmicks.\n\nNo hacks.\n\nNo bullshit.\n\nJust results.\n\nThree short statements apparently activate the part of the human brain responsible for purchasing a $497 online course.\n\n\\---\n\n\\*\\*13. One-word dramatic emphasis\\*\\*\n\nThe result?\n\nFreedom.\n\nThe lesson?\n\nConsistency.\n\nThe secret?\n\nFocus.\n\nThe feeling I experience while reading this?\n\nFatigue.\n\n\\---\n\n\\*\\*14. “Read that again.”\\*\\*\n\nYour calendar reflects your priorities.\n\nRead that again.\n\nNo.\n\nI understood it perfectly well the first time.\n\n\\---\n\n\\*\\*15. “Let that sink in.”\\*\\*\n\nYou have 24 hours in a day.\n\nLet that sink in.\n\nI promise you the information that a day has 24 hours has already completed the sinking process.\n\n\\---\n\n\\*\\*16. “Here’s the thing:”\\*\\*\n\nHere’s the thing:\n\nYou already know what you need to do.\n\nHere’s the kicker:\n\nYou’re just afraid to do it.\n\nHere’s what nobody tells you:\n\nI am now scrolling away.\n\n\\---\n\n\\*\\*17. “Nobody talks about this.”\\*\\*\n\nNobody talks about how lonely entrepreneurship can be.\n\nNobody talks about burnout.\n\nNobody talks about imposter syndrome.\n\nNobody talks about failure.\n\nMy brother in Christ, these are approximately 63% of LinkedIn.\n\n\\---\n\n\\*\\*18. “I spent 10 years learning this. Here it is in 7 bullets.”\\*\\*\n\nI spent 10 years learning these lessons.\n\nYou can learn them in 3 minutes.\n\n1. Wake up early.\n2. Exercise.\n3. Focus.\n4. Be consistent.\n5. Learn from failure.\n6. Build relationships.\n7. Never stop learning.\n\nThank you for condensing a decade of human existence into the back of a cereal box.\n\n\\---\n\n\\*\\*19. The suspicious personal-transformation arc\\*\\*\n\nThree years ago:\n\nBroke.\n\nExhausted.\n\nLost.\n\nToday:\n\nTwo businesses.\n\nSix-figure income.\n\nFour-hour workdays.\n\nWhat changed?\n\nI started waking up at 5am.\n\nApparently sunrise is a venture-capital fund.\n\n\\---\n\n\\*\\*20. “Simple? Yes. Easy? No.”\\*\\*\n\nIs it simple?\n\nYes.\n\nIs it easy?\n\nNo.\n\nIs it worth it?\n\nAbsolutely.\n\nWas asking yourself three questions necessary?\n\nAlso no.\n\n\\---\n\n\\*\\*21. Interviewing yourself\\*\\*\n\nThe problem?\n\nFocus.\n\nThe solution?\n\nDiscipline.\n\nThe obstacle?\n\nDistraction.\n\nThe person conducting this interview?\n\nAlso me.\n\n\\---\n\n\\*\\*22. “Not because X. Because Y.”\\*\\*\n\nPeople don’t fail because they lack talent.\n\nThey fail because they quit.\n\nPeople don’t procrastinate because they’re lazy.\n\nThey procrastinate because they lack clarity.\n\nPeople don’t dislike this writing style because it’s repetitive.\n\nThey dislike it because—\n\nNo actually, it’s because it’s repetitive.\n\n\\---\n\n\\*\\*23. Artificial escalation\\*\\*\n\nFirst I was curious.\n\nThen I was interested.\n\nThen I became obsessed.\n\nOne customer became five.\n\nFive became fifty.\n\nFifty became a movement.\n\nA movement became a community.\n\nA community became—\n\nSir, you sell Notion templates.\n\n\\---\n\n\\*\\*24. “It changed everything.”\\*\\*\n\nThen I discovered journaling.\n\nIt changed everything.\n\nThen I started cold showers.\n\nIt changed everything.\n\nThen I discovered time blocking.\n\nIt changed everything.\n\nAt this point your everything has changed so many times that I have no idea what remains.\n\n\\---\n\n\\*\\*25. The dramatic em-dash conclusion\\*\\*\n\nYou don’t need permission.\n\nYou don’t need perfect timing.\n\nYou don’t need anyone’s approval.\n\nYou just need to begin.\n\nBecause the life you want isn’t somewhere in the future—\n\nit starts with you.\n\nWhy does a post about Excel shortcuts end like the final scene of \\*Interstellar\\*?\n\n\\---\n\n\\*\\*26. “No fluff.”\\*\\*\n\nNo fluff.\n\nNo theory.\n\nNo filler.\n\nJust actionable insights.\n\n\\[proceeds to explain that consistency is important for 1,800 words\\]\n\n\\---\n\n\\*\\*27. The binary worldview\\*\\*\n\nAmateurs wait for motivation.\n\nProfessionals show up.\n\nConsumers scroll.\n\nCreators build.\n\nWinners execute.\n\nLosers hesitate.\n\nHumans occasionally sit on the sofa eating crackers and that is also fine.\n\n\\---\n\n\\*\\*28. “X IS DEAD.”\\*\\*\n\nSEO is dead.\n\nEmail is dead.\n\nCold outreach is dead.\n\nTraditional marketing is dead.\n\nThe 9-to-5 is dead.\n\nApparently everything is dead except the guy selling a course about its replacement.\n\n\\---\n\n\\*\\*29. The suspiciously symmetrical manifesto\\*\\*\n\nBuild quietly.\n\nLearn constantly.\n\nMove quickly.\n\nThink deeply.\n\nExecute relentlessly.\n\nSleep occasionally.\n\nMonetize aggressively.\n\nPost this as white text over a photo of a mountain.\n\n\\---\n\n\\*\\*30. The fortune-cookie ending\\*\\*\n\nBecause success isn’t a destination.\n\nIt’s a decision.\n\nGrowth isn’t a goal.\n\nIt’s a mindset.\n\nLife isn’t about finding yourself.\n\nIt’s about—\n\nOkay I’m closing LinkedIn now.\n\n\\---\n\nAnd yes, \\*\\*humans wrote like this before generative AI\\*\\*. Motivational speakers, copywriters, LinkedIn influencers and content marketers have been committing these crimes for years.\n\nBut AI seems to have industrialized the style.\n\nIt’s like every post is now optimized for someone who cannot tolerate more than nine words before requiring a line break, a rhetorical question, and a dramatic revelation.\n\nMaybe I’m just becoming allergic to “engagement writing.”\n\nAnd the worst part?\n\nThis post was generated by AI.\n\nLet that sink in.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/ChatGPT/comments/1vlddcq/writing_formats_i_can_no_longer_read_because_ai/"
+  },
+  {
+    "subreddit": "digitalart",
+    "title": "Main Menu artwork for my indie project",
+    "author": "BillidKid",
+    "score": 591,
+    "created_utc": 1786433536,
+    "url": "https://i.redd.it/di833rip7pih1.png",
+    "selftext": "Character art for my indie game  \nTimelapse available on my instagram (not allowed to post link here)",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/di833rip7pih1.png"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/DigitalArt/comments/1vlanbo/main_menu_artwork_for_my_indie_project/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Has a movie ever subverted your expectations by simply playing a trope straight?",
+    "author": "Nothing_Whatsoever",
+    "score": 588,
+    "created_utc": 1786449204,
+    "url": "https://www.reddit.com/r/movies/comments/1vlfaru/has_a_movie_ever_subverted_your_expectations_by/",
+    "selftext": "When a trope becomes a cliche, people start mocking how overused it is. Instead movies start making you think it is going in a direction only to surprise you by going in another one. But after a while, the subversions becomes so common that it outright becomes rare to find straight examples. So have you ever seen a movie that caught you off guard by simply playing its tropes straight? You expect the movie to try and subvert you any second, but it never happens. Thus it ironically subverts your expectations by choosing not to subvert your expectations.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlfaru/has_a_movie_ever_subverted_your_expectations_by/"
+  },
+  {
+    "subreddit": "Moviesinthemaking",
+    "title": "Toshirô Mifune &amp; Akira Kurosawa on the set of Throne of Blood (1957)",
+    "author": "Beginning-Passion676",
+    "score": 588,
+    "created_utc": 1786279812,
+    "url": "https://i.redd.it/1wriqa9zicih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/1wriqa9zicih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Moviesinthemaking/comments/1vjp2vn/toshirô_mifune_akira_kurosawa_on_the_set_of/"
+  },
+  {
+    "subreddit": "Moviesinthemaking",
+    "title": "Spider man behind the scenes",
+    "author": "Beginning-Passion676",
+    "score": 539,
+    "created_utc": 1786107270,
+    "url": "https://i.redd.it/99oqwgbx9yhh1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/99oqwgbx9yhh1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Moviesinthemaking/comments/1vhzurv/spider_man_behind_the_scenes/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Verity | Official Trailer | Starring Anne Hathaway, Dakota Johnson and Josh Hartnett, the film follows a woman who discovers disturbing truths about an iconic author after being hired to ghostwrite her latest book.",
+    "author": "yourfavchoom",
+    "score": 527,
+    "created_utc": 1786452981,
+    "url": "https://youtu.be/xdPMKhjMSFs?si=4hn1RMNNbRtytlcN",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlgpg1/verity_official_trailer_starring_anne_hathaway/"
+  },
+  {
+    "subreddit": "indiegaming",
+    "title": "Which Color concept is you favorite?",
+    "author": "treblebull",
+    "score": 523,
+    "created_utc": 1786444140,
+    "url": "https://i.redd.it/3z9rzrvy2qih1.png",
+    "selftext": "Top, Middle, Bottom?\n\nWhat's your favorite one? Rather light or rather dark or something in between? Top and bottom palettes are only made up of four colors, middle one is made up of 6.\n\nJust not sure about which direction would resonate best for a fullscreen desktop game. Game idea is a ship looping in circle, collecting passengers and goods on the way to score.\n\n// edit, thanks for all the feedback! Not saying that this makes my choice easier lol.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/3z9rzrvy2qih1.png"
+    ],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/IndieGaming/comments/1vldocf/which_color_concept_is_you_favorite/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "BREAKING: NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
+    "author": "borowcy",
+    "score": 522,
+    "created_utc": 1786399540,
+    "url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital?ncid=so-twit-436431",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkywi9/breaking_nvidia_partners_with_apollo_blackrock/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Meta will soon release the weights for Muse Spark 1.2, their latest foundation model.",
+    "author": "acoolrandomusername",
+    "score": 520,
+    "created_utc": 1786357642,
+    "url": "https://i.redd.it/l8gjuqi8yiih1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/l8gjuqi8yiih1.png"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkh1lm/meta_will_soon_release_the_weights_for_muse_spark/"
+  },
+  {
+    "subreddit": "Moviesinthemaking",
+    "title": "Behind-the-scenes picture of the Mars decompression scene from Total Recall (1990).",
+    "author": "TwIzTiDfReAkShOw",
+    "score": 516,
+    "created_utc": 1786222817,
+    "url": "https://i.redd.it/ida3d89it7ih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/ida3d89it7ih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/Moviesinthemaking/comments/1vj6xzn/behindthescenes_picture_of_the_mars_decompression/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Irvine Welsh thinks 'Trainspotting' characters would struggle in 2026",
+    "author": "FarOutMagazine",
+    "score": 515,
+    "created_utc": 1786462444,
+    "url": "https://faroutmagazine.co.uk/irvine-welsh-trainspotting-characters-struggle-survive-today/",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlkto4/irvine_welsh_thinks_trainspotting_characters/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "LTX 2.5 WILL BE OUT TODAY ! 🔥",
+    "author": "rishappi",
+    "score": 515,
+    "created_utc": 1786459092,
+    "url": "https://i.redd.it/qr87yb20crih1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/qr87yb20crih1.png"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1vlja8z/ltx_25_will_be_out_today/"
+  },
+  {
+    "subreddit": "conceptart",
+    "title": "Valley, by me. 2026.",
+    "author": "FuriousWK",
+    "score": 512,
+    "created_utc": 1786388319,
+    "url": "https://www.reddit.com/gallery/1vktwj9",
+    "selftext": "Copic marker and pen sketch. ",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/dravlgpmhlih1.jpg?width=832&format=pjpg&auto=webp&s=ee812d3ae61a34c5a7177f9f1e06fdf26827e916",
+      "https://preview.redd.it/mrd98kpmhlih1.jpg?width=3024&format=pjpg&auto=webp&s=51e504402ba2bd85c2edc648ff8fcd7e37dca12a"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/conceptart/comments/1vktwj9/valley_by_me_2026/"
+  },
+  {
+    "subreddit": "movies",
+    "title": "Looney Tunes Legend Chuck Jones’ Family Reacts to ‘Coyote vs. Acme’ | Exclusive",
+    "author": "lawrencedun2002",
+    "score": 507,
+    "created_utc": 1786486010,
+    "url": "https://www.thewrap.com/creative-content/movies/coyote-vs-acme-chuck-jones-family-reacts/?utm_campaign=mrf-twitter-TheWrap&utm_source=twitter&utm_medium=social&mrfcid=202608116a7b995178e57679fd2f9f03",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "movies",
+    "permalink": "/r/movies/comments/1vlvlin/looney_tunes_legend_chuck_jones_family_reacts_to/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "\"do ur thang\" using a mindless GPT 5.6 Sol claims to improve upon Anthropic's Riemann hypothesis +0.002%",
+    "author": "I_HALF_CATS",
+    "score": 481,
+    "created_utc": 1786411118,
+    "url": "https://chatgpt.com/share/6a7a753e-1dbc-83ea-b9b8-a81a75f4e640",
+    "selftext": "Using a mindless prompt, **ChatGPT Sol** found a candidate unconditional improvement to Anthropic’s bound for the proportion of Riemann zeta zeros that are both simple and on the critical line, raising it from **67.250070% to about 67.25214%**. The key observation is that Anthropic’s argument discards structure: it treats the simple-zero contribution (P) largely through rank and trace bounds, even though (P) is actually a **Gram matrix determined by the geometry of the zero locations**. Sol retained the resulting nonnegative Gram-spectrum defect (\\\\Delta(P)), then used Anthropic’s Montgomery–Taylor kernel to show that triples of sufficiently close simple zeros necessarily contribute a positive spectral penalty. A packing argument forces linearly many such triples once the simple-zero density is above (1/2), and inserting that extra defect into Anthropic’s optimized inequality produces the proposed **67.25214%** bound, about **0.00207 percentage points stronger** than Anthropic’s published constant. Sol does **not** regard this as a theorem yet: the finite-dimensional linear algebra, packing argument, and computer-assisted kernel bound look convincing, but the finite-window/truncation passage to the ideal Gram blocks still needs a publication-quality analytic audit and independent verification.\n\nEdit 9:17pm: **up to 67.252625%** an improvement **+0.0026%** over Anthropic.\n\n11:04pm: **67.26229%** (a conversation fork says \"has a reproducible three-point interval computation that is realistic to formalize.\") **+0.01%** over Anthropic\n\n12:30pm: **67.27544665%** \"computer-assisted candidate theorem\"\n\n1am: up to **67.2787614454%** \"still calling these computer-assisted candidate theorems, not established results.\" **+0.023%** over Anthropic\n\n7:30am: **67.28069831%** \"Current status remains:\ncomputer-assisted candidate theorem, not established literature\" **+0.03%** over Anthropic.\n\n8:45am: After some digital coffee \"do ur thang\" prompt variants and ~4 hours of thinking, **ChatGPT Sol** substantially strengthened and clarified that initial candidate. Sol replaced the original greedy triple-packing argument with phase-averaged local Gram inequalities, extended the analysis from three-point to larger Gram blocks, re-optimized the admissible window for the refined objective, and repeatedly discarded stronger numerical claims when adversarial searches exposed counterexamples or unstable certificates. The current research bundle reports a best computer-assisted candidate of approximately **67.2820595%**, an improvement of about **0.03199 percentage points** over Anthropic’s **67.250070%** bound and roughly fifteen times the gain of the first 67.25214% proposal. The conceptual contribution remains the same but is now sharper: Anthropic’s rank–trace relaxation discards spectral information carried by the actual Gram geometry of the simple critical-line zeros, and retaining a quantified portion of that “Gram-spectrum defect” appears to strengthen the resulting zero-density inequality. Sol also developed finite-dimensional optimization and interval-assisted verification code for the relevant kernel inequalities and stress-tested several more ambitious routes, rejecting those that failed numerically or ran into known arithmetic barriers. The **67.2820595%** figure should still be described as a **candidate computer-assisted theorem**, not an established result, until the strengthened matrix argument, finite-window passage, and computational certificate are independently audited or formally verified.\"\n\nI'm preemptively calling this ***The DUT Refinement of the Rank--Trace Method for Simple Zeros of the Riemann Zeta Function*** and if any of you dorks need to save-face you can say DUT stands for \"Defect-Utilizing Tightening\".\n\nAnother chat I have Sol working on the Lean proofs. It says \"the main Lean infrastructure and finite-grid → Poisson tail analysis are built. Remaining work is final Gram/energy assembly plus rigorous verification of the corrected six-point certificate, which is the main remaining risk.\"\n\nLatest and Preprint here: https://chatgpt.com/share/6a7a753e-1dbc-83ea-b9b8-a81a75f4e640",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vl3eqx/do_ur_thang_using_a_mindless_gpt_56_sol_claims_to/"
+  },
+  {
+    "subreddit": "midjourney",
+    "title": "Secret Weapon",
+    "author": "Dropdeadlegs84",
+    "score": 469,
+    "created_utc": 1786362949,
+    "url": "https://www.reddit.com/gallery/1vkipzn",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/70wbwb07ejih1.png?width=1024&format=png&auto=webp&s=42301b3832608b26ba4497f8a5b634b767805721",
+      "https://preview.redd.it/8yczpet6ejih1.png?width=1024&format=png&auto=webp&s=8e341a14e72e03af9bc1682c51c0fa7d32734217",
+      "https://preview.redd.it/fq05esv6ejih1.png?width=1024&format=png&auto=webp&s=4ada86663eb949b8307e3e1dc1777eba8306a662",
+      "https://preview.redd.it/6op0r3y6ejih1.png?width=1024&format=png&auto=webp&s=4824bff90f0a77903b9852cfb1ca2df2913ec130",
+      "https://preview.redd.it/wqpnlxq6ejih1.png?width=1024&format=png&auto=webp&s=5d9d8845e59195b3b7ee2f45aae0f6463b757f92",
+      "https://preview.redd.it/zsbj2gn6ejih1.png?width=1024&format=png&auto=webp&s=183fa29773f4e99e1d8af803e86061c79c2f13c9"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/midjourney/comments/1vkipzn/secret_weapon/"
+  },
+  {
+    "subreddit": "logodesign",
+    "title": "Logo for a tech developer/coder",
+    "author": "Electroma",
+    "score": 461,
+    "created_utc": 1786374889,
+    "url": "https://i.redd.it/ikzrs3andkih1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/ikzrs3andkih1.png"
+    ],
+    "videos": [],
+    "topic": "design",
+    "permalink": "/r/logodesign/comments/1vkno18/logo_for_a_tech_developercoder/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "I can't believe my RTX 3060 is still keeping up!",
+    "author": "_Saturnalis_",
+    "score": 457,
+    "created_utc": 1786425567,
+    "url": "https://streamable.com/57juvd",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1vl8b9w/i_cant_believe_my_rtx_3060_is_still_keeping_up/"
+  },
+  {
+    "subreddit": "conceptart",
+    "title": "Snake Charmer",
+    "author": "kaiquej",
+    "score": 426,
+    "created_utc": 1786460616,
+    "url": "https://i.redd.it/1f25ys6hgrih1.png",
+    "selftext": "Posted my lastest concept on artstation, If you could leave a like, I’d really appreciate it!  \n[https://www.artstation.com/artwork/q09kWR?notification\\_id=8368434505](https://www.artstation.com/artwork/q09kWR?notification_id=8368434505)",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/1f25ys6hgrih1.png"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/conceptart/comments/1vljyvu/snake_charmer/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "What would you add to Godot?",
+    "author": "Anonymous010206",
+    "score": 422,
+    "created_utc": 1786420896,
+    "url": "https://i.redd.it/zpoyyozh6oih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/zpoyyozh6oih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vl6u3z/what_would_you_add_to_godot/"
+  },
+  {
+    "subreddit": "ZBrush",
+    "title": "some zbrush shots from a project i’ve been working on! ⚔️",
+    "author": "Euphoric-Day-5820",
+    "score": 421,
+    "created_utc": 1786290448,
+    "url": "https://www.reddit.com/gallery/1vjt8j9",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/xnlk0arjedih1.png?width=3000&format=png&auto=webp&s=bb2ad41490252dc774892b48a696ca52ae8fba50",
+      "https://preview.redd.it/1wklhdrjedih1.png?width=3000&format=png&auto=webp&s=ab523e1821ef380cd98df84dbecb91f017048a3e",
+      "https://preview.redd.it/wvevjarjedih1.png?width=3000&format=png&auto=webp&s=d37932cf3483b80a3508cf5840d3b14207c84182",
+      "https://preview.redd.it/tjrcybrjedih1.png?width=3000&format=png&auto=webp&s=70bfd95fa9ebf5041c9474ab1245c7a4bdc8d740",
+      "https://preview.redd.it/mfv41brjedih1.png?width=3000&format=png&auto=webp&s=dc7ac9444fe42ecf33918c4dafa24b087978e6ee"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/ZBrush/comments/1vjt8j9/some_zbrush_shots_from_a_project_ive_been_working/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Mark Zuckerberg on X: \"I believe everyone should have access to superintelligence\"",
+    "author": "borowcy",
+    "score": 408,
+    "created_utc": 1786381901,
+    "url": "https://x.com/finkd/status/2086754845218726027",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkqx22/mark_zuckerberg_on_x_i_believe_everyone_should/"
+  },
+  {
+    "subreddit": "art",
+    "title": "Leda &amp; The Swan, Henri-Paul Motte, Oil/Canvas, 1900",
+    "author": "Mysterious-Farm9502",
+    "score": 405,
+    "created_utc": 1786480183,
+    "url": "https://i.redd.it/p9vh3kfs2tih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/p9vh3kfs2tih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vlt1zg/leda_the_swan_henripaul_motte_oilcanvas_1900/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "Box3D extension for Godot: record any scene, then scrub it backwards (UPDATE)",
+    "author": "Sonicmining",
+    "score": 396,
+    "created_utc": 1786392485,
+    "url": "https://v.redd.it/vqwl7u7hgkih1",
+    "selftext": "Follow-up to the engine comparison post. 0.4.2 is out, and the headline feature is what's in the clip, the demo can record itself and play the recording back on a timeline seamlessly after indexing.\n\nHere, I recorded a scene of me blowing up the cube pile, entered the replay timeline, then dragged the scrubber around. The recording is the world's own step log, so everything that happened in the session replays 1:1, my bomb included. Scrubbing backwards doesn't re-simulate anything, played frames are cached as compact transform snapshots, so reverse costs about the same as a video file. The 16,000-body pyramid scrubs the same way, just needs a lengthier index.\n\nBox3D hashes the world every step and a replay re-checks those hashes, so replaying a recording at a different thread count is a live cross-thread determinism test. The demo's new Wave Pile sample replays bit-identically at 1, 2, 4 and 8 workers on desktop. \n\nThe recorder was one of the main things I wanted to bring over from Erin's repo. It's the feature that shows what the engine is purpose-built for: the simulation is a deterministic step log, so a recording is tiny and the playback is exact. It opens up tons of possibilities when building a game.\n\n**Free browser demo, recorder included:** [https://stinkysunstep.itch.io/box3d-godot](https://stinkysunstep.itch.io/box3d-godot)\n\n**Open source repo and native builds:** [https://github.com/Stink-O/box3d-godot](https://github.com/Stink-O/box3d-godot)\n\nQuick warning though, the timeline is very early. It works, but expect rough edges while it gets iterated. The browser build is also the taster, not the real thing, native runs the same scenes at full speed and handles long recordings better. **expect replays on the web demo to be slow past a certain length.**\n\nA longer video going through everything new in 0.4.2 on YouTube: [\\[HERE\\]](https://youtu.be/2Hi7kiknzHk)\n\nStill early and experimental, but everything in the demo works today. MIT licensed.\n\nIf an instant replay tool needs something this one doesn't have, tell me and it goes on the list.\n\n  \n",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/vqwl7u7hgkih1/HLSPlaylist.m3u8?a=1789093920%2CN2Q5MTAxNGJlZDE2ODZlM2Q1ZmFjODgxNjM0MjVmMjYyZmYxN2VkNWU4YjM5ZDZjNWYwYzkyOTViMzZkMTdhNA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/bnU4OWZwOGhna2loMYl3drwFeDHVf7wGwG-dPgAVaY2zv0oKAeTgbC9jwoUd.png?format=pjpg&auto=webp&s=76bbf340d0d28be192e55acabca717eadefa6dac"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vkvt6n/box3d_extension_for_godot_record_any_scene_then/"
+  },
+  {
+    "subreddit": "DigitalPainting",
+    "title": "Interstellar Travelers",
+    "author": "HeRetiKMD",
+    "score": 394,
+    "created_utc": 1785259906,
+    "url": "https://i.imgur.com/wXmIWxl.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.imgur.com/wXmIWxl.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/DigitalPainting/comments/1v958o9/interstellar_travelers/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "Tony The Mole is made with Unity URP &lt;3 | DEMO IS OUT | Wholesome Games Celebration",
+    "author": "lucktape_games",
+    "score": 393,
+    "created_utc": 1786374534,
+    "url": "https://v.redd.it/sw44mi0gbkih1",
+    "selftext": "Hi, we are Efe &amp; Paya and we just released our Demo!\n\nTony the Mole is a cozy 3D digging adventure where you play as the last mole, uncovering the truth about the underground city that raised you. Dig through the earth, help quirky residents, repair forgotten gadgets, and discover the secrets.\n\n  \nUnity rant:\n\nThis engine, I love it, I hate it too sometimes but mostly I love it. I just wish the terrain was better, natural overhangs really not a thing with the base version. I saw a asset called Digger but did not try it. Also built in Occulusion Culling, just does drives me crazy.  \n   \nSpecial thanks: SRP Batcher &lt;3",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/sw44mi0gbkih1/HLSPlaylist.m3u8?a=1789093912%2CYWE3ZTM3OWQxNmE1YTZmZTBmYzc2ODg0YzczZTc3OGQ4ODIxMDcyMGFlMTgyYWM1ZjhhMzIyNjM5MmEzZWM1NQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/NzVnM3Q4MWdia2loMYPzgqA21-jBff0oZHO4tAdMn0HqBQ4QAHf30W54740u.png?format=pjpg&auto=webp&s=d286ff99d42cbcb98dc4ba52f15a7ae936280763"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vknib3/tony_the_mole_is_made_with_unity_urp_3_demo_is/"
+  },
+  {
+    "subreddit": "StableDiffusion",
+    "title": "Made a 6-minute TNG fan scene with MiniMax H3 in ComfyUI",
+    "author": "Glad-Hat-5094",
+    "score": 387,
+    "created_utc": 1786447069,
+    "url": "https://v.redd.it/1dwx49m2bqih1",
+    "selftext": "I’ve been experimenting with MiniMax H3 in ComfyUI and wanted to see how far I could push it beyond short standalone clips.\n\nThis is a roughly 6-minute fan-made Star Trek: The Next Generation scene built from lots of short H3 generations and then edited together into one continuous sequence.\n\nI used reference images to keep the characters and Enterprise-D bridge reasonably consistent, generated dialogue and ambient audio with H3, and then assembled everything in Premiere.\n\nThe biggest challenge was continuity between generations. Character positions, bridge geometry, lighting and timing can all shift, so I ended up incorporating some of those inconsistencies into the actual story.\n\nWhat surprised me most is how close this is getting to being practical for longer-form fan films. Individual scenes are already very doable. The next real hurdle is keeping this level of consistency across an entire episode.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/1dwx49m2bqih1/HLSPlaylist.m3u8?a=1789093898%2CNGJiZjMxOWVmMTI3ZWQwODcxN2E1NDZiZjAyZmYxNmYwNjY2MzQ5NTI5ZWE1ODEyNzk5ZmVjMGI0Y2RkNTIxNg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/ZW4wZ2hxbTJicWloMZFT0uJypdXFAt0utZX6vXDMTaOJuz0Q8a5Du_zkwvAX.png?format=pjpg&auto=webp&s=86a0df1352f3ab450f279b2b5dabd0b32c0d09db"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/StableDiffusion/comments/1vlelfd/made_a_6minute_tng_fan_scene_with_minimax_h3_in/"
+  },
+  {
+    "subreddit": "Simulated",
+    "title": "Came across industrial casting simulation software, has anyone ever used these?",
+    "author": "Loud_Campaign5593",
+    "score": 380,
+    "created_utc": 1786210534,
+    "url": "https://v.redd.it/43iu7mgzs6ih1",
+    "selftext": "How are solvers for these simulations even developed? Has anyone here ever used them? This is one is Magmasoft for reference ",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/43iu7mgzs6ih1/HLSPlaylist.m3u8?a=1789093875%2COTM1ZmE0NDJhZTIwNWFjMDNiZDJkMTVlYzBjMzgzZmJiMjg2ODcyMWVjODZmYzc4MzY1ZTlhMWEzZDFiNTA3Mg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/dW85MWFkZnpzNmloMWJRbDl81Za8imLgCnijm7jkDU3IBtNU9I_pGllIvPC1.png?format=pjpg&auto=webp&s=c84a29f32828df6605c9d7e63aa2103a684aed4b"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/Simulated/comments/1vj205m/came_across_industrial_casting_simulation/"
+  },
+  {
+    "subreddit": "logodesign",
+    "title": "Logo for an Eyelash Stylist",
+    "author": "DigitalDowner",
+    "score": 368,
+    "created_utc": 1786476295,
+    "url": "https://i.redd.it/bbzkf3r5rsih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/bbzkf3r5rsih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "design",
+    "permalink": "/r/logodesign/comments/1vlracn/logo_for_an_eyelash_stylist/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Imbalance Conjecture proven and Teschner’s bondage-number conjecture disproven by AI",
+    "author": "No-Performer-2242",
+    "score": 348,
+    "created_utc": 1786396751,
+    "url": "https://www.reddit.com/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/",
+    "selftext": "Hi everyone, I'm a 4th year undergraduate student studying and doing research in theoretical CS. After seeing the recent advancements made by AI in mathematics, especially in graph theory, I bought a ChatGPT Pro subscription to see if AI could solve some graph theory problems I found interesting. After a few days of testing, GPT-5.6 Sol Max was able to solve two open problems in graph theory:  \n  \n[Imbalance conjecture](https://en.wikipedia.org/wiki/Imbalance_conjecture) (open for 12+ years) [Teschner's bondage-number conjecture](https://en.wikipedia.org/wiki/Bondage_number#:~:text=%5B3%5D-,Conjectures,edit,-Unsolved%20problem%20in) (open for 30+ years)  \n  \nI verified both results independently and asked a friend of mine who specializes in graph theory to check them as well. I submitted both to arXiv, but they removed one after placing a one-submission-per-calendar-month restriction on my new account. I didn't want to wait another month before making this announcement, so I submitted both to another platform. The results are linked below.  \n  \n[A Proof of the Imbalance Conjecture](https://doi.org/10.6084/m9.figshare.33198750)  \n[A Counterexample to Teschner's Bondage-Number Conjecture](https://doi.org/10.6084/m9.figshare.33198777)  \n  \nThese are preprints and have not yet undergone peer review.\n\nAlso, here are the full chats:   \n[Imbalance Conjecture](https://chatgpt.com/share/6a6e5b95-1418-83ea-8228-e62ca34e24e4)  \n[Teschner's Bondage-Number Conjecture](https://chatgpt.com/share/6a7a08fe-9fd8-83e8-b3b4-392282dc501a)",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vkxpob/imbalance_conjecture_proven_and_teschners/"
+  },
+  {
+    "subreddit": "digitalart",
+    "title": "I drew a centaur for the first time",
+    "author": "GiovannaSab",
+    "score": 338,
+    "created_utc": 1786465961,
+    "url": "https://www.reddit.com/gallery/1vlmg82",
+    "selftext": "I created this illustration primarily as a study in artistic composition and proportions. I'm really happy with the result. ",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/e06bixwhwrih1.jpg?width=1500&format=pjpg&auto=webp&s=889345488ce749fdb6a79725b911fc7214eb02d6",
+      "https://preview.redd.it/js72mxwhwrih1.jpg?width=1500&format=pjpg&auto=webp&s=385d35e3b8196420e8a2a3a9b1e6f019b9eed951",
+      "https://preview.redd.it/453veywhwrih1.jpg?width=1500&format=pjpg&auto=webp&s=39e66f1e199088dc51769c80e7a806887b581c62"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/DigitalArt/comments/1vlmg82/i_drew_a_centaur_for_the_first_time/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Cherokee Nation bans hyperscale data centers on tribally owned, trust lands",
+    "author": "SnoozeDoggyDog",
+    "score": 319,
+    "created_utc": 1786449701,
+    "url": "https://www.kosu.org/cherokee-nation-bans-data-centers",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vlfhei/cherokee_nation_bans_hyperscale_data_centers_on/"
+  },
+  {
+    "subreddit": "artificial",
+    "title": "Why billion-dollar robotics startups are obsessed with folding laundry",
+    "author": "Spirited-Sir-3034",
+    "score": 318,
+    "created_utc": 1786278892,
+    "url": "https://www.businessinsider.com/silicon-valley-train-robots-laundry-folding-2026-8",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/"
+  },
+  {
+    "subreddit": "midjourney",
+    "title": "NEO_UKIYO_E animated",
+    "author": "Voxo-32",
+    "score": 316,
+    "created_utc": 1786211582,
+    "url": "https://v.redd.it/hulxj821w6ih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/hulxj821w6ih1/HLSPlaylist.m3u8?a=1789093891%2CZGZmY2JmYzU2ZDQzZjU4ZDU5Y2RiMmYxMTg0YTA5MzQ4ZGVlMGU1MTBjM2ZlYjYyOTM3ZjQ5YTgyMzJjMjNkNg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/cmtpbnRzMjF3NmloMaQ_FKemTPtHS9_DFwpjrhr2_zOWMsG-0vKQHbM3StXv.png?format=pjpg&auto=webp&s=6bf02766a708183718ed50e6ff364fc3da31e00b"
+      }
+    ],
+    "topic": "ai",
+    "permalink": "/r/midjourney/comments/1vj2fnf/neo_ukiyo_e_animated/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "I spent 2 months trying learn how to make \"Mario Galaxy\" like physics.",
+    "author": "Coderedstudio",
+    "score": 315,
+    "created_utc": 1786370485,
+    "url": "https://v.redd.it/ebxcrkzjzjih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/ebxcrkzjzjih1/HLSPlaylist.m3u8?a=1789093912%2CZDExMGU0NTUyMjU5YzhkOWRhYzM3ODNkOWUwN2Y4OTA4YTVkNTZhOWU5MGZiMDRiYWU4YmU4Y2ZjYTFiYzQ4Zg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/MjU0dGllMGt6amloMZuAQD_-UQM5DxigvPt_h2zHYgf5oIQQ1sn-FcErecfh.png?format=pjpg&auto=webp&s=2ad8ad609d0589c03f9fe980bfe84dd38c208d24"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vklpqy/i_spent_2_months_trying_learn_how_to_make_mario/"
+  },
+  {
+    "subreddit": "singularity",
+    "title": "Did Pathway just reveal the architecture breakthrough Andrew Curran predicted? Its 150M model sets a new ARC-AGI-1 cost-efficiency frontier",
+    "author": "Direct_Leader_1802",
+    "score": 312,
+    "created_utc": 1786459148,
+    "url": "https://i.redd.it/f5mjxmk8crih1.jpeg",
+    "selftext": "Andrew Curran recently hinted at a major architectural breakthrough in memory efficiency, coming not from a big AI lab but from a team with ties to OpenAI: [https://x.com/AndrewCurran\\_/status/2072076893730349409](https://x.com/AndrewCurran_/status/2072076893730349409) \n\nPathway has now announced BDH-CQ: a 150M-parameter post-Transformer model that scored 29.5% on ARC-AGI-1 at a computed cost of just $0.0007 per task, establishing a new cost-efficiency frontier. It uses recurrent memory and latent reasoning instead of long token-based chains of thought.\n\nThe connection is surprisingly close: a new memory-efficient architecture, developed outside the major labs, with OpenAI researcher and Transformer co-author Lukasz Kaiser as an investor and adviser.\n\nIs this the announcement Curran was hinting at?",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/f5mjxmk8crih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "ai",
+    "permalink": "/r/singularity/comments/1vljb4r/did_pathway_just_reveal_the_architecture/"
+  },
+  {
+    "subreddit": "art",
+    "title": "The Gordian Knot, Krzysztof Powalka, oil/canvas, 2025",
+    "author": "Snoo_90160",
+    "score": 308,
+    "created_utc": 1786445467,
+    "url": "https://i.redd.it/kv0ofg8k7qih1.jpeg",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/kv0ofg8k7qih1.jpeg"
+    ],
+    "videos": [],
+    "topic": "art",
+    "permalink": "/r/Art/comments/1vle2vy/the_gordian_knot_krzysztof_powalka_oilcanvas_2025/"
+  },
+  {
+    "subreddit": "3Dmodeling",
+    "title": "Committing myself to doing this priest character if my ADHD allows it...(WIP)",
+    "author": "FrellingHazmot",
+    "score": 284,
+    "created_utc": 1786337654,
+    "url": "https://www.reddit.com/gallery/1vkbcut",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/ovhe3jgqahih1.png?width=2348&format=png&auto=webp&s=eecce0756d7b7d5ebf87e5011e04fe4249f324a4",
+      "https://preview.redd.it/ii0f7b9uahih1.png?width=2283&format=png&auto=webp&s=2c3d07d49a8c3b68f9cec382aaa0c353d9274895"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/3Dmodeling/comments/1vkbcut/committing_myself_to_doing_this_priest_character/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "After many weeks of trial/error I've finally nailed my proc. land generation, hope you like it! 🌲",
+    "author": "luka_makes_games",
+    "score": 269,
+    "created_utc": 1786396869,
+    "url": "https://v.redd.it/3wwmpu8y6mih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/3wwmpu8y6mih1/HLSPlaylist.m3u8?a=1789093920%2CMjRmNTA3NTU5ZmZkYjEwNDZkNDQwMGNkNTUwZTJkM2FjOTM1YTY0ZWQ5ZWI2NDUzNWU5NmEyZWYxZTdlYWRlYQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/Mm83YWJyOXk2bWloMWe718Q7-Sh2IMcNmZqYvHttvNBNKBO8ITkKfH9Nw96X.png?format=pjpg&auto=webp&s=81d98f8d0194f600f10142608b7d157362d7e20a"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vkxrl6/after_many_weeks_of_trialerror_ive_finally_nailed/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Laundry day…",
+    "author": "HolmesDraws",
+    "score": 254,
+    "created_utc": 1786467192,
+    "url": "https://v.redd.it/tze6q7l50sih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/tze6q7l50sih1/HLSPlaylist.m3u8?a=1789093868%2CZWZiNzFjMzQzNzU1OGE2MjNhNTkxZTNjY2EzMjU2MDAwZmFiOTdjN2ZhZDlmZTc2NTFmOTc4YzA2Y2ExZDc5ZA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/bTBwaXZ3aDUwc2loMdDdTZQ8JsJnA2eOA72PzZSsjNozJPR6OZy6wFpI2Ep9.png?format=pjpg&auto=webp&s=1ffc8fa126d99b53f90453b45db2c8598a58d0ef"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vln0ml/laundry_day/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "Double Takedown ECS",
+    "author": "OmarItani10",
+    "score": 253,
+    "created_utc": 1786384326,
+    "url": "https://v.redd.it/moe50vkq4lih1",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vks22h/double_takedown_ecs/"
+  },
+  {
+    "subreddit": "3Dmodeling",
+    "title": "The Celestial Talisman, Florenaux (me), 3D, 2026 (Process)",
+    "author": "florenaux",
+    "score": 243,
+    "created_utc": 1786435946,
+    "url": "https://v.redd.it/njjrvayzepih1",
+    "selftext": "I just wanted to share the creative process behind my latest animation with you!",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/njjrvayzepih1/HLSPlaylist.m3u8?a=1789093872%2CMWI0Yjc5M2U1NDQ0YWRiNzljMmVlN2ViZGVkZDkxZjkyNDE5ZDFkYzBjNmQ4NGQ0NzhmMzQ3MDJhZTMzYjdhZg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/dmMwejl0eXplcGloMcTB-S1o1M3XSGQBsYCSSxp13o6Eiyig_I572CZKqR0i.png?format=pjpg&auto=webp&s=109200467e7f1c95281bdbc4e3afa1884491508e"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/3Dmodeling/comments/1vlbbze/the_celestial_talisman_florenaux_me_3d_2026/"
+  },
+  {
+    "subreddit": "3Dmodeling",
+    "title": "HyperCar",
+    "author": "MohammadGhadimi",
+    "score": 242,
+    "created_utc": 1786468834,
+    "url": "https://www.reddit.com/gallery/1vlnssh",
+    "selftext": "3dsmax\n\nSubstance Painter\n\nCorona Render",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/43zqr5jk4sih1.jpg?width=1920&format=pjpg&auto=webp&s=44ff8bfe81c27f4df018c981da67ca6763183b66",
+      "https://preview.redd.it/4ayn38gi4sih1.jpg?width=1920&format=pjpg&auto=webp&s=34d8c311e7dfab1c7f8468da532a045cab204f3b",
+      "https://preview.redd.it/tlcvaxel4sih1.jpg?width=1920&format=pjpg&auto=webp&s=eefec70a51eac47fc52324b1188c860ec318d2d8",
+      "https://preview.redd.it/cxuyia9s4sih1.jpg?width=1920&format=pjpg&auto=webp&s=b8cf797e9b7898ea48f0686d1608eeac60ea1617",
+      "https://preview.redd.it/dy1ecv1h4sih1.jpg?width=1920&format=pjpg&auto=webp&s=1d8c84cf4ce8c8243e2ab2b42ea5e6a9f3225a70",
+      "https://preview.redd.it/bbtnl1hj4sih1.jpg?width=1920&format=pjpg&auto=webp&s=1add94e89e53922f6b54258953e8d24ac61f294d",
+      "https://preview.redd.it/59t17aop4sih1.jpg?width=1920&format=pjpg&auto=webp&s=e83afc0bdedd82194963c6577cf759421879827f"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/3Dmodeling/comments/1vlnssh/hypercar/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "I built my own attack timing editor inside Godot",
+    "author": "notvaldemarr",
+    "score": 242,
+    "created_utc": 1786468117,
+    "url": "https://v.redd.it/ecz41esm2sih1",
+    "selftext": "I was getting tired of editing attack timings by hand, so I made a tool that lets me scrub through animations, mark windup, active, and recovery windows, and immediately test the result in-game. I can also rotate the camera and inspect each attack from different angles.  \n\n\nBeing able to create project-specific tools without leaving the editor is one of my favorite things about Godot. It’s still a work in progress, but it already makes combat iteration much faster. Happy to answer any questions.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/ecz41esm2sih1/HLSPlaylist.m3u8?a=1789093919%2CYWIwZmUyZjQyNTk0MjExYTQyMGMyYmM5ODdhYmQ4NDcwNGU5MDYyMDVlODA1ZGMyMGYwNzliOTcwZGNjYTc5YQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/bGIzNmVuc20yc2loMfKAvIE_P5FPuBY9ORp1kgxwu2VRlr009lSC_Men2uVR.png?format=pjpg&auto=webp&s=0777b9907773b08ba633e597f72b7c5bfe41fd05"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vlnghh/i_built_my_own_attack_timing_editor_inside_godot/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "Ok, I need to share this bug lol",
+    "author": "Weary_Cartoonist5739",
+    "score": 240,
+    "created_utc": 1786437508,
+    "url": "https://v.redd.it/3204aa8ujpih1",
+    "selftext": "Bugs are annoying as hell, but they sometimes can be funny too haha",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/3204aa8ujpih1/HLSPlaylist.m3u8?a=1789093919%2CMjVhYmE3NDNhNDIzYmFjM2FmZmFjNjBlNDhhMmFmMWI3OWE5ZGE3YzA3YTZlZTM1YWFiMDM4ZDNiYmQ1NTY3MA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/YWFsNW5nOHVqcGloMbXuWDeEc5_5M8WA-WayYAxUUdTxeOb42bVtSrawHQGm.png?format=pjpg&auto=webp&s=bce183e7bc5db02e00255671753322d3401f3f4a"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vlbs12/ok_i_need_to_share_this_bug_lol/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "I recreated the \"loneliest house in the world\" in Blender",
+    "author": "YetiRenders",
+    "score": 239,
+    "created_utc": 1786454395,
+    "url": "https://www.reddit.com/gallery/1vlh9z0",
+    "selftext": "I tried making Elliðaey, an island off the coast of Iceland as a way to practice my terrain sculpting",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/ohdsfqbxxqih1.png?width=3398&format=png&auto=webp&s=66bd8ad3a130c137f1aa7076e772a614cd40f790",
+      "https://preview.redd.it/8j9qjhm2xqih1.png?width=2560&format=png&auto=webp&s=64ab45515436c495c588e383171659975bb5256e",
+      "https://preview.redd.it/toot8007xqih1.png?width=3082&format=png&auto=webp&s=f7d8aa5987de48a1dccd9135f3f025eb4a0cced4",
+      "https://preview.redd.it/o3dnm6y1xqih1.png?width=2560&format=png&auto=webp&s=077cc912a34c35563ad8c761baa88007b2369173"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vlh9z0/i_recreated_the_loneliest_house_in_the_world_in/"
+  },
+  {
+    "subreddit": "3Dmodeling",
+    "title": "Miss Fox (Concept by JIANG JUN)",
+    "author": "CoverPuzzleheaded285",
+    "score": 236,
+    "created_utc": 1786383952,
+    "url": "https://www.reddit.com/gallery/1vkrvqw",
+    "selftext": "I created a new 3D work! I used Zbrush for sculpting and rendered it in Marmoset.  \nIt was great working with a concept by the amazing artist JIANG JUN.",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/bejljj1n4lih1.jpg?width=1020&format=pjpg&auto=webp&s=ce877b0dba5f97da0cb8fe9b43c48269ba8f8a79",
+      "https://preview.redd.it/564iwi1n4lih1.jpg?width=1020&format=pjpg&auto=webp&s=fd9b13feefe01e25e030848229e867631cc51dd2",
+      "https://preview.redd.it/e82zzq1n4lih1.jpg?width=3024&format=pjpg&auto=webp&s=fe30ad7f064fc071976a5c28a08add0f7929d479",
+      "https://preview.redd.it/3ygypi1n4lih1.jpg?width=1168&format=pjpg&auto=webp&s=3062d6898551304480d8f801b29535b7d1d31ae6"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/3Dmodeling/comments/1vkrvqw/miss_fox_concept_by_jiang_jun/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "ESCapism.",
+    "author": "Kir_in_1984",
+    "score": 235,
+    "created_utc": 1786452338,
+    "url": "https://v.redd.it/gogc7d5lrqih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/gogc7d5lrqih1/HLSPlaylist.m3u8?a=1789093868%2CNzk0ZThkNTI3Y2ZlMzMzMGIzOTA1ODE0N2VkMzEzOTMzOTlhMWU2ODAyMTdlMzU4OTljYTJhMzhiMzM5ZGNiMA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/a3hvczczNmxycWloMaaWI2KShVXY270zNYPtqMGyjIFeGBydNzLPDYxaeABS.png?format=pjpg&auto=webp&s=ed84a9ff8b1f71e01beb196f1c7383d7965c55fb"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vlggbg/escapism/"
+  },
+  {
+    "subreddit": "indiegaming",
+    "title": "We are making a hide-and-seek game where you hide by modeling yourself!",
+    "author": "ewathee00",
+    "score": 227,
+    "created_utc": 1786478787,
+    "url": "https://v.redd.it/yomtte85ysih1",
+    "selftext": "In our game FAKE ME, you can model your own object yourself! Our goal was to bring a new dimension to hide-and-seek games, so we integrated modeling tools directly into the game. Yes, we’ve created a competitive blender :D  \nWe are open to ideas and feedback!  \nYou can add to your wishlist to support us!  \n[https://store.steampowered.com/app/4990840/FAKE\\_ME/?utm\\_source=reddit&amp;utm\\_campaign=reddit\\_en](https://store.steampowered.com/app/4990840/FAKE_ME/?utm_source=reddit&amp;utm_campaign=reddit_en)",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/yomtte85ysih1/HLSPlaylist.m3u8?a=1789093905%2CMWFlOWNlYTMwNjE4NjE3N2M5MjNjZTM5NDJmNTZkODFlMzIyNDE1M2FiZjU1YWMzMDUyOTMxMzczODYxYjE5NQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/em84NDhxbGt5c2loMWKEXcDXCzpQ5TbMD62RRYo1-opNMPmaQjQYv4WOErmi.png?format=pjpg&auto=webp&s=b24da45eaac82ee0ce17c3b2ba0b1cbed64893ef"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/IndieGaming/comments/1vlsfkt/we_are_making_a_hideandseek_game_where_you_hide/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "First blender animation with a humanoid body",
+    "author": "DJFlareon",
+    "score": 214,
+    "created_utc": 1786450047,
+    "url": "https://v.redd.it/zd1ycp9pkqih1",
+    "selftext": "I've been doing blender animation for about 1.5 years now, but only for roblox avatars. This is my first time animating something with more than just 6 bones and this is the fruit of my labor. I'm looking for critique but also tips on how to improve. Thank you so much in advance!\n\nThe blender model Mad MEW MEW is made by John9Doe1 on twitter (x) ",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/zd1ycp9pkqih1/HLSPlaylist.m3u8?a=1789093868%2CNmEzZTJhY2RjMGIyNTVhYTk5ODg2OWUzNmYyYzMzNzUxYWJmMTE4ZmNiOWM0YjYxNmEwZjM2ZGQ0OTA2NmQ3OQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/ZmM2d3h1OXBrcWloMZMjCJi7PCddFj_c2kmdvtqr30mXS4Nt3ysqZVne8iZB.png?format=pjpg&auto=webp&s=035b1f06c3a1b63ead8c139823782b94643db575"
+      }
+    ],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vlfltn/first_blender_animation_with_a_humanoid_body/"
+  },
+  {
+    "subreddit": "logodesign",
+    "title": "Logo mark for construction company. The company's name begins with the letter M.",
+    "author": "kaban4eeek",
+    "score": 211,
+    "created_utc": 1786301332,
+    "url": "https://i.redd.it/1hd7ywdvaeih1.png",
+    "selftext": "",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/1hd7ywdvaeih1.png"
+    ],
+    "videos": [],
+    "topic": "design",
+    "permalink": "/r/logodesign/comments/1vjxv2x/logo_mark_for_construction_company_the_companys/"
+  },
+  {
+    "subreddit": "indiegaming",
+    "title": "replacing all the AI art in my game, just got my first character back and i love it!",
+    "author": "stuffedcrust_studios",
+    "score": 211,
+    "created_utc": 1786477529,
+    "url": "https://v.redd.it/356v56sgusih1",
+    "selftext": "game is [Perry's Pizzeria](https://store.steampowered.com/app/4428780/Perrys_Pizzeria/), a pizza deckbuilder  \nawesome artwork by [cloudmallow](https://cloudmallowart.carrd.co/)\n\ncurrently using a bunch of AI art in the game and my goal is to replace it all before release, just got my first character art rework back for Lenis Pelnale the 80s lobster wall street trader, and it's such an improvement, really nailed the exact style i wanted, can't wait to see how the game looks when it's all replaced!\n\nvid also showing new music track by yours truly",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/356v56sgusih1/HLSPlaylist.m3u8?a=1789093905%2CMjY2MDAyYzczZDA0ZTA0YzhkNjNlZjVjMzgwNDFjMTQwYTcwOGQzMzM0NDFhMWFlOTdhNGNjYWJkYTQ0NGE5OA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/MXpiMHU3dGd1c2loMUTWcXfaawbGos2FNw_TNT1bcc1u5-PFVEHHU-t75Nk_.png?format=pjpg&auto=webp&s=5a9b86508f1a9157d3a4ed719a1455e8d088c389"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/IndieGaming/comments/1vlruut/replacing_all_the_ai_art_in_my_game_just_got_my/"
+  },
+  {
+    "subreddit": "blender",
+    "title": "Making 3D Anime - How I'm trying to make 3D to 2D Anime Style in Blender [Year 2 Progress Check]",
+    "author": "Lugia-75",
+    "score": 208,
+    "created_utc": 1786482896,
+    "url": "https://www.reddit.com/gallery/1vlu9ml",
+    "selftext": "I wanted to make a large celebratory video post for hitting my 2nd Anniversary, but currently working on an overly ambitious anime project that will be dubbed in Korean. Really excited to complete it in a few months",
+    "is_video": false,
+    "is_gallery": true,
+    "images": [
+      "https://preview.redd.it/z59il49y7tih1.png?width=1108&format=png&auto=webp&s=4c3c9c5a2474889e59eda19880917d89f11e5e65",
+      "https://preview.redd.it/wyaen6yw7tih1.png?width=972&format=png&auto=webp&s=8fe952d5491ad428b8d73e26a0f336622eda9c7c",
+      "https://preview.redd.it/oemeazlx7tih1.png?width=1301&format=png&auto=webp&s=3efd1bbb5fac3c2c8bc618a2d0c7179de1f4c48b"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/blender/comments/1vlu9ml/making_3d_anime_how_im_trying_to_make_3d_to_2d/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "I finally finished my VR interaction engine!",
+    "author": "Independent-Bad3372",
+    "score": 205,
+    "created_utc": 1786420941,
+    "url": "https://v.redd.it/eamfjat76oih1",
+    "selftext": "I finally finished my VR interaction Engine! I made sure to have everything needed for a good high quality VR game, such as a physics based interactions, Physics based player controller, and upper body inverse kinematics.\n\nIt's inspired by the player controller and interactions found in my favourite VR games like BONEWORKS BONELAB and Vertigo 2.\n\nI wanted to make it as advanced and nice as the BONEWORKS player controller but still keep the smooth polished feel from a game like Vertigo  \nit comes with some other cool stuff like guns, buttons levers and stuff.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/eamfjat76oih1/HLSPlaylist.m3u8?a=1789093912%2COGI2NDNhYjRiZWJlMDA4N2FhYmZjOGY3ZjFkNjQxMDQ1M2FlYjRiZDE0N2ZkNDU5ZmFlODU4ZmQzNWIwOWE5MA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/a2g3anhvdDc2b2loMdBgkH5opHlcWqUCAj286vIg59dEwcvPVYzfXpHsIPxt.png?format=pjpg&auto=webp&s=c4f0098d599033c423210da621669dc45a4bf11b"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vl6uqn/i_finally_finished_my_vr_interaction_engine/"
+  },
+  {
+    "subreddit": "ZBrush",
+    "title": "Preview - Rogue - Marvel Rivals",
+    "author": "LuisDMM",
+    "score": 204,
+    "created_utc": 1786317038,
+    "url": "https://i.redd.it/8uq6vdgilfih1.png",
+    "selftext": "For 3D Print",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/8uq6vdgilfih1.png"
+    ],
+    "videos": [],
+    "topic": "3d",
+    "permalink": "/r/ZBrush/comments/1vk48rj/preview_rogue_marvel_rivals/"
+  },
+  {
+    "subreddit": "gamedev",
+    "title": "Why is video game crowdfunding at 27 mil a year when tabletop is at 220 mil?",
+    "author": "IamMiles_",
+    "score": 183,
+    "created_utc": 1786427644,
+    "url": "https://www.reddit.com/r/gamedev/comments/1vl8xxh/why_is_video_game_crowdfunding_at_27_mil_a_year/",
+    "selftext": "What are the biggest issues preventing the industry and devs from launching crowdfunds and what could help solve some of the issues? I feel like some of the coolest games came from crowdfunds ie Silksong, Tainted Grail, the first kingdom come did a crowdfund and used it as leverage for more funding. \n\nIt seems like it could be an established way for Devs to jumpstart. ",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/gamedev/comments/1vl8xxh/why_is_video_game_crowdfunding_at_27_mil_a_year/"
+  },
+  {
+    "subreddit": "indiegaming",
+    "title": "We’re making a 1–5 player co-op game where you catch fish together and then try to run a sushi restaurant without everything falling apart",
+    "author": "P0fu1",
+    "score": 176,
+    "created_utc": 1786435214,
+    "url": "https://v.redd.it/dk52bduzcpih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/dk52bduzcpih1/HLSPlaylist.m3u8?a=1789093905%2CMzE5ZGU1Yzc5ZmZiMDE5YzEyMTA2Njc3YWRhN2Q0NTI1YTgxODcwZWJmZjgxMmE2ZjI0Y2YzOGViNzE3M2I1MA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/ZnJlYnFqdXpjcGloMUZ33rP22IKB5ktfbsQpEKiQfS108B4nORvzd2sbuyOK.png?format=pjpg&auto=webp&s=b02af1e60d96f9515f496b53a7a264ee5b077fee"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/IndieGaming/comments/1vlb4fc/were_making_a_15_player_coop_game_where_you_catch/"
+  },
+  {
+    "subreddit": "saas",
+    "title": "Company copied my code after refusing to pay for a license. I know because their site is sending data to MY Hotjar account. What would you do?",
+    "author": "Resident_Vehicle2780",
+    "score": 168,
+    "created_utc": 1786482150,
+    "url": "https://www.reddit.com/r/SaaS/comments/1vltxz0/company_copied_my_code_after_refusing_to_pay_for/",
+    "selftext": "Freelance dev here (EU). A startup I was in partnership talks with came to me with an idea for a tool. Their own dev attempted a first version that was slow, buggy, and honestly barely functional. I rebuilt it from scratch in my own time, own repo, no contract, never got paid. The idea was theirs, the code is mine.\n\nPartnership fell through. I offered them a cheap non-exclusive license so they could keep using and commercializing my version. They declined and said they’d build their own.\n\nYesterday my Hotjar dashboard started showing sessions from their domain. They didn’t build their own. They copied mine, literally, including my tracking ID. They’re now marketing it as their own SaaS, presenting my work as something they built.\n\nI called them. They denied copying anything. Meanwhile every visitor on their site shows up in my analytics. What would you do? ",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/SaaS/comments/1vltxz0/company_copied_my_code_after_refusing_to_pay_for/"
+  },
+  {
+    "subreddit": "gamedev",
+    "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
+    "author": "fagnerbrack",
+    "score": 160,
+    "created_utc": 1786380899,
+    "url": "https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/",
+    "selftext": "A decompiled 2004 RuneScape 2 client reveals an obsessive effort to waste no bytes, squeezing a 3D world of thousands of players through roughly 5 KB/s. The Java applet sandbox forced everything down one TCP connection, and the server advanced in 600ms ticks, so the battle came down to bytes, not latency. A walk sends only path corners as coordinate deltas, so a single step north costs seven bytes. Each client mirrors nearby players, and updates carry only what changed: bit-packing turns \"nothing changed\" into one bit and a step into seven. New arrivals get positions relative to you, ten bits instead of thirty-two. The protocol enciphers only the opcode byte and mangles others to deter cheats.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/gamedev/comments/1vkqfug/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "Made a reactive coin shader. Opinions?",
+    "author": "Honzus24",
+    "score": 144,
+    "created_utc": 1786446112,
+    "url": "https://v.redd.it/xydt7u5h9qih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/xydt7u5h9qih1/HLSPlaylist.m3u8?a=1789093912%2CYWZjMWRkYWY3NmVlN2IwNGQwNjJhNTY5ODA4MmMzODc4MmVkZjU4MDFiMjJiNmE2MGZlOTQ0YWIwNDBmMmFjZg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/M3E3N3JwMmg5cWloMbhfjMqUaZDTU3qKeKH-SY2MC0PxeJMmVdUGpSlmREvA.png?format=pjpg&auto=webp&s=b0b21a00d71d5ec9065adb7a9b1c425880633752"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vleabm/made_a_reactive_coin_shader_opinions/"
+  },
+  {
+    "subreddit": "indiegames",
+    "title": "After months of hard work, I finally finished the gameplay trailer for my solo sci-fi survival horror RPG built in Unreal Engine 5. What do you think of the atmosphere?",
+    "author": "RodrigoBanzato",
+    "score": 134,
+    "created_utc": 1786440606,
+    "url": "https://v.redd.it/xf8zo7f2spih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/xf8zo7f2spih1/HLSPlaylist.m3u8?a=1789093902%2CNzcxMzhlOWJlMTdiZTU3Y2RiNGNlYjdlOWFiODI2MGYyNWQzYjU1NWI3ODY4YmY2NzEyMzA5MTFkYTgzN2NhYg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/NDJscHBvZjJzcGloMWPyAK22NwMiVGGjC5tTY3QQpFG_zt3dC3A5y0J7-L1S.png?format=pjpg&auto=webp&s=4a902b4efb375c6c20be7b28a389e5e8a1085773"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/indiegames/comments/1vlcnpv/after_months_of_hard_work_i_finally_finished_the/"
+  },
+  {
+    "subreddit": "saas",
+    "title": "Dropped out of college to build a SaaS and completely underestimated how hard it would be",
+    "author": "KrisBuildz",
+    "score": 134,
+    "created_utc": 1786412668,
+    "url": "https://www.reddit.com/r/SaaS/comments/1vl3zam/dropped_out_of_college_to_build_a_saas_and/",
+    "selftext": "I'm a 20 year old college dropout. While I was in school I felt completely drained, lost in life, and had no idea what direction I was heading. But I've always had a sense of creativity and a drive to build something of my own.\n\nI started watching YouTube videos of young entrepreneurs dropping out of school and building million dollar companies. I also started following people on social media making entrepreneurship look effortless. I decided to drop out of school and start building a SaaS product, I thought I’d have paying customers overnight. \n\nThat was not the reality at all.\n\nI completely fell into the social media trap. The version of entrepreneurship you see online looks nothing like what it actually feels like day to day. Nobody talks about the part where you build something and nobody shows up. Nobody talks about how hard it is to get someone to trust you enough to hand over their money.\n\nI'm still grinding to get my first real customers but I've learned a lot about myself throughout this process. Would I recommend dropping out of school? Probably not. But I'm happy I trusted myself and took the risk.\n\nI would appreciate any advice from successful business owners, thank you for taking the time to read my story.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/SaaS/comments/1vl3zam/dropped_out_of_college_to_build_a_saas_and/"
+  },
+  {
+    "subreddit": "gamedev",
+    "title": "How I stopped manually searching through 17,000 sound effects for ~100 game events",
+    "author": "BusinessDepartment44",
+    "score": 132,
+    "created_utc": 1786363826,
+    "url": "https://www.reddit.com/r/gamedev/comments/1vkj21g/how_i_stopped_manually_searching_through_17000/",
+    "selftext": "Finding sound effects wasn’t my problem. The internet had already generously buried me under roughly 17,000 files.\n\n\n\nThe problem was finding *the right one* for each of nearly 100 game events without spending the rest of my natural life listening to `impact_07_final_v2.wav`.\n\n\n\nSo I made a local semantic search pipeline to reduce the library to a small batch of candidates worth hearing.\n\nEach sound is indexed once with the pretrained `laion/clap-htsat-unfused` CLAP model. It places audio and text in the same 512-dimensional vector space, so I can describe the sound I need in plain English and rank the files using cosine similarity.\n\nNothing is generated and the model isn’t retrained. AI is only used to rank existing sounds by how closely they match the description.\n\nFor each game event, I write a brief containing:\n\n* what the sound represents;\n* the mood and character it should have;\n* its preferred duration;\n* where it plays;\n* concepts that should be avoided.\n\nThat last part needed special treatment. CLAP doesn’t really understand negation: putting “no sirens” in the main query still introduces the concept of sirens and can move them *closer* to the results.\n\nInstead, unwanted concepts are embedded separately and candidates are penalized for matching them. Apparently even machine learning needs to be told that “please don’t” is not an invitation.\n\nDuration works as a quota rather than a hard filter. Most result slots are reserved for sounds inside the preferred range, while a few remain available for unusually strong matches outside it. In my current dataset, this increased candidates within the requested duration from about 40% to 73% without hiding useful outliers.\n\nThe index also collapses duplicate WAV, MP3 and OGG versions of the same sound.\n\nThe human part happens in a self-contained local HTML interface. For every event, I receive ten candidates and can:\n\n* play or loop them;\n* hear an approximation of how they’ll sound through phone speakers;\n* filter by duration and whether attribution is required;\n* select several variants for the same event;\n* reject one candidate and immediately receive the next ranked result;\n* reject the entire batch when all ten are acoustically cursed;\n* save interesting sounds to a general collection when they don’t fit the current event but may be useful later.\n\nSelections, rejections and collections persist between sessions.\n\nOnce I’ve chosen the candidates, the tool exports them through JSON into the game’s audio registry. That lets me import several variants for an event, rotate them during playback, test them in the real gameplay context and replace them later without manually rebuilding everything.\n\nThe attribution requirement stays attached to each file throughout indexing, filtering, selection and export, so I don’t have to reconstruct all the licensing information manually before release.\n\nThe main lesson is that semantic similarity does not replace listening or sound design judgment. It just removes hundreds of obviously wrong files before listening begins. For me, this saves a lot of time on repetitive manual searching.\n\nHow do you solve this in your own projects? When you have thousands of sounds and around a hundred audio slots to fill, do you rely on tags, folders, custom tools, or just slowly lose your mind one WAV at a time?",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/gamedev/comments/1vkj21g/how_i_stopped_manually_searching_through_17000/"
+  },
+  {
+    "subreddit": "gamedev",
+    "title": "Publishers keep telling us to swap the Spanish deck for poker cards because \"Nobody knows them and nobody will care\"",
+    "author": "jvolonte",
+    "score": 128,
+    "created_utc": 1786368187,
+    "url": "https://www.reddit.com/r/gamedev/comments/1vkkqvt/publishers_keep_telling_us_to_swap_the_spanish/",
+    "selftext": "Hi, we're developing a roguelike deckbuilder that uses a Spanish deck. You bet a card in a duel, highest card wins, and you slap stickers on your cards to change the values on the table.\n\nWe've pitched to a few publishers now and we've been getting the feedback that the deck is a problem. That we should swap it for standard poker cards, basically saying \"nobody knows those cards and nobody's going to care.\"\n\nThe core rule is highest card wins, in my opinion someone who has never seen a Spanish deck can learn that immediately, faster than learning flushes or straights from poker plus every deckbuilder since Balatro is poker now, arguably this should make you stand out, right?\n\nI understand their view being about let's play it safe and reach the public we know, but this is important to the game identity\n\nAm I mad for not listening to them?",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "gamedev",
+    "permalink": "/r/gamedev/comments/1vkkqvt/publishers_keep_telling_us_to_swap_the_spanish/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "Created a heat shader for the custom paint pass",
+    "author": "hbisi81",
+    "score": 122,
+    "created_utc": 1786459086,
+    "url": "https://v.redd.it/v7737ivtbrih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/v7737ivtbrih1/HLSPlaylist.m3u8?a=1789093912%2CZTgxZDc5NmEzYjUxNDEzYTI2ODViZDg1NTY5MTFjMDBhOTFkMWYzY2EyYTk4MTFjNzA5MDlkNTI3NmNjZjU0MA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/YnNhMDI0eXRicmloMVhAWv9eUSmaG9T3orNHWvtJl7iEh63nOGXgGq0dY8UY.png?format=pjpg&auto=webp&s=37e1f8682023383c1a2108109473e44ff461e370"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vlja5i/created_a_heat_shader_for_the_custom_paint_pass/"
+  },
+  {
+    "subreddit": "saas",
+    "title": "Almost quit my SaaS after 3 years without sales, now we do 500 last week.",
+    "author": "BaudMrtl",
+    "score": 119,
+    "created_utc": 1786440245,
+    "url": "https://i.redd.it/8vg9b7hurpih1.png",
+    "selftext": "I remember when I got my first Stripe payment, it was 47 euros. I feels unreal.\n\nThen I didn't sell for months. \n\nBefore that I've build for 3 years. Yeah it was before chatgpt.\n\nGot into depression after this one sales.   \n  \nI just sold to 1 company then nothing.\n\nBut, now we did 550 euros in a week.\n\nThat's cheesy but the never give up advice is the realest.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/8vg9b7hurpih1.png"
+    ],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/SaaS/comments/1vlcjzw/almost_quit_my_saas_after_3_years_without_sales/"
+  },
+  {
+    "subreddit": "indiegames",
+    "title": "This is Bleu Bayou our boss-rush, roguelite where you play as a Crawdad mired in debt",
+    "author": "bokononisms",
+    "score": 118,
+    "created_utc": 1786419148,
+    "url": "https://v.redd.it/g9hly4n31oih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/g9hly4n31oih1/HLSPlaylist.m3u8?a=1789093902%2CNTIxZDNhZWY5ZTU1YzQyYWJlMTEzNTY2N2FlNzdmZjA2YzE1MDE2NWNjNTY2ODdmNWEwZGQ1NjEwOWFhNjQ4ZQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/bm44NDZnbjMxb2loMauwVVEBxdXobdW9lKCriRL4zyZ4ozX5Q_SoSDcyUhdw.png?format=pjpg&auto=webp&s=093e4033f573aef96aa3875d01253bd6230b6c11"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/indiegames/comments/1vl69fn/this_is_bleu_bayou_our_bossrush_roguelite_where/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "I added stickfigure animations to the worker UI!",
+    "author": "Drillur",
+    "score": 118,
+    "created_utc": 1786459332,
+    "url": "https://v.redd.it/zgyyf9oebrih1",
+    "selftext": "I made these in Krita!\n\nA long time ago, the game was all progress bars and buttons. Adding these animations added a lot of heart to the game 🥹\n\n[LORED on Steam](https://store.steampowered.com/app/3418150/LORED/) is an idle-incremental about collecting a ton of resources. The demo includes Stage 1!\n\nThis video is for the next update, Stage 3!!! The game is about getting cancer, so it is framed in four \"Stages\", or levels. In this Stage, there are many themes of death and fighting to stay alive.\n\nStage 3 comes out August 28!",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/zgyyf9oebrih1/HLSPlaylist.m3u8?a=1789093919%2CNDgwNDJlMzdjYTcwMGE4MGQ2YzE1ZWQxZWVmZmY0ZGY0OWU2YjMzMGNmYzhhOGIwZmQ5NTE2NjA3NzA4MzU3OA%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/aHRwMDBsb2VicmloMa4vbFr6i34RLy8nUcnxAbNRJS5PLZ8RvWwvWKLaTfMU.png?format=pjpg&auto=webp&s=46c8f12d9e0dce357f3476dca4157dabcbc1277b"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vlje5t/i_added_stickfigure_animations_to_the_worker_ui/"
+  },
+  {
+    "subreddit": "indiegames",
+    "title": "My new beat 'em up game is now available for wishlist!",
+    "author": "Mobadr_9",
+    "score": 112,
+    "created_utc": 1786411762,
+    "url": "https://v.redd.it/o9hfpcq3fnih1",
+    "selftext": "I’ve been working solo on \"Final Straw\", a beat ’em up that mixes old-school brawling with a modern free-flow combat system.\n\nThe game has now entered pre-alpha, and it’s officially available to wishlist on Steam!",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/o9hfpcq3fnih1/HLSPlaylist.m3u8?a=1789093902%2CZjEzZDA2NDYzMGI5NmY2OGE3YTcwMGRlMTEzYTIzZDBjNzQ2MDY2MzIxYzk3MTAyYzFmNTUxNDY4YzQ5ZGViMQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/YjV4OHFrbDNmbmloMQ2Pd8c6B98AjCalwDN7eam95rz6uc4N9AAhjfw2BPct.png?format=pjpg&auto=webp&s=5b4cdb877e50f888e22f5566ffe276c610ef1ac3"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/indiegames/comments/1vl3ncz/my_new_beat_em_up_game_is_now_available_for/"
+  },
+  {
+    "subreddit": "godot",
+    "title": "Added this splash screen to express how much I hate Godot's logo :)",
+    "author": "hungrydestructor",
+    "score": 111,
+    "created_utc": 1786470715,
+    "url": "https://v.redd.it/1c800z00asih1",
+    "selftext": "Kidding, you can't hate this cute robot, but you can still break it!  \nIf you break it fast, you skip the splash screen :)\n\nCredit to the polyfracture plugin author: [https://github.com/SoloByte/godot-polygon2d-fracture](https://github.com/SoloByte/godot-polygon2d-fracture) ",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/1c800z00asih1/HLSPlaylist.m3u8?a=1789093919%2CMDVmYWIzZTIxMTdkNDc3N2NiYjk1ODRmOGY2M2YyYzMwZDgyZjEwZWQ0YzkwMTE0ZDBmMDRlZmI0YTcxMDIwOQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/aWg4NjM5MTBhc2loMS-6GuK7xI0Imw_wWYflIRG9QrVJgPp-0e-S6KpQ3aTN.png?format=pjpg&auto=webp&s=01ec3b22a322d9c1144ef19eef8b12efbf3db40e"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/godot/comments/1vlonzm/added_this_splash_screen_to_express_how_much_i/"
+  },
+  {
+    "subreddit": "sideproject",
+    "title": "I built a website I genuinely hope nobody ever needs",
+    "author": "SwarnFoX_V",
+    "score": 110,
+    "created_utc": 1786405159,
+    "url": "https://www.reddit.com/r/SideProject/comments/1vl15i4/i_built_a_website_i_genuinely_hope_nobody_ever/",
+    "selftext": "I finally put something I have been thinking about for a long time out into the world. Its called Dear Stranger.\n\nThe idea is pretty simple, you can anonymously write a letter to a complete stranger, and someone else can come across it when they might need to hear those words.\n\nThere are no accounts, no followers, no likes, no ads. I didnt want to make another social platform. I wanted it to stay as simple as possible, one person writing something, another person reading it.\n\nThe actual development didnt take me a year or anything like that. I built most of it over the last few days with a lot of help from AI. But the idea itself has been sitting with me for quite a while, and I spent a lot of time thinking about what I actually wanted it to be before I started building it.\n\nIm also trying to be honest about the fact that im still figuring things out. This isnt some huge startup or polished company. Its just something I cared enough about to actually make and put online.\n\nhttps://dearstrangers.org\n\nI genuinely hope most people never need to find it. But if someone does find it at the right moment, I hope it helps them even a little.\n\nI would really appreciate honest feedback from people here who build things. Whats confusing, whats unnecessary, does the concept make sense and stuff like that and like what would make you trust something like this\n\nAnd if you feel like it, write a letter while you are there. It doesnt have to be profound or anything but sometimes a few honest words are enough.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/SideProject/comments/1vl15i4/i_built_a_website_i_genuinely_hope_nobody_ever/"
+  },
+  {
+    "subreddit": "Unity3D",
+    "title": "Working on the hoverbike controls and sound",
+    "author": "TheLancaster",
+    "score": 105,
+    "created_utc": 1786348572,
+    "url": "https://v.redd.it/m9khgpg67iih1",
+    "selftext": "",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/m9khgpg67iih1/HLSPlaylist.m3u8?a=1789093912%2CYjg3M2E2OGY5MGNlZjQxMjRlMWY5YThjMjc5NmE4NWM5ZTc5YmU4MzNlZWYyODZjYWQ1MWY1M2MyYTAzOTlkZg%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/cm50NDgwaDY3aWloMfTBCoUvRBqSevwM3jmaaEXdG4oewe3aqBzMVWtJcJc6.png?format=pjpg&auto=webp&s=8c06cb2a7eef138df06bc2243639c59a75621753"
+      }
+    ],
+    "topic": "gamedev",
+    "permalink": "/r/Unity3D/comments/1vkehzg/working_on_the_hoverbike_controls_and_sound/"
+  },
+  {
+    "subreddit": "sideproject",
+    "title": "Tried to teach my son the multiplication table, ended up building a gamep",
+    "author": "designisart",
+    "score": 98,
+    "created_utc": 1786462029,
+    "url": "https://v.redd.it/e4h8u94nkrih1",
+    "selftext": "My son kept getting stuck on his times tables. Flashcards weren’t working, he’d zone out after two minutes.\n\nI’m a developer, so I tried something different. Built him a tiny game where he slices the correct answer to a multiplication problem, Fruit Ninja style, instead of drilling flashcards.\n\nHe didn’t realize he was practicing. He just wanted to beat his own score.\n\nThat’s when I knew it was worth building out properly. Added more tables, difficulty levels, a scoring system. Shipped it as Math Ninja on iOS.\n\nhttps://apps.apple.com/tr/app/math-ninja-slice-solve/id6790400075\n\nEasy levels are free, enough to actually learn the operations quickly. Harder levels unlock as you go.\n\nWhere I’m stuck: it started as a teaching tool for one kid, but I’ve had adults message me saying they use it to keep their own math sharp. Not sure if I widen the App Store positioning or keep it focused on parents and kids.\n\nWould love feedback on the core loop, or thoughts from anyone who’s turned a teaching tool into something bigger than the original problem it solved.",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/e4h8u94nkrih1/HLSPlaylist.m3u8?a=1789093927%2CMGU1MWZmYTU0Yzc4ZjMwZGVlZDIyOTVkZWQ2NzRjODZmMGY3ZmM2YzQ3N2JiYWU2MzNiNjQwMzE2MzljNGY0Nw%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/d3p1cjdham1rcmloMRuVXAYiOpwoEYpsHF9vGAKNB7RIZYyd4uPDrDZdHbYT.png?format=pjpg&auto=webp&s=24c54e33c0dc062a258be954b7a50f36502d3ff3"
+      }
+    ],
+    "topic": "bip",
+    "permalink": "/r/SideProject/comments/1vlkmub/tried_to_teach_my_son_the_multiplication_table/"
+  },
+  {
+    "subreddit": "buildinpublic",
+    "title": "Just crossed 400 users!",
+    "author": "AvaThalheim",
+    "score": 71,
+    "created_utc": 1785001461,
+    "url": "https://i.redd.it/1ni13pesxefh1.jpeg",
+    "selftext": "A couple weeks ago i made a post here about my App Flowtime hitting its first milestone of 100 users.  \nToday, we crossed 400!  \nStill feels absolutely surreal to me, but makes me so incredibly happy!  \nTHANK YOU THANK YOU THANK YOU!!  \nTo each and every single person using my app 😍😍",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [
+      "https://i.redd.it/1ni13pesxefh1.jpeg"
+    ],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/buildinpublic/comments/1v6esq9/just_crossed_400_users/"
+  },
+  {
+    "subreddit": "sideproject",
+    "title": "I built a physical button for capturing notes without unlocking the iPhone",
+    "author": "Prudent_Front628",
+    "score": 66,
+    "created_utc": 1786423189,
+    "url": "https://v.redd.it/1wjxptv7doih1",
+    "selftext": "I’m Ryan, founder of SpeakON. I kept losing thoughts in the few seconds it took to unlock my phone, find an app, and start recording, so I built a hardware-triggered capture flow instead.\n\n\n\nThe video shows the current version: with the iPhone locked, one press starts voice capture and the result is saved as a Note for later.\n\n\n\nThe part I’m still testing is whether a separate physical trigger removes enough friction to justify carrying another object. If you already use the iPhone Action Button or Shortcuts for capture, what would this need to do better?",
+    "is_video": true,
+    "is_gallery": false,
+    "images": [],
+    "videos": [
+      {
+        "src": "https://v.redd.it/1wjxptv7doih1/HLSPlaylist.m3u8?a=1789093927%2CNTU0MzZkY2JhNDJhNTk5YTUyMTZiZTQ4YjViMGYxM2U0YTFiMTA2NDZlMzQ1OWU0NTM2OTRmZTNkNzBhZDU0MQ%3D%3D&v=1&f=sd",
+        "poster": "https://external-preview.redd.it/eGszc3d0dzdkb2loMc0ygZwDWWRSLs-xJVZVIF0wReuTdYsProWUSdme0aUq.png?format=pjpg&auto=webp&s=c79938da059813ba4e9a3ff7fbd0947d867a64ec"
+      }
+    ],
+    "topic": "bip",
+    "permalink": "/r/SideProject/comments/1vl7kh5/i_built_a_physical_button_for_capturing_notes/"
+  },
+  {
+    "subreddit": "indiehackers",
+    "title": "I've manually submitted startups to 220+ directories. Only about 15 mattered.",
+    "author": "startupsubmit",
+    "score": 66,
+    "created_utc": 1785686086,
+    "url": "https://www.reddit.com/r/indiehackers/comments/1vdlnb1/ive_manually_submitted_startups_to_220/",
+    "selftext": "Did this by hand or manually for SaaS/AI founders over 5 months. No automation. The value distribution is absurdly lopsided.\n\nAbout 15 directories send actual humans. Product Hunt, BetaList, G2, Capterra, AlternativeTo, SaaSHub, Crunchbase, IH itself. If you do only these, you've captured most of the upside.\n\nAnother 60 or so send nobody, but they make you look real. They're why you show up when someone searches \"\\[your product\\] alternatives.\"\n\nThe remaining 145 are link farms. Nobody visits them. But I keep watching products get cited by ChatGPT and Perplexity after appearing across enough overlapping listings. The models seem to read that redundancy as \"this is an established company.\" Cynical, and the most interesting thing I've learned all year.\n\nThree things I got wrong:\n\nTailored 40-word descriptions get approved way more than one pasted blurb. Directory mods spot copy-paste instantly.\n\nNearly all these backlinks are Dofollow and Nofollow. Anyone selling you DR gains from directories is behind or hoping you are.\n\nApprovals trickle in for weeks. Checking results on day 5 and calling it dead is the most common mistake.\n\nZero budget? Do the top 15 yourself across two weekends. That's most of the value, and it costs nothing but boredom.\n\nDisclosure per Rule 1: I run **StartupSubmit**, we do this manually for founders who don't want the weekends. Not pitching, no tiers in the comments.\n\nWhat I actually want critique on: is that 145-directory tail defensible at all, or should I cut the list to 70 and charge less? I lean toward cutting. Tell me I'm wrong.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/indiehackers/comments/1vdlnb1/ive_manually_submitted_startups_to_220/"
+  },
+  {
+    "subreddit": "sideproject",
+    "title": "I built a free site that turns YouTube videos into live TV channels.",
+    "author": "MattRB4444",
+    "score": 52,
+    "created_utc": 1786462482,
+    "url": "https://www.reddit.com/r/SideProject/comments/1vlkub5/i_built_a_free_site_that_turns_youtube_videos/",
+    "selftext": "I’ve been working on a side project called PeekGuide that tries to bring back the simplicity of traditional TV, but using YouTube videos.\n\nInstead of searching through YouTube and deciding what to watch, you can open one of the **79 currently available channels** covering things like History, Sports, Science, Travel, Music, and more — and something is already playing.\n\nVideos run on a live schedule, so if you tune into a program halfway through, you join it halfway through — more like traditional TV than on-demand video. When it ends, the next scheduled video starts, or you can just flip through the channels until something catches your interest.\n\nThere’s also a live viewer counter that shows how many other people are currently watching PeekGuide, along with how many people are tuned into the same channel as you. I wanted it to give the experience a little more of that feeling that you’re watching something alongside other people rather than completely on your own.\n\nThe site is **completely free** and doesn’t require an account. I’m mainly building it because I miss the simplicity of turning on the TV and seeing what’s on instead of endlessly browsing thumbnails.\n\nI’m planning to keep PeekGuide free rather than put features behind a subscription. There’s an optional way to support the project with a donation for anyone who enjoys it and wants to help keep it running and growing, but there’s no requirement to donate.\n\nThere are currently 79 channels, and I’m adding more videos to each channel every week, so the programming library should continue to grow over time.\n\n[https://peekguide.com/](https://peekguide.com/)\n\nI’d genuinely be interested in feedback on the concept, especially whether this is something you could actually see yourself using instead of browsing YouTube normally.",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/SideProject/comments/1vlkub5/i_built_a_free_site_that_turns_youtube_videos/"
+  },
+  {
+    "subreddit": "indiehackers",
+    "title": "Share what you're building",
+    "author": "amacg",
+    "score": 51,
+    "created_utc": 1785411193,
+    "url": "https://www.reddit.com/r/indiehackers/comments/1var1pr/share_what_youre_building/",
+    "selftext": "Pitch your product in 1-2 lines - and drop a link here.\n\nI'm building a community where makers can share what they’re building and get fair visibility. Here's the link: [https://trylaunch.ai](https://trylaunch.ai/)",
+    "is_video": false,
+    "is_gallery": false,
+    "images": [],
+    "videos": [],
+    "topic": "bip",
+    "permalink": "/r/indiehackers/comments/1var1pr/share_what_youre_building/"
+  }
+]

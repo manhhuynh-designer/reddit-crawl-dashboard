@@ -501,6 +501,68 @@ body {
     outline: none;
 }
 
+/* Video Preview for Social Media (Anti-403 Hotlink Protection) */
+.media-container.video-preview-mode {
+    cursor: pointer;
+    position: relative;
+    max-height: 280px;
+    background: #000;
+}
+
+.media-container.video-preview-mode:hover img {
+    transform: scale(1.04);
+    filter: brightness(0.85);
+}
+
+.video-play-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(circle, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.65) 100%);
+    gap: 10px;
+    transition: all 0.25s ease;
+}
+
+.play-icon-circle {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: rgba(236, 72, 153, 0.85);
+    backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 1.25rem;
+    box-shadow: 0 4px 20px rgba(236, 72, 153, 0.5);
+    transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.media-container.video-preview-mode:hover .play-icon-circle {
+    transform: scale(1.15);
+    background: #ec4899;
+}
+
+.play-label {
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(8px);
+    padding: 5px 12px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
 /* Gallery Indicators */
 .gallery-badge {
     position: absolute;
@@ -804,3 +866,118 @@ body {
     .lightbox-nav.prev { left: 16px; }
     .lightbox-nav.next { right: 16px; }
 }
+
+/* Mode Switcher (Reddit vs Social Trends) */
+.mode-switcher {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    padding: 14px 20px;
+    border-bottom: 1px solid var(--glass-border);
+    background: rgba(0, 0, 0, 0.18);
+}
+
+.mode-btn {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--glass-border);
+    color: var(--text-secondary);
+    padding: 10px 12px;
+    border-radius: 12px;
+    font-family: var(--font-heading);
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    transition: all var(--transition-speed) ease;
+}
+
+.mode-btn:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.mode-btn.active[data-mode="reddit"] {
+    background: linear-gradient(135deg, rgba(255, 69, 0, 0.22), rgba(255, 115, 0, 0.14));
+    border-color: rgba(255, 69, 0, 0.45);
+    color: #fff;
+    box-shadow: 0 4px 16px rgba(255, 69, 0, 0.2);
+}
+
+.mode-btn.active[data-mode="social"] {
+    background: linear-gradient(135deg, rgba(236, 72, 153, 0.25), rgba(139, 92, 246, 0.25));
+    border-color: rgba(236, 72, 153, 0.5);
+    color: #fff;
+    box-shadow: 0 4px 16px rgba(236, 72, 153, 0.22);
+}
+
+/* AI Social Trend Radar Banner */
+.trend-radar-banner {
+    padding: 20px 26px;
+    border-radius: 20px;
+    border: 1px solid rgba(168, 85, 247, 0.3);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.trend-radar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.trend-radar-title {
+    font-family: var(--font-heading);
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #f3e8ff;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.trend-counts-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 0.8rem;
+}
+
+.plat-stat-pill {
+    padding: 4px 11px;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.06);
+    border: 1px solid var(--glass-border);
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+.trend-tags-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.trend-chip {
+    background: rgba(236, 72, 153, 0.14);
+    border: 1px solid rgba(236, 72, 153, 0.32);
+    color: #fbcfe8;
+    padding: 4px 11px;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.trend-chip:hover {
+    background: rgba(236, 72, 153, 0.3);
+    transform: translateY(-1px);
+}
+

@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="no-referrer">
     <meta name="description" content="Hệ thống lưu trữ và hiển thị bài viết Reddit tự động theo ngày với thiết kế Glassmorphic cao cấp.">
     <title>Reddit Daily Crawler Dashboard</title>
     <!-- Google Fonts: Outfit & Inter -->
@@ -21,11 +22,23 @@
         <aside class="sidebar glass" id="sidebar">
             <div class="sidebar-header">
                 <div class="logo">
-                    <i class="fa-brands fa-reddit logo-icon"></i>
-                    <span>Reddit<span class="logo-accent">Crawl</span></span>
+                    <i class="fa-brands fa-reddit logo-icon" id="brandIcon"></i>
+                    <span id="brandTitle">Reddit<span class="logo-accent">Crawl</span></span>
                 </div>
                 <button class="close-sidebar-btn" id="closeSidebar" aria-label="Close sidebar">
                     <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <!-- Mode Switcher: Reddit vs Social Trend Radar -->
+            <div class="mode-switcher">
+                <button class="mode-btn active" data-mode="reddit" id="modeRedditBtn">
+                    <i class="fa-brands fa-reddit-alien"></i>
+                    <span>Reddit</span>
+                </button>
+                <button class="mode-btn" data-mode="social" id="modeSocialBtn">
+                    <i class="fa-solid fa-fire-flame-curved"></i>
+                    <span>Social Trends</span>
                 </button>
             </div>
             
@@ -67,10 +80,13 @@
                     <!-- Search input -->
                     <div class="search-bar glass-input">
                         <i class="fa-solid fa-magnifying-glass search-icon"></i>
-                        <input type="text" id="searchInput" placeholder="Tìm kiếm bài viết hoặc tác giả...">
+                        <input type="text" id="searchInput" placeholder="Tìm kiếm bài viết, #hashtag hoặc tác giả...">
                     </div>
                 </div>
             </header>
+
+            <!-- AI Social Trend Summary Banner (Visible in Social Trends Mode) -->
+            <section class="trend-radar-banner glass" id="trendRadarBanner" style="display: none;"></section>
 
             <!-- Filters Bar -->
             <section class="filters-container glass">
